@@ -1,4 +1,4 @@
-# Choosing the Right Ruler: An Audience-Specific Audit of Political Event Databases
+# Measurement validity in political event databases is audience-specific: evidence from China and its 25 trading partners
 
 > **No event database is universally best—only best matched to its audience.** The same bilateral relationships between China and its 25 trading partners, measured by GDELT, ICEWS, Phoenix, and the Tsinghua index, yield four different worlds. A three-layer audit shows why.
 
