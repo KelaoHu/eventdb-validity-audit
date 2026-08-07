@@ -1,0 +1,15 @@
+﻿,Variable,Coefficient,Std. error,z-statistic,P-value
+"# Table S10_Baseline | Baseline PPML regression results (GDELT, total trade, h=0)",,,,,
+,Political shock (z-scored monthly GDELT index),0.013*,(0.006),2.22,0.026
+,ln(GDP_i \times GDP_j),0.769***,(0.214),3.60,0.000
+,ln(exchange rate),-0.045,(0.147),-0.30,0.761
+,FTA dummy,-0.101,(0.079),-1.28,0.201
+,Observations,6685,,,
+,Pseudo R-squared,0.9699,,,
+,Log-likelihood,-793162.43,,,
+,Deviance,1517049.91,,,
+,Country FE,Yes,,,
+,YearMonth FE,Yes,,,
+,Clustering,Country,,,
+,,,,,
+"# Notes: Dependent variable: total bilateral trade (Trade_Total). Political shock = AR(1) residual of z-scored GDELT aggregated index. Controls: ln(GDP_i×GDP_j), ln(exchange rate), FTA dummy. Fixed effects: country (ISO) and year-month (YearMonth). Standard errors clustered at country level. ***p<0.001, **p<0.01, *p<0.05.",,,,,

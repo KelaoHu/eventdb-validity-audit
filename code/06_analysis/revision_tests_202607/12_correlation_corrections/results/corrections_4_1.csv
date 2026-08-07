@@ -1,0 +1,9 @@
+﻿项目,初稿值,正确值,说明
+印尼 GDELT-清华 相关,Spearman -0.33 (n=55),Pearson=-0.3302; Spearman=-0.401; n=207,"-0.33是Pearson不是Spearman; n=207; ""55""系误读summary表组合数"
+印尼 Phoenix-GDELT 相关,Spearman≈0.11,"基准(几何,Agg) Spearman=0.2463; Pearson=0.2211",0.11只在跨组合Pearson中位数意义上接近; 基准应为0.246
+巴西 GDELT-ICEWS,Spearman 0.03(4.1节) / r=0.02(摘要),Spearman=0.0307; Pearson=0.0185,统一为Spearman 0.031; 摘要0.02系Pearson混用
+日本 GDELT-ICEWS,Spearman 0.63 (n=207),Spearman=0.6332; n=207,"一致,保留"
+五算法GDELT-ICEWS Spearman中位数,"几何0.23/绝对值0.25/算术0.22/中位数0.21/SQM0.18, 排序稳定",几何0.234/绝对值0.276/算术0.239/中位数0.219/SQM0.116,"真实排序: 绝对值>算术>几何>中位数>SQM; ""几何>算术""与实际相反"
+CCC与Pearson/Spearman关系,CCC在所有配对和算法下均低于Spearman,"6配对中5个CCC中位数低于Pearson与Spearman中位数; 例外: Phoenix-清华(CCC -0.003 vs Spearman -0.021, 均≈0)","改为""CCC中位数普遍低于Pearson/Spearman中位数(Phoenix-清华配对除外, 两者均接近零)""; 逐行比较有462/2250行CCC>Spearman"
+印度 清华-三开源库符号,全部为负,"基准(几何,Agg) Spearman: GDELT -0.2259, ICEWS -0.2871, Phoenix -0.1359","基准下全负成立; 但SQM算法下 GDELT-清华=0.076, Phoenix-清华=0.1118 为正, 需注明跨算法例外"
+中越/中韩/中菲 GDELT-ICEWS(东亚梯度句),四库一致性最高 r中位数0.41-0.63,单配对Spearman: 日本0.6332/越南0.5925/菲律宾0.5886/韩国0.4772,"改为""GDELT-ICEWS配对在东亚最高(0.48-0.63)""; 0.41无出处; 菲律宾无清华数据无四库一致性可言"

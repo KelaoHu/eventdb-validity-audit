@@ -1,0 +1,10 @@
+# Python dependencies (Python >= 3.12)
+pandas>=2.0
+numpy>=1.26
+requests>=2.31
+ddgs>=6.0            # DuckDuckGo search (event verification)
+beautifulsoup4>=4.12  # bs4
+pyDataverse>=0.3     # ICEWS Harvard Dataverse download
+sdmx>=2.0            # IMF/BIS SDMX API
+scipy>=1.11
+urllib3>=2.0

@@ -1,0 +1,9 @@
+category,trade,test,pvalue,note
+人文交流合作,Trade_Exports,pre_trend_joint,0.37730727365625,"H0: h=-3,-2,-1 系数联合为0"
+人文交流合作,Trade_Exports,post_event_joint,0.00909449984766703,"H0: h=0,1,3,6,12 系数联合为0"
+战略定位负面,Trade_Imports,pre_trend_joint,0.00910017068496784,"H0: h=-3,-2,-1 系数联合为0"
+战略定位负面,Trade_Imports,post_event_joint,0.000346166197397227,"H0: h=0,1,3,6,12 系数联合为0"
+经贸互利合作,Trade_Total,pre_trend_joint,0.0206714799477923,"H0: h=-3,-2,-1 系数联合为0"
+经贸互利合作,Trade_Total,post_event_joint,0.0275890591355109,"H0: h=0,1,3,6,12 系数联合为0"
+经贸互利合作,Trade_Exports,pre_trend_joint,5.40491007545485e-06,"H0: h=-3,-2,-1 系数联合为0"
+经贸互利合作,Trade_Exports,post_event_joint,0.0459011897655294,"H0: h=0,1,3,6,12 系数联合为0"

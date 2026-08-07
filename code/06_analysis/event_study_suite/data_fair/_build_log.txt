@@ -1,0 +1,12 @@
+icews_scores.csv: 21600 -> 19200 rows (cutoff 2023-04)
+  G0 icews_scores.csv: value mismatches=0, series=75, max constant tail=2 months
+phoenix_scores.csv: 16200 -> 15525 rows (cutoff 2019-03)
+  G0 phoenix_scores.csv: value mismatches=0, series=75, max constant tail=6 months
+gdelt_scores.csv: copied as-is
+tsinghua_scores.csv: copied as-is
+-- scores_v1_4DB_2019.csv: cols=['country', 'month', 'value', 'zscore', 'db'], rows=9720
+-- scores_v2_3DB_2025.csv: cols=['country', 'month', 'value', 'zscore', 'db'], rows=9656
+-- scores_v3_GDELT_ICEWS_2025.csv: cols=['country', 'month', 'value', 'zscore', 'db'], rows=14400
+scores_v1_4DB_2019.csv: 9720 -> 9621 rows; subset mismatches=0; GDELT: n=11 maxtail=1m; ICEWS: n=11 maxtail=1m; Phoenix: n=11 maxtail=3m; Tsinghua: n=12 maxtail=14m
+scores_v2_3DB_2025.csv: 9656 -> 9348 rows; subset mismatches=0; GDELT: n=11 maxtail=1m; ICEWS: n=11 maxtail=2m; Tsinghua: n=12 maxtail=82m
+scores_v3_GDELT_ICEWS_2025.csv: 14400 -> 13600 rows; subset mismatches=0; GDELT: n=25 maxtail=1m; ICEWS: n=25 maxtail=2m

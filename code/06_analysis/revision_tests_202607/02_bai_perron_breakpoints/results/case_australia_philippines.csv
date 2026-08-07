@@ -1,0 +1,11 @@
+"country","record_type","seg_id","seg_start","seg_end","n_months","seg_mean","ar1","half_life_months","break_date","event_date","event_name","event_impact"
+"Australia","segment",1,"2002-01","2017-11",191,1.2587,0.2525,0.5,NA,NA,NA,NA
+"Australia","segment",2,"2017-12","2025-12",97,0.045,0.6,1.36,NA,NA,NA,NA
+"Australia","event_near_break",NA,NA,NA,NA,NA,NA,NA,"2017-12","2017-12","Foreign Interference Laws","negative"
+"Philippines","segment",1,"2002-01","2010-04",100,0.6577,0.0786,0.27,NA,NA,NA,NA
+"Philippines","segment",2,"2010-05","2016-04",72,-1.2293,0.253,0.5,NA,NA,NA,NA
+"Philippines","segment",3,"2016-05","2023-06",86,0.1569,0.3947,0.75,NA,NA,NA,NA
+"Philippines","segment",4,"2023-07","2025-12",30,-2.1246,0.1376,0.35,NA,NA,NA,NA
+"Philippines","event_near_break",NA,NA,NA,NA,NA,NA,NA,"2010-05",NA,"(no 713-event within +/-3 months)",NA
+"Philippines","event_near_break",NA,NA,NA,NA,NA,NA,NA,"2016-05","2016-07","South China Sea tribunal ruling","negative"
+"Philippines","event_near_break",NA,NA,NA,NA,NA,NA,NA,"2023-07","2023-08","Second Thomas Shoal water cannon","negative"

@@ -1,0 +1,18 @@
+﻿Panel A: Negative event effect (FE regression)
+Variable,beta,SE,p,N,Direction_consistency
+has_negative,-0.190,0.070,0.016,170,13/14 countries lower in negative years
+
+"Panel B: Signal cost gradient (E2, exploratory)"
+Visit_level,beta,SE,p,Nonzero_obs_out_of_170
+state_head,0.157,0.058,0.016,80
+gov_head,0.277,0.076,0.002,38
+third_party,-0.208,0.127,0.120,46
+
+Panel C: Interaction effects (all non-significant)
+Interaction_term,GDELT_p,ICEWS_p,Phoenix_p
+score x has_any_event (E1a),0.507,0.091,0.594
+score x has_positive (E4a),0.534,0.207,0.749
+score x has_conflict (E4b),0.584,0.872,0.882
+
+Notes:
+All interaction terms non-significant (p > 0.05). E1b skipped per pre-registration rule (E1a non-significant). E5 case enumeration in Table_S8_5.

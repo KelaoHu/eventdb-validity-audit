@@ -1,0 +1,649 @@
+﻿country,db,node,valence,node_date,col,archive,full_repl
+Australia,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.5912102499874821,0.6103464238405671
+Belgium,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.8091858979889552,-1.138039613456703
+Brazil,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.1972277317379104,0.2505440314272294
+Canada,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,1.659360495129728,2.2399354785055996
+France,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.8974164776844403,-0.8281900021747477
+Germany,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.8833008395962691,-0.8119049247364283
+India,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.01335054761533122,-0.01803280479151224
+Indonesia,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.3489026987579282,-0.4334016811263935
+Iran,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.6436831210642088,-0.7318702504727804
+Italy,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.15672829405521962,-0.2136705602586523
+Japan,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.022711947844245857,0.020736431257935197
+Malaysia,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.6282935689161784,-0.5089258506439048
+Mexico,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,1.1776807620541527,1.6127027695184835
+Netherlands,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.270050056023947,-0.46130397167443954
+Philippines,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.08829671084408991,-0.1384695580688626
+Russia,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.2132159585290938,0.17102691038990284
+Saudi Arabia,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.9415912346450335,-1.3673279920608534
+Singapore,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.5694011498083207,0.5447488981963345
+South Korea,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.8163695483687194,-0.7934887590867016
+Spain,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.5179976874104057,0.7476870233228753
+Thailand,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.05294888130298248,0.05990651823650423
+United Arab Emirates,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.603170692491387,-0.7502003599758411
+United Kingdom,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,1.4366289018456622,1.358402151915612
+Vietnam,GDELT,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.31014223615891456,-0.4169961424154169
+Australia,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.6494740956440339,-0.6704961418747657
+Belgium,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.004683570457329256,-0.006586976770236579
+Brazil,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.31091387860465053,0.39496279699551073
+Canada,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.19702477247135192,0.26595955447798725
+France,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.041956981652762945,-0.038720430915094375
+Germany,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.34935340411246957,0.32111567945751524
+India,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.3141496204458828,0.4243270721212068
+Indonesia,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.5547932732209748,0.6891558539030113
+Iran,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.3536782649594628,-0.4021335838893933
+Italy,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.1578620302811332,0.21521620366679875
+Japan,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.771527478749658,0.7044189532494722
+Malaysia,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.7049349689539991,-0.5710063678391897
+Mexico,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.024426674003668547,-0.03344961222524415
+Netherlands,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.7107220122611658,1.2140670949664691
+Philippines,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.6998105701482603,-1.0974639876614896
+Russia,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.19427128305839558,0.15583081842546978
+Saudi Arabia,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.08801031134309731,0.12780382597207787
+Singapore,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.6696062674992156,-0.6406156302430204
+South Korea,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.11217951352078036,-0.10903540333715436
+Spain,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.4707658910563521,-0.6795118131231913
+Thailand,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.3178352980598059,0.359599780219568
+United Arab Emirates,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.5040788324028539,-0.6269537400148509
+United Kingdom,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.04169386643003211,0.039423568471631754
+Vietnam,GDELT,Pivot to Asia announced,negative,2011-10-01,avg_shock,1.0140287071601464,1.363393984712261
+Australia,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.438795586326933,-0.4529984331586588
+Belgium,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.8391219851079278,1.1801417473395983
+Brazil,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.5129641304903333,0.6516330137660241
+Canada,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.305800161059685,0.41279314055066985
+France,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,1.0447632710559125,0.9641705019284771
+Germany,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.12673521087250317,-0.11649138915335602
+India,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.032227871262343964,-0.04353071709601301
+Indonesia,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,1.350694554057177,1.6778124459931334
+Iran,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.22019566817537525,-0.25036334424008866
+Italy,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.07985537499455596,-0.10886829859029727
+Japan,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.5637619274843524,-0.5147251365356615
+Malaysia,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.7703971114181176,0.6240315429909803
+Mexico,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.3456982662860232,-0.4733953117182465
+Netherlands,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.44366094223810004,-0.7578689586093292
+Philippines,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.5928256122433327,0.9296869583758876
+Russia,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.4728200581374533,-0.37926313898585917
+Saudi Arabia,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.3993722539380248,-0.5799468410172259
+Singapore,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.08344510139957151,-0.07983234150932124
+South Korea,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.49198576144425604,-0.47819663547813807
+Spain,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.028057893050806363,0.040499259061841944
+Thailand,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.4633948910445027,0.5242863268859409
+United Arab Emirates,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.5052434406022583,0.6284022346139757
+United Kingdom,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.4640456301455783,0.4387776006503518
+Vietnam,GDELT,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.4343181481907736,0.5839546223035585
+Australia,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.223958438601497,-0.2312074800669223
+Belgium,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.2521470191341451,-0.3546197442427487
+Brazil,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.22932005958699755,0.2913118338368798
+Canada,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.14049713934822355,-0.18965410348040582
+France,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.23114831607676142,0.21331759462256814
+Germany,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,1.0488796271036702,0.9641002210418089
+India,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.39591053298068435,0.5347628847782744
+Indonesia,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.1585549360894675,-0.19695455522899316
+Iran,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.24165032583263643,0.27475737471810896
+Italy,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.02730903987881413,0.03723091536347757
+Japan,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.9645065043548244,0.8806123967237041
+Malaysia,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.17894872756939917,0.14495076490596845
+Mexico,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.1680722387229682,-0.2301562304498602
+Netherlands,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.7013897991136175,-1.1981256541356085
+Philippines,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.012538312380459073,0.019662958649922783
+Russia,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,1.1030028476654103,0.8847516409600223
+Saudi Arabia,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.3752848773823892,0.5449684522982114
+Singapore,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.006349322775287385,-0.006074428524239973
+South Korea,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,1.0673585016963847,1.0374431220567524
+Spain,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.6576106174697464,-0.9492067957668558
+Thailand,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.007218020953816897,-0.008166489891014
+United Arab Emirates,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.5251079113365018,-0.6531088944054273
+United Kingdom,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.23779628318708473,0.22484789383248288
+Vietnam,GDELT,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.1992786404178351,-0.2679364969737538
+Australia,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.2813210162660809,-0.29042675804898854
+Belgium,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.20390542326791944,-0.2867727300417138
+Brazil,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.01553719173717198,0.019737339270634906
+Canada,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.3764556788596195,0.5081695229201225
+France,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.18250759525908514,0.16842900645699882
+Germany,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.3282394584086157,0.3017083431015214
+India,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.36857121270521176,0.4978352141039956
+Indonesia,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.17860487811931927,0.22186029145046457
+Iran,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.038628641517485955,-0.04392091794497361
+Italy,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.06433931941560526,0.08771497520000547
+Japan,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.3206889456179596,0.29279497829030515
+Malaysia,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.21924438137495703,0.17759076140572852
+Mexico,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.07006795898890215,0.09595027375569375
+Netherlands,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.4938497231933579,-0.8436022642380675
+Philippines,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.041841627223414175,-0.06561729848282406
+Russia,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.9736209010103181,0.7809705039883624
+Saudi Arabia,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.31588234983610347,0.4587073065646042
+Singapore,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.2574201724254128,0.2462751530260519
+South Korea,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.4314030371075626,0.4193118928366809
+Spain,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.10286319376958798,-0.14847455312697683
+Thailand,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.5209707174061744,0.5894277842130667
+United Arab Emirates,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.5344849763871062,-0.6647717249508304
+United Kingdom,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.010117917013536608,0.009566980189827776
+Vietnam,GDELT,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.2514574438282087,-0.3380925647427028
+Australia,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,0.1288438747004818,0.13301426718983003
+Belgium,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.41022166531128085,-0.5769360372970652
+Brazil,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.039098529922367994,-0.049667981390394474
+Canada,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.6170812813641079,-0.8329849115403342
+France,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.5942167442447732,-0.5483790179317353
+Germany,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.7803556798370997,-0.7172806716626391
+India,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.1114895907513089,-0.15059082849868993
+Indonesia,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,0.09995680029037604,0.12416483288918594
+Iran,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.865199230101459,-0.9837349411870739
+Italy,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.07980431340000683,-0.1087986853811393
+Japan,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.5036310001665927,-0.4598244803105054
+Malaysia,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,0.7451009682853647,0.6035413425516315
+Mexico,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.2125629643539446,-0.29108132896111844
+Netherlands,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,0.0460997020319571,0.078748273388487125
+Philippines,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,0.48987278744786744,0.7682332415263282
+Russia,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-1.2859137577322468,-1.0314699637401055
+Saudi Arabia,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.1238764634335817,-0.17988671705731482
+Singapore,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.21512102414241496,-0.20580734850973995
+South Korea,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-1.2030898991999466,-1.1693703091859338
+Spain,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,1.0202258558080672,1.4726120440028112
+Thailand,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.4775075320031968,-0.5402534098941633
+United Arab Emirates,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,0.6548134329569448,0.8144316015956479
+United Kingdom,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,-0.914178365156631,-0.8643998856406645
+Vietnam,GDELT,Trade War Begins,negative,2018-07-01,avg_shock,0.48751210975748815,0.6554756026377178
+Australia,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.22950339143393036,-0.23693191081167342
+Belgium,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.014814144173208258,-0.02083462273683856
+Brazil,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.3756211626679033,-0.47716231158232264
+Canada,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-2.066769949819805,-2.789888845792181
+France,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.06792354510450864,-0.0626839403628602
+Germany,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.29035751691105427,-0.2668883435252668
+India,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.06166678976952943,-0.08329434972061682
+Indonesia,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.658201799314608,-0.8176083686337096
+Iran,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.5969487698410388,-0.6787331085840275
+Italy,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.48179152794405267,0.6568352340223119
+Japan,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.6412693283682069,-0.5854908366610456
+Malaysia,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.1131769030088898,0.09167474328346382
+Mexico,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.20236858862884163,0.277121265678171
+Netherlands,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.13670042879699354,-0.23351393316526506
+Philippines,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.7004158518756745,-1.0984132086743787
+Russia,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.0701853692315096,0.056297788106708255
+Saudi Arabia,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.17625695242953124,0.2559508372474286
+Singapore,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.28963799687522646,-0.27709810513499494
+South Korea,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.31558524661539133,-0.30674018429925126
+Spain,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.5072081267326389,-0.7321131806162585
+Thailand,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.014140500433021114,0.015998603298467758
+United Arab Emirates,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.3516086527768912,0.43731723236471914
+United Kingdom,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.7791717679396094,-0.7367446143685927
+Vietnam,GDELT,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.28582442194639,-0.3843000644990843
+Australia,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.23267942146921383,-0.24021074194507563
+Belgium,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.44720234350698285,-0.6289456890023126
+Brazil,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.2902316817646393,0.3686896105150524
+Canada,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.05562789440787928,0.07509091282122542
+France,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.5788623456910608,0.534209053720244
+Germany,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,1.0339859508160796,0.9504103788235537
+India,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.5923989641656902,0.8001630485349115
+Indonesia,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.1990376002632427,0.24724151136848255
+Iran,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.09089787532824772,0.10335124319236612
+Italy,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.8655558678717296,-1.1800282031919254
+Japan,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.4707927668245416,0.4298425618507025
+Malaysia,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.9365889748578875,-0.758649084305436
+Mexico,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.031182295806170515,0.04270068462258129
+Netherlands,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.06937490118042616,-0.11850735348936373
+Philippines,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.14978042861377405,0.2348901738156007
+Russia,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,1.2396444956822004,0.9943560019661775
+Saudi Arabia,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.2152915736707635,-0.3126348082943247
+Singapore,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.37178650407350794,0.35568998855462264
+South Korea,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.36529415698492146,-0.35505587868482336
+Spain,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.2230633082536477,0.32197352423425585
+Thailand,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.51470095973664,0.582334162158633
+United Arab Emirates,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.07463259388831747,0.0928251314228868
+United Kingdom,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.13850942111373507,0.13096736078451568
+Vietnam,GDELT,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.05349398807477564,0.07192437555705226
+Australia,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.5772990724432048,-0.5959849721138072
+Belgium,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.002741542485050969,0.003855707270376937
+Brazil,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.8531058879250851,-1.083724821614285
+Canada,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.419790479425409,0.566666249536293
+France,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.8644467787501383,-0.7977635773083864
+Germany,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.07876795567718306,-0.07240125703373738
+India,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-1.042003264537269,-1.4074509902456047
+Indonesia,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.6862621958933537,-0.8524645709319304
+Iran,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.7410835794029654,-0.8426149562259684
+Italy,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.2512077759281835,-0.3424761722027904
+Japan,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.5743656811856087,-0.5244065610973107
+Malaysia,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.5632032390020102,0.4562018484272278
+Mexico,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.9300229247324148,-1.2735629168430609
+Netherlands,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.08452651498580502,-0.14438959076273333
+Philippines,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.08815138479988122,-0.13824165339466685
+Russia,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-1.0338672011846257,-0.8292958669317206
+Saudi Arabia,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.45691791228397716,0.6635115414762883
+Singapore,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-1.0627429214992998,-1.0167314129021054
+South Korea,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.9113341859201354,-0.8857917762170727
+Spain,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.45121455680196165,0.6512910714752199
+Thailand,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.48555947712341413,-0.5493634040113848
+United Arab Emirates,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.31614914975287345,-0.3932140750589413
+United Kingdom,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.25027088075315695,0.23664322953557484
+Vietnam,GDELT,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.27882664796263146,-0.3748913338699959
+Australia,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-1.1505968488304288,-1.1878391350297917
+Belgium,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.314646552649626,-0.44251913193592507
+Brazil,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.5993453700386521,-0.7613655742199302
+Canada,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.1490048366844638,-0.201138463364689
+France,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.46984397906858527,-0.43360033576676826
+Germany,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,0.24075874087712099,0.22129856400999373
+India,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-1.3810851025330377,-1.8654544197006715
+Indonesia,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,0.529546775831817,0.6577950348266137
+Iran,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.003098047701091622,-0.003522492469937379
+Italy,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,0.6147084572687846,0.8380433236520562
+Japan,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.6383005569296292,-0.5827802930617574
+Malaysia,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,0.28945190053273134,0.23445975255361567
+Mexico,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-1.0138517128504998,-1.3883571149987726
+Netherlands,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,0.08080197001537519,0.13802726144928557
+Philippines,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.29669093587933115,-0.4652796506405548
+Russia,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,0.14454950757208837,0.11594749215295135
+Saudi Arabia,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,1.4950875543410804,2.171085486371403
+Singapore,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.10666017850046383,-0.10204232067165911
+South Korea,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.40149649608651766,-0.39024355709242997
+Spain,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,1.013572268627797,1.4630081385913682
+Thailand,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.6897670034999412,-0.7804043930155802
+United Arab Emirates,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.003429566476295736,-0.004265562032616473
+United Kingdom,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.4907676759409292,-0.46404458815516825
+Vietnam,GDELT,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.9159831701415603,-1.231568628629997
+Australia,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,0.021870286212502674,0.022578179215352545
+Belgium,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-1.0625207389874698,-1.4943299112011155
+Brazil,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,1.4443648119620078,1.8348179520792758
+Canada,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.30784164484964677,-0.4155488961464855
+France,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,0.2609448506288329,0.24081563218830718
+Germany,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.0879516975280786,-0.08084269046389049
+India,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,0.5688299069561359,0.7683279343488982
+Indonesia,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,0.7750698508037019,0.9627801032337939
+Iran,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,0.19767031018899978,0.22475192325980617
+Italy,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,0.22997243247856972,0.3135256386726721
+Japan,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.5463084513924802,-0.49878978789568057
+Malaysia,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.8211803448189423,-0.6651666134987777
+Mexico,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.3571424181826686,-0.4890668044123436
+Netherlands,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.07628588553576617,-0.13031281125611022
+Philippines,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.42850203151797955,-0.671989775934853
+Russia,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,1.049642709511627,0.8419498749506797
+Saudi Arabia,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,0.24245659786879517,0.3520823908803942
+Singapore,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.2277058728931805,-0.2178473355966202
+South Korea,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.5861028521997707,-0.5696758604218808
+Spain,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.32297997339268725,-0.4661950058235505
+Thailand,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.471137355525364,-0.5330461737080885
+United Arab Emirates,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,0.4409691733244648,0.5484603888823503
+United Kingdom,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,0.4247265341734454,0.40159949257296085
+Vietnam,GDELT,Anchorage Talks,negative,2021-03-01,avg_shock,-0.8698614383960874,-1.1695564871765314
+Australia,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.4657651970614608,0.48084099080129056
+Belgium,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.7784299452637297,1.0947844200111716
+Brazil,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.3123757090754909,-0.3968198020738542
+Canada,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.8413076063717427,1.1356632638776685
+France,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.506529389355208,0.46745584297057396
+Germany,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.351717991118625,-0.3232891403546462
+India,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.5527140325772635,-0.7465599571024064
+Indonesia,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.2672121634519482,-0.33192692767861076
+Iran,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.36030569914902444,-0.4096690027338195
+Italy,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.2578817588373587,0.35157493561342074
+Japan,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.15271426076754427,-0.13943096348360368
+Malaysia,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.39604882827903537,-0.3208046314657094
+Mexico,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.9286541399734757,1.271688518412908
+Netherlands,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.3204920669120268,0.5474698488622345
+Philippines,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.3481356622490353,0.5459568180830079
+Russia,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.8046869731651156,0.6454635375365366
+Saudi Arabia,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.40103131287926724,0.5823560369053918
+Singapore,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.7670525313969914,0.7338429532112516
+South Korea,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.10646419947903298,0.10348027520206057
+Spain,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.7759086929828976,1.1199603301840366
+Thailand,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.12831941169797037,-0.1451809554387876
+United Arab Emirates,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.015767348268899504,-0.019610817459208358
+United Kingdom,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.45706823880382813,0.43218013946798667
+Vietnam,GDELT,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.12661558240055107,0.17023869462157906
+Australia,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,0.054353765817980786,0.0561130775218709
+Belgium,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.08215523751899476,-0.11554318356501628
+Brazil,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.37454008494443625,-0.4757889876144564
+Canada,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.34409832229922854,-0.4644910147460388
+France,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.7200039105162557,-0.6644629946564926
+Germany,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.5376424971792926,-0.4941856405423285
+India,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,0.5272750398597582,0.712199090193795
+Indonesia,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.41057788151636787,-0.5100136648870319
+Iran,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,1.4218438069513597,1.6166420231840455
+Italy,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.8518799788912668,-1.1613836127042558
+Japan,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.06793223910349137,-0.06202339913897135
+Malaysia,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.17000867163144326,-0.13770920491216357
+Mexico,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,0.7268518331718807,0.9953427126900614
+Netherlands,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.42478669214902165,-0.7256276524727497
+Philippines,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.23020022513316132,-0.36100691788877803
+Russia,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,0.41651509716476354,0.3340992423375264
+Saudi Arabia,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,0.3622691739466033,0.5260677499665654
+Singapore,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.09585791909410825,-0.09170774563326282
+South Korea,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,0.20002702331459124,0.19442076793635493
+Spain,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,0.05938299428062361,0.08571446419315976
+Thailand,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.14424504799130425,-0.1631992666392698
+United Arab Emirates,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.17599506361488432,-0.21889584776160628
+United Kingdom,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,0.136734163923474,0.1292887691980899
+Vietnam,GDELT,Biden hikes tariffs on China EVs,negative,2024-05-01,avg_shock,-0.7081565233741008,-0.9521390640970432
+Australia,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.31425474435929,0.3244264783952671
+Belgium,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.21259138511799952,0.29898867286885844
+Brazil,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.5441867088585969,-0.6912959485217337
+Canada,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.07394668087886891,0.09981905348744655
+France,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.9056208365911199,-0.835761478952506
+Germany,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.5376993878762245,-0.49423793284744166
+India,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.34062471963583324,-0.4600874251257569
+Indonesia,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.06550085843229826,0.08136418050316076
+Iran,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.11641059337317534,-0.13235930435592722
+Italy,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.2322138019129596,0.3165813387661342
+Japan,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.537357246769401,-0.49061717141139166
+Malaysia,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.499085841602056,0.4042659340279538
+Mexico,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.11788283470999579,-0.16142742595531853
+Netherlands,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.028787376682200185,0.04917507292207159
+Philippines,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.3139248211391526,-0.4923063479311332
+Russia,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.30402972305303394,-0.24387135259091347
+Saudi Arabia,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.05943693861763873,0.0863111156349472
+Singapore,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.29229586987495865,0.279640905388625
+South Korea,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.1508865210471839,0.14665755060055707
+Spain,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.24256968524803146,0.35012937377801895
+Thailand,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.10035705071053261,0.11354425892683867
+United Arab Emirates,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,-0.6204148840209273,-0.7716480179174414
+United Kingdom,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.2552072517406988,0.24131080719847445
+Vietnam,GDELT,US-China reciprocal tariff war escalates in April 2025,negative,2025-04-01,avg_shock,0.3347245859154817,0.4500478968199431
+Australia,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.13428905069368902,-0.1386356915387938
+Belgium,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.04497464397689886,0.06325237077663637
+Brazil,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.6136542265624212,0.7795425241193635
+Canada,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.635984859046747,0.858502449439005
+France,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.40689435152321746,-0.3755066262460592
+Germany,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.1751045405712595,0.16095109668241253
+India,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.2732639579707982,-0.369102133682113
+Indonesia,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.16824299079053132,-0.2089889109655152
+Iran,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.8256566857199644,0.9387749120768359
+Italy,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.6043400003040419,-0.8239078159440878
+Japan,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.11190696493528504,0.10217314259343066
+Malaysia,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.4491357539141364,0.36380572223529817
+Mexico,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.3537641357533724,0.4844406225084814
+Netherlands,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.5574258684171834,-0.952204086904977
+Philippines,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.1783607229262122,-0.2797106511027932
+Russia,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.023805453578146868,-0.019095067761286555
+Saudi Arabia,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.5221809704848345,-0.7582830336505646
+Singapore,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,1.236136466069811,1.1826178751808347
+South Korea,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.7581099124339472,0.7368619945104143
+Spain,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.1344598789366839,-0.1940817673166002
+Thailand,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.1068358906354315,-0.1208744372528252
+United Arab Emirates,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,0.18917138282527135,0.23528404357058985
+United Kingdom,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.5908023458105954,-0.5586322096644847
+Vietnam,GDELT,China-US economic and trade talks held in Madrid,positive,2025-09-01,avg_shock,-0.17978595655549814,-0.24172796092723853
+Australia,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.1637820366202462,0.23608644480615582
+Belgium,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.26381223992214203,-0.5249999509804292
+Brazil,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.32814343820763336,0.5570159432113746
+Canada,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.6919771061466262,1.565461876505414
+France,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.06788601121317836,-0.08351351806733602
+Germany,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.4180709244050277,0.6176157812566268
+India,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.03331120992643687,-0.055283827683587985
+Indonesia,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.38104468116557516,0.7288748651603213
+Iran,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.739386997897945,1.021159654378289
+Italy,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.31110166976716264,-0.6151243387780851
+Japan,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.5125064851978619,-0.4745398177668961
+Malaysia,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.2066659176229675,0.35208372324604476
+Mexico,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-1.8490706867194113,-3.8423507445618297
+Netherlands,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.21667480918686002,0.5605080951848974
+Philippines,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.8752613106917817,-1.5459945328159352
+Russia,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.26465846599249904,-0.17409887515153422
+Saudi Arabia,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.731846255425112,-1.26141291687545
+Singapore,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.2209359406760738,0.3717227047929068
+South Korea,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,-0.36657200720701827,-0.43154242226692985
+Spain,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.24712074757584568,0.5262620155704353
+Thailand,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.20461110242183428,0.371667797350478
+United Arab Emirates,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.5004556048294523,1.0615000697363408
+United Kingdom,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.40131564548164733,0.5511452203637216
+Vietnam,ICEWS,Financial Crisis Cooperation,positive,2008-09-01,avg_shock,0.43531487422036585,0.7195917760201603
+Australia,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.7846290742741754,-1.1310171277601293
+Belgium,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.07003576833423707,-0.1393747877399569
+Brazil,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.26740739471929414,-0.4539179055502412
+Canada,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.4745842042432433,1.0736532644434496
+France,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.3801318443121641,0.4676390184163738
+Germany,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,1.9693194419054934,2.9092737491545555
+India,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.24468965713484755,0.4060909486888197
+Indonesia,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.6560758618837405,1.2549636013884213
+Iran,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.8157832656890858,-1.1266697412951276
+Italy,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.6319281863679661,-1.2494770860142108
+Japan,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.18102144333411757,0.16761130875935915
+Malaysia,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.36062427577733425,-0.6143728930680808
+Mexico,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.037809898531477155,-0.0785685981707817
+Netherlands,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-1.4739843979583243,-3.8129960300063375
+Philippines,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-1.19692918377142,-2.1141640235599066
+Russia,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.0963163122917169,-0.0633592489318178
+Saudi Arabia,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,1.018681011297568,1.7558023646374827
+Singapore,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.49221997177283444,-0.82815561243947855
+South Korea,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.9048472431755774,-1.0652203753273017
+Spain,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.64018625938366025,1.3633242635782343
+Thailand,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,1.7429852584978691,3.166062272147397
+United Arab Emirates,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,-0.08912258539156086,-0.18903501068883913
+United Kingdom,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,1.036918701887946,1.4240481099743996
+Vietnam,ICEWS,Pivot to Asia announced,negative,2011-10-01,avg_shock,0.7227061370035728,1.194660287219609
+Australia,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.28110025223616014,0.4051968125077338
+Belgium,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.7007549631978987,1.3945384847828335
+Brazil,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.5042681407268582,0.8559835770986418
+Canada,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.3486681964662569,0.7887931035136977
+France,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.34487311834759543,0.4242636573478531
+Germany,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.4950718617026449,0.7313691931071172
+India,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.08612748351233201,0.14293857736875512
+Indonesia,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,1.3516046621603193,2.585394087823752
+Iran,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.17632640072117264,-0.24352254899003914
+Italy,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.20152166917737865,0.39845778904037055
+Japan,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.5145871087786001,-0.47646630799357864
+Malaysia,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.7834564722671384,1.3347255073778566
+Mexico,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.024296074304082413,0.050487004019217845
+Netherlands,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-2.5506616653763095,-6.598212855875972
+Philippines,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,1.0517267714865526,1.8576896052325775
+Russia,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.07693913184248644,-0.05061246107763706
+Saudi Arabia,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.13108975867294234,0.2259467936528313
+Singapore,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.504140309303558,-0.8482114715966883
+South Korea,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.5329970343433673,-0.6274642546061355
+Spain,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.6475221617976985,-1.3789466134954742
+Thailand,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.08675480737517818,-0.15758660104485475
+United Arab Emirates,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,-0.01961008374969253,-0.041594309399187956
+United Kingdom,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.20435472257020107,0.28064973262666226
+Vietnam,ICEWS,South China Sea Arbitration Ruling,negative,2016-07-01,avg_shock,0.2924697734657797,0.48346347938920986
+Australia,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.34954033843015964,0.5038509565469392
+Belgium,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.533440456558586,1.0615739953039607
+Brazil,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-1.2195073902642126,-2.070085761737657
+Canada,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.3476138749064426,-0.786407908696115
+France,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.11718730470571113,0.14416407613153398
+Germany,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,1.3954918780835661,2.0615588317853715
+India,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.4418141093373601,0.7332419069353576
+Indonesia,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.37818845188132266,-0.7234113753457978
+Iran,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.8865910513272303,1.2244616339238912
+Italy,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.07658785160785418,-0.15143297563775424
+Japan,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.07557216879724864,0.06997375495736481
+Malaysia,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.2394813086211027,0.40798924059156255
+Mexico,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.04260109252492494,0.0885246522796301
+Netherlands,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.4823887028737986,-1.2478735945410642
+Philippines,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.13622018287723597,-0.24060889635455812
+Russia,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.43391002324149425,0.2854367294846381
+Saudi Arabia,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,2.5767299375699397,4.441261265540481
+Singapore,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.5135080998750342,0.8639726937794935
+South Korea,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.11775620653986542,-0.13862705718955795
+Spain,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.8762867791152872,-1.86611788414649
+Thailand,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.8311165759700382,-1.5096896672567472
+United Arab Emirates,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.1990216403422908,0.4221383136959321
+United Kingdom,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,-0.5382226682216246,-0.7391659269245289
+Vietnam,ICEWS,Steel/aluminum tariffs imposed,negative,2018-03-01,avg_shock,0.22387562339806258,0.3700747826206381
+Australia,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.3402841462014304,0.49050845842677027
+Belgium,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.4521241780362773,0.8997504110353827
+Brazil,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.154453590287346,0.26218141903496367
+Canada,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.29525028531101516,0.6679456033676964
+France,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.21451355480903433,-0.26389503986286744
+Germany,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,1.005328624231271,1.4851710258441957
+India,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.08827664294293817,0.14650535743734389
+Indonesia,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.16345606656774128,0.3126641687131423
+Iran,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.4410954987195128,0.6091923827451559
+Italy,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.41070228863708735,0.8120592021303273
+Japan,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.0509843613644845,-0.04720742127101759
+Malaysia,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.34483943885675833,0.5874812593737093
+Mexico,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.2581649492098915,0.5364642314330947
+Netherlands,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.2621329528293072,-0.6781020951486675
+Philippines,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.05828216971730815,-0.10294516008298508
+Russia,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.28804246886893226,0.18948144975408907
+Saudi Arabia,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,2.09701925226641,3.614430151328451
+Singapore,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.2019396892657222,-0.33976168508025156
+South Korea,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.2316709027850642,-0.27273174326203425
+Spain,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.6878136328550168,-1.4647502984427059
+Thailand,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-0.8587816654561081,-1.5599421841098813
+United Arab Emirates,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.4344582228476113,0.9215151741729991
+United Kingdom,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,-1.0751794113049264,-1.4765933006748169
+Vietnam,ICEWS,US bans ZTE from tech exports,negative,2018-04-01,avg_shock,0.22440881440726623,0.37095616731018727
+Australia,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.5536077346634616,0.7980074285981225
+Belgium,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.34399897222433495,0.6845756800684968
+Brazil,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-0.5571614549958498,-0.9457687621934465
+Canada,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.14015578988777586,0.3170748625812552
+France,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-0.9503103895743614,-1.169073900071611
+Germany,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-1.166568718655368,-1.7233708648532187
+India,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-0.6502689814235356,-1.0791970149505294
+Indonesia,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.6102687685056083,1.1673422785891026
+Iran,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-0.8327241196341254,-1.1500665776048966
+Italy,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.19706802769076187,0.3896518469936428
+Japan,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-0.5164537073419777,-0.47819462825428133
+Malaysia,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-1.2116118332214296,-2.0641468621246832
+Mexico,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-0.5334382632862023,-1.1084794771972586
+Netherlands,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.07479140726561766,0.19347514083419112
+Philippines,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.316462377229898,0.5589749016241422
+Russia,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.023777114600754466,0.015641173203421208
+Saudi Arabia,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-0.2347958017031428,-0.40469491358458953
+Singapore,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.4389971858094173,0.738608760558363
+South Korea,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-0.8305061818712064,-0.9777032680783979
+Spain,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-0.08391445807820949,-0.1787020809743444
+Thailand,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.17796492403176023,0.32326609131974043
+United Arab Emirates,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.28636357771757437,0.6073964499223532
+United Kingdom,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,-1.2461519413817495,-1.7113977341083566
+Vietnam,ICEWS,Trade War Begins,negative,2018-07-01,avg_shock,0.587844253625972,0.9717285476347471
+Australia,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.6056489259444168,-0.8730231023956423
+Belgium,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.48938840673035816,0.97390814626211
+Brazil,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.9266265460789912,-1.5729272612859482
+Canada,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-1.899899520303797,-4.298148366192186
+France,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.4405025929245129,-0.5419072441505919
+Germany,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-1.062137755632693,-1.5690951019394948
+India,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.09783253122989702,0.1623644656050296
+Indonesia,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.06519813907510467,-0.12471315616244315
+Iran,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.174782506572418,-0.24139029291869768
+Italy,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.38370310142715397,0.7586751839973296
+Japan,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.879642383548716,-0.8144781548044053
+Malaysia,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,1.0215487211622547,1.740348294294998
+Mexico,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.6780694984561942,1.409021764808919
+Netherlands,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.24803659995498614,0.6416367583229826
+Philippines,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.5298912523486451,-0.9359593176471089
+Russia,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.5795565764334595,-0.38124662918056523
+Saudi Arabia,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,1.015652930193815,1.7505831528299403
+Singapore,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.24787820013131198,-0.417052810556989
+South Korea,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.14064855328010817,-0.1655767930379907
+Spain,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.22110234318791883,-0.47085388788615573
+Thailand,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.41426179352176773,0.7524898038390305
+United Arab Emirates,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.3494470890899219,-0.7412008295211792
+United Kingdom,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,0.13664580719574504,0.18766196724847511
+Vietnam,ICEWS,Huawei CFO Meng Wanzhou arrested,negative,2018-12-01,avg_shock,-0.5196500721624624,-0.8590010139352514
+Australia,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.5250509921249876,-0.756843818960119
+Belgium,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.4849502917321276,-0.9650760687314989
+Brazil,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.2642315949294187,0.4485270584101301
+Canada,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.5399737978793647,-1.2215843376657451
+France,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.40560147600697527,0.4989718145064773
+Germany,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.9773164790437575,1.4437887102495834
+India,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,1.069927765419542,1.7756695823407278
+Indonesia,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.42177623010142024,-0.8067875187304276
+Iran,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.7783739901710964,1.0750041818964688
+Italy,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.43141266343241796,-0.853008694980554
+Japan,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,1.0527645135768389,0.974775334269843
+Malaysia,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.5332761927736648,-0.9085091031447416
+Mexico,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.6274007414866408,1.3037325849704797
+Netherlands,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.9831690946450488,-2.5433239726954633
+Philippines,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.012311644347526065,-0.021746345484191108
+Russia,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.03970716676205459,0.02612035493670563
+Saudi Arabia,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.19183056231778986,0.33063986782112087
+Singapore,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.21986447468901105,-0.36991997304366847
+South Korea,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,0.580393384522759,0.6832610294850079
+Spain,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.5607982212847817,-1.1942615306756657
+Thailand,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.5061297920112553,-0.9193643098723913
+United Arab Emirates,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.5058000408349098,-1.0728359787315613
+United Kingdom,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.1877600347195618,-0.25785948511131584
+Vietnam,ICEWS,US hikes tariffs on $200B goods,negative,2019-05-01,avg_shock,-0.5495660159058293,-0.9084531883599439
+Australia,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.8619708385273497,-1.2425027493481968
+Belgium,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.5156166649859797,1.0261037316624204
+Brazil,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.9730849029381619,-1.6517892541001618
+Canada,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,1.050806721574477,2.3772431885223626
+France,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.08539198461662172,-0.10504940447438647
+Germany,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-1.1998149897045145,-1.7724855496333431
+India,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.7795309986483123,-1.2937223684897348
+Indonesia,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.4245251654272088,-0.8120457731135874
+Iran,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.08822724235328687,-0.12184972222174137
+Italy,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.31011733928252716,0.613178075876463
+Japan,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.1345697499385994,-0.12460077376025004
+Malaysia,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.054343537434168074,0.09258166617046672
+Mexico,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.1262738026177169,0.26239572288480234
+Netherlands,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-1.0051026327399708,-2.60006303573831
+Philippines,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.3792052762668681,-0.6697991522785116
+Russia,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.38177362744331494,-0.25114012072557657
+Saudi Arabia,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.37625027590700927,0.6485063693211981
+Singapore,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.5857851704173983,-0.9855782056500427
+South Korea,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.3034239007821124,-0.35720208456410035
+Spain,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-1.0344720305672421,-2.2029851447032827
+Thailand,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.2230401050533136,-0.40514333574666417
+United Arab Emirates,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.7359164552441457,1.5609284040849027
+United Kingdom,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,0.2830122135469677,0.38867368007485614
+Vietnam,ICEWS,US-China Phase One deal signed,positive,2020-01-01,avg_shock,-0.6659549899994445,-1.1008485176653966
+Australia,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-1.4857740967490534,-2.1416947274863722
+Belgium,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.2302398956934413,-0.45818925607268823
+Brazil,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-1.2439300532390103,-2.1115426707252216
+Canada,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,0.2357016322734441,0.533228507528094
+France,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,0.07846196501929208,0.09652407935208454
+Germany,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.5264522016669847,-0.7777273396602554
+India,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-1.1539497841606454,-1.9151138960107608
+Indonesia,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,0.1507626760343689,0.28838383160113124
+Iran,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.05354025775343023,-0.0739438903554585
+Italy,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,0.6062247036463032,1.198654993592495
+Japan,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.6282613240243766,-0.5817194958955815
+Malaysia,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,0.4557568433066323,0.7764442639207108
+Mexico,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.4085358345852315,-0.8489334558560084
+Netherlands,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,1.1644680420044207,3.01231955194525
+Philippines,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,0.10926589201689561,0.19299890171983478
+Russia,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,0.10073747023694549,0.06626759581671753
+Saudi Arabia,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.47255645207376534,-0.8145000513153255
+Singapore,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.3715921291411573,-0.6252003675881099
+South Korea,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,0.3029081780318002,0.35659495624957466
+Spain,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,0.05906755907018542,0.12578876114625287
+Thailand,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.7242925586075578,-1.3156481574495769
+United Arab Emirates,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,1.7927887289366369,3.8026257322810797
+United Kingdom,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-0.7375191588563457,-1.0128689571584026
+Vietnam,ICEWS,COVID-19 Blame,negative,2020-03-01,avg_shock,-1.8020198726348424,-2.978806278777651
+Australia,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.6421547201155523,0.9256450097704542
+Belgium,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-2.3386262590060523,-4.653986758544909
+Brazil,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.39157593579709155,0.6646911497248397
+Canada,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-0.5578090078930876,-1.2619329866137277
+France,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.523376654560923,0.6438590943197221
+Germany,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.9156212327872371,1.352646381299614
+India,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.5266240529118571,0.8739938735190232
+Indonesia,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-0.9565597102465362,-1.8297390418652257
+Iran,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-0.5083198232739381,-0.7020351947272052
+Italy,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-0.3436461053722547,-0.6794726736728186
+Japan,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-0.10203938516276641,-0.09448027027695312
+Malaysia,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-0.6780482368293126,-1.15514812751471
+Mexico,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.11557094796757476,0.2401552959345099
+Netherlands,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.5097510003353345,1.3186561155346406
+Philippines,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-0.05887643459611173,-0.10399482404328145
+Russia,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,1.0781650217346492,0.709243578541153
+Saudi Arabia,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,1.7573226006843963,3.028927744301736
+Singapore,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.2213958524896818,0.3724965022239515
+South Korea,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.09261781510608658,0.10903319263377201
+Spain,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-0.11963831037651255,-0.25477868198363623
+Thailand,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,2.3197162992295723,4.2136708966807985
+United Arab Emirates,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,-0.3593196926655266,-0.7621412871419009
+United Kingdom,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.37367753757110855,0.5131885365257206
+Vietnam,ICEWS,Anchorage Talks,negative,2021-03-01,avg_shock,0.07659596533999541,0.12661599683148908
+Australia,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.8509894892878792,1.226673493865603
+Belgium,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.2260730130682364,-0.44989694494027305
+Brazil,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.6860699412144008,-1.1645879542857245
+Canada,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.12596423469131393,0.28496926482225093
+France,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.2034692479816767,0.2503083096767127
+Germany,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.8452840301081378,-1.2487372982992102
+India,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.5600538832720645,-0.9294745656105632
+Indonesia,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.7870186230749231,-1.5054352445432335
+Iran,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.13095740981127055,0.18086390986227638
+Italy,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-1.363708091770164,-2.69638552202007
+Japan,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.5146576664890181,0.4765316387630631
+Malaysia,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.30778762775080737,-0.5243584195884295
+Mexico,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.27231381959970746,0.5658654452793169
+Netherlands,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.002279123401443967,0.005895780507336111
+Philippines,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.08838166521789345,-0.15611060326662551
+Russia,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,1.2606025308814186,0.8292554776836519
+Saudi Arabia,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.28390558795416404,-0.48934072308736115
+Singapore,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-1.6041367350190818,-2.698945423611338
+South Korea,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.09661784721684667,0.11374218162443449
+Spain,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.10573549016064425,-0.22517159208653756
+Thailand,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-1.0397716055768496,-1.8887030948867956
+United Arab Emirates,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,0.5202036090576762,1.1033869177666613
+United Kingdom,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,-0.2584637168194872,-0.35496010127274563
+Vietnam,ICEWS,Pelosi visits Taiwan,negative,2022-08-01,avg_shock,2.776591252664621,4.589809237199505

@@ -1,0 +1,151 @@
+﻿Country,Database pair,Pearson r,Spearman ρ,N months
+Australia,GDELT–ICEWS,0.314,0.318,207
+Australia,GDELT–Phoenix,0.176,0.188,206
+Australia,GDELT–Tsinghua,-0.209,-0.156,207
+Australia,ICEWS–Phoenix,0.138,0.158,206
+Australia,ICEWS–Tsinghua,-0.247,-0.223,207
+Australia,Phoenix–Tsinghua,-0.11,-0.117,206
+Belgium,GDELT–ICEWS,0.15,0.173,205
+Belgium,GDELT–Phoenix,-0.115,0.056,207
+Belgium,GDELT–Tsinghua,,,0
+Belgium,ICEWS–Phoenix,0.174,0.09,205
+Belgium,ICEWS–Tsinghua,,,0
+Belgium,Phoenix–Tsinghua,,,0
+Brazil,GDELT–ICEWS,0.019,0.031,207
+Brazil,GDELT–Phoenix,-0.054,-0.085,205
+Brazil,GDELT–Tsinghua,,,0
+Brazil,ICEWS–Phoenix,0.043,-0.039,205
+Brazil,ICEWS–Tsinghua,,,0
+Brazil,Phoenix–Tsinghua,,,0
+Canada,GDELT–ICEWS,0.344,0.275,207
+Canada,GDELT–Phoenix,0.13,0.13,207
+Canada,GDELT–Tsinghua,,,0
+Canada,ICEWS–Phoenix,0.092,0.095,207
+Canada,ICEWS–Tsinghua,,,0
+Canada,Phoenix–Tsinghua,,,0
+France,GDELT–ICEWS,0.219,0.223,207
+France,GDELT–Phoenix,0.055,0.101,207
+France,GDELT–Tsinghua,0.168,0.194,207
+France,ICEWS–Phoenix,0.102,0.086,207
+France,ICEWS–Tsinghua,0.073,0.079,207
+France,Phoenix–Tsinghua,-0.088,-0.079,207
+Germany,GDELT–ICEWS,0.298,0.286,207
+Germany,GDELT–Phoenix,0.052,0.094,205
+Germany,GDELT–Tsinghua,0.037,0.067,207
+Germany,ICEWS–Phoenix,0.138,0.176,205
+Germany,ICEWS–Tsinghua,0.038,0.085,207
+Germany,Phoenix–Tsinghua,-0.033,-0.012,205
+India,GDELT–ICEWS,0.38,0.4,207
+India,GDELT–Phoenix,0.297,0.338,207
+India,GDELT–Tsinghua,-0.191,-0.226,207
+India,ICEWS–Phoenix,0.121,0.138,207
+India,ICEWS–Tsinghua,-0.203,-0.287,207
+India,Phoenix–Tsinghua,-0.098,-0.136,207
+Indonesia,GDELT–ICEWS,0.455,0.379,207
+Indonesia,GDELT–Phoenix,0.221,0.246,207
+Indonesia,GDELT–Tsinghua,-0.33,-0.401,207
+Indonesia,ICEWS–Phoenix,0.079,0.078,207
+Indonesia,ICEWS–Tsinghua,-0.214,-0.302,207
+Indonesia,Phoenix–Tsinghua,-0.132,-0.128,207
+Iran,GDELT–ICEWS,0.176,0.249,206
+Iran,GDELT–Phoenix,0.102,0.153,206
+Iran,GDELT–Tsinghua,,,0
+Iran,ICEWS–Phoenix,0.03,0.092,206
+Iran,ICEWS–Tsinghua,,,0
+Iran,Phoenix–Tsinghua,,,0
+Italy,GDELT–ICEWS,0.307,0.338,207
+Italy,GDELT–Phoenix,-0.018,-0.033,204
+Italy,GDELT–Tsinghua,,,0
+Italy,ICEWS–Phoenix,0.067,0.108,204
+Italy,ICEWS–Tsinghua,,,0
+Italy,Phoenix–Tsinghua,,,0
+Japan,GDELT–ICEWS,0.642,0.633,207
+Japan,GDELT–Phoenix,0.482,0.495,207
+Japan,GDELT–Tsinghua,0.606,0.618,207
+Japan,ICEWS–Phoenix,0.495,0.528,207
+Japan,ICEWS–Tsinghua,0.365,0.364,207
+Japan,Phoenix–Tsinghua,0.341,0.358,207
+Malaysia,GDELT–ICEWS,0.146,0.174,207
+Malaysia,GDELT–Phoenix,0.179,0.223,207
+Malaysia,GDELT–Tsinghua,,,0
+Malaysia,ICEWS–Phoenix,0.001,0.024,207
+Malaysia,ICEWS–Tsinghua,,,0
+Malaysia,Phoenix–Tsinghua,,,0
+Mexico,GDELT–ICEWS,0.208,0.21,207
+Mexico,GDELT–Phoenix,0.167,0.176,207
+Mexico,GDELT–Tsinghua,,,0
+Mexico,ICEWS–Phoenix,0.209,0.299,207
+Mexico,ICEWS–Tsinghua,,,0
+Mexico,Phoenix–Tsinghua,,,0
+Netherlands,GDELT–ICEWS,0.159,0.125,207
+Netherlands,GDELT–Phoenix,0.068,0.067,204
+Netherlands,GDELT–Tsinghua,,,0
+Netherlands,ICEWS–Phoenix,0.234,0.266,204
+Netherlands,ICEWS–Tsinghua,,,0
+Netherlands,Phoenix–Tsinghua,,,0
+Philippines,GDELT–ICEWS,0.55,0.589,207
+Philippines,GDELT–Phoenix,0.335,0.334,207
+Philippines,GDELT–Tsinghua,,,0
+Philippines,ICEWS–Phoenix,0.311,0.335,207
+Philippines,ICEWS–Tsinghua,,,0
+Philippines,Phoenix–Tsinghua,,,0
+Russia,GDELT–ICEWS,0.208,0.165,207
+Russia,GDELT–Phoenix,0.167,0.128,207
+Russia,GDELT–Tsinghua,-0.357,-0.338,207
+Russia,ICEWS–Phoenix,0.066,0.135,207
+Russia,ICEWS–Tsinghua,0.209,0.222,207
+Russia,Phoenix–Tsinghua,-0.073,-0.063,207
+Saudi Arabia,GDELT–ICEWS,0.125,0.123,207
+Saudi Arabia,GDELT–Phoenix,-0.037,-0.074,207
+Saudi Arabia,GDELT–Tsinghua,,,0
+Saudi Arabia,ICEWS–Phoenix,-0.083,-0.102,207
+Saudi Arabia,ICEWS–Tsinghua,,,0
+Saudi Arabia,Phoenix–Tsinghua,,,0
+Singapore,GDELT–ICEWS,0.212,0.268,207
+Singapore,GDELT–Phoenix,0.133,0.158,206
+Singapore,GDELT–Tsinghua,,,0
+Singapore,ICEWS–Phoenix,0.014,0.038,206
+Singapore,ICEWS–Tsinghua,,,0
+Singapore,Phoenix–Tsinghua,,,0
+South Korea,GDELT–ICEWS,0.542,0.477,207
+South Korea,GDELT–Phoenix,0.423,0.364,207
+South Korea,GDELT–Tsinghua,0.008,-0.126,207
+South Korea,ICEWS–Phoenix,0.439,0.364,207
+South Korea,ICEWS–Tsinghua,0.18,0.119,207
+South Korea,Phoenix–Tsinghua,0.104,0.078,207
+Spain,GDELT–ICEWS,0.071,0.182,207
+Spain,GDELT–Phoenix,0.077,0.06,204
+Spain,GDELT–Tsinghua,,,0
+Spain,ICEWS–Phoenix,0.15,0.108,204
+Spain,ICEWS–Tsinghua,,,0
+Spain,Phoenix–Tsinghua,,,0
+Thailand,GDELT–ICEWS,0.194,0.219,207
+Thailand,GDELT–Phoenix,0.114,0.091,207
+Thailand,GDELT–Tsinghua,,,0
+Thailand,ICEWS–Phoenix,0.031,0.031,207
+Thailand,ICEWS–Tsinghua,,,0
+Thailand,Phoenix–Tsinghua,,,0
+United Arab Emirates,GDELT–ICEWS,0.094,0.067,207
+United Arab Emirates,GDELT–Phoenix,0.07,0.045,205
+United Arab Emirates,GDELT–Tsinghua,,,0
+United Arab Emirates,ICEWS–Phoenix,-0.017,0.1,205
+United Arab Emirates,ICEWS–Tsinghua,,,0
+United Arab Emirates,Phoenix–Tsinghua,,,0
+United Kingdom,GDELT–ICEWS,0.456,0.398,207
+United Kingdom,GDELT–Phoenix,0.179,0.14,207
+United Kingdom,GDELT–Tsinghua,-0.201,-0.182,207
+United Kingdom,ICEWS–Phoenix,0.163,0.18,207
+United Kingdom,ICEWS–Tsinghua,-0.019,-0.031,207
+United Kingdom,Phoenix–Tsinghua,-0.032,-0.051,207
+United States,GDELT–ICEWS,0.574,0.552,207
+United States,GDELT–Phoenix,0.498,0.503,207
+United States,GDELT–Tsinghua,0.344,0.173,207
+United States,ICEWS–Phoenix,0.486,0.476,207
+United States,ICEWS–Tsinghua,0.259,0.132,207
+United States,Phoenix–Tsinghua,0.334,0.14,207
+Vietnam,GDELT–ICEWS,0.604,0.593,207
+Vietnam,GDELT–Phoenix,0.391,0.404,207
+Vietnam,GDELT–Tsinghua,0.392,0.409,207
+Vietnam,ICEWS–Phoenix,0.379,0.405,207
+Vietnam,ICEWS–Tsinghua,0.298,0.304,207
+Vietnam,Phoenix–Tsinghua,0.173,0.164,207

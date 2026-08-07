@@ -1,0 +1,81 @@
+== G1DIFF_ES_01单国多类型_event_study_metrics.csv
+   diff_cells=2681 row_missing=0 signflips=449 p_star_crossings=0 median|d|=0.6792 max|d|=10.29
+     v1|Tsinghua|Russia :: baseline: -1.5869 -> 8.7037
+     v2|Tsinghua|Russia :: baseline: -1.5869 -> 8.7037
+     v1|Tsinghua|Russia :: baseline: -1.1693 -> 8.7778
+     v1|Tsinghua|Russia :: baseline: -1.1693 -> 8.7778
+     v1|Tsinghua|Russia :: baseline: -1.1693 -> 8.7778
+     v2|Tsinghua|Russia :: baseline: -1.1693 -> 8.7778
+
+== G1DIFF_ES_02断点_breakpoints.csv
+   diff_cells=93 row_missing=13 signflips=0 p_star_crossings=0 median|d|=1.469 max|d|=64
+     ICEWS|Netherlands|n_bp :: n_bp: 7 -> 71
+     ICEWS|Mexico|n_bp :: n_bp: 20 -> 61
+     ICEWS|Canada|n_bp :: n_bp: 1 -> 40
+     ICEWS|Belgium|n_bp :: n_bp: 20 -> 53
+     ICEWS|United Arab Emirates|n_bp :: n_bp: 12 -> 43
+     ICEWS|Spain|n_bp :: n_bp: 19 -> 44
+
+== G1DIFF_ES_03联盟M3_alliance_effects.csv
+   diff_cells=517 row_missing=0 signflips=0 p_star_crossings=0 median|d|=0.1612 max|d|=3.971
+     ICEWS|Brazil|Non-Ally :: shock: -5.6934 -> -9.6645
+     ICEWS|Netherlands|Non-Ally :: shock: -2.2595 -> -5.8451
+     ICEWS|Spain|Non-Ally :: shock: 3.1646 -> 6.7393
+     ICEWS|Netherlands|Non-Ally :: shock: 1.737 -> 4.4933
+     ICEWS|Canada|US Ally :: shock: 2.1072 -> 4.7672
+     ICEWS|United Arab Emirates|Non-Ally :: shock: 2.1453 -> 4.5503
+
+== G1DIFF_ES_04换届_turnover_vol_corr.csv
+   diff_cells=2 row_missing=0 signflips=1 p_star_crossings=0 median|d|=0.1611 max|d|=0.1611
+     ICEWS|r|0.050167479747538456 :: r: 0.050167 -> -0.11098
+     GDELT|r|-0.1276657871141428 :: r: -0.12767 -> -0.11848
+
+== G1DIFF_ES_05会晤M5_direction_summary.csv
+   diff_cells=40 row_missing=0 signflips=0 p_star_crossings=0 median|d|=0.05354 max|d|=0.4958
+     ICEWS|Partner inbound visit|sd :: sd: 0.79284 -> 1.2886
+     ICEWS|Chinese outbound visit|sd :: sd: 0.68485 -> 1.0845
+     ICEWS|Remote talk|sd :: sd: 0.79824 -> 1.1256
+     ICEWS|Remote talk|ci_upper :: ci_upper: 0.65629 -> 0.93874
+     ICEWS|Third-party meeting|sd :: sd: 0.74692 -> 0.95758
+     ICEWS|Chinese outbound visit|ci_upper :: ci_upper: 0.40821 -> 0.60775
+
+== G1DIFF_ES_05会晤M5_robust_m5_robustness_category4.csv
+   diff_cells=40 row_missing=0 signflips=0 p_star_crossings=0 median|d|=0.05354 max|d|=0.4958
+     ICEWS|Partner inbound visit|sd :: sd: 0.79284 -> 1.2886
+     ICEWS|Chinese outbound visit|sd :: sd: 0.68485 -> 1.0845
+     ICEWS|Remote talk|sd :: sd: 0.79824 -> 1.1256
+     ICEWS|Remote talk|ci_upper :: ci_upper: 0.65629 -> 0.93874
+     ICEWS|Third-party meeting|sd :: sd: 0.74692 -> 0.95758
+     ICEWS|Chinese outbound visit|ci_upper :: ci_upper: 0.40821 -> 0.60775
+
+== G1DIFF_ES_06跨国同类_m6_detailed.csv
+   diff_cells=517 row_missing=0 signflips=0 p_star_crossings=0 median|d|=0.172 max|d|=3.741
+     ICEWS|v3|Mexico :: shock: 3.4701 -> 7.2109
+     ICEWS|v3|Netherlands :: shock: -2.2595 -> -5.8451
+     ICEWS|v3|Canada :: shock: -2.7741 -> -6.2758
+     ICEWS|v3|Canada :: shock: -2.7741 -> -6.2758
+     ICEWS|v3|Canada :: shock: -2.6141 -> -5.9139
+     ICEWS|v3|Indonesia :: shock: 3.1813 -> 6.0852
+
+== G1DIFF_ES_07信任M7_asymmetry.csv
+   diff_cells=4 row_missing=0 signflips=1 p_star_crossings=0 median|d|=0.07756 max|d|=0.09475
+     ICEWS|positive|mean_shock :: mean_shock: -0.036917 -> 0.057837
+     ICEWS|negative|mean_shock :: mean_shock: -0.064029 -> -0.14159
+     GDELT|positive|mean_shock :: mean_shock: -0.15502 -> -0.12115
+     GDELT|negative|mean_shock :: mean_shock: -0.0078275 -> -0.017489
+
+== G1DIFF_ES_08第三方M8_third_party_effects.csv
+   diff_cells=648 row_missing=0 signflips=0 p_star_crossings=0 median|d|=0.1185 max|d|=4.048
+     Netherlands|ICEWS|South China Sea Arbitration Ruling :: avg_shock: -2.5507 -> -6.5982
+     Canada|ICEWS|Huawei CFO Meng Wanzhou arrested :: avg_shock: -1.8999 -> -4.2981
+     Netherlands|ICEWS|Pivot to Asia announced :: avg_shock: -1.474 -> -3.813
+     Belgium|ICEWS|Anchorage Talks :: avg_shock: -2.3386 -> -4.654
+     United Arab Emirates|ICEWS|COVID-19 Blame :: avg_shock: 1.7928 -> 3.8026
+     Mexico|ICEWS|Financial Crisis Cooperation :: avg_shock: -1.8491 -> -3.8424
+
+== G1DIFF_REV_03换届重估_correlation_summary.csv
+   diff_cells=4 row_missing=0 signflips=1 p_star_crossings=0 median|d|=0.008541 max|d|=0.03066
+     ICEWS|vol_range12m|spearman_p :: spearman_p: 0.72104 -> 0.7517
+     ICEWS|vol_range12m|spearman_r :: spearman_r: -0.07516 -> -0.066619
+     ICEWS|vol_range12m|pearson_r :: pearson_r: -0.0016135 -> 0.0012404
+     ICEWS|vol_range12m|pearson_p :: pearson_p: 0.99389 -> 0.9953

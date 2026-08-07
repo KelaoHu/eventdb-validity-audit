@@ -1,0 +1,19 @@
+﻿Country,Date,Event,Overlap ±1 month,Number of overlaps,Nearest negative event date,Nearest negative event (months away),Nearest negative event description
+Belgium,2021-12,Li Keqiang holds video meeting with PM De Croo,No,0,—,—,—
+Canada,2025-06,Li Qiang phone call with PM Mark Carney,No,0,2024-10,8,Canada imposes 100% surtax on Chinese-made EVs
+Indonesia,2020-11,Virtual bilateral meeting on sidelines of G20 Summit,No,0,2020-03,8,COVID in Indonesia
+Indonesia,2021-10,Virtual bilateral meeting on sidelines of G20 Summit,No,0,2020-03,19,COVID in Indonesia
+Japan,2020-09,Telephone conversation (counted as virtual meeting due to COVID-19),No,0,2021-04,7,Japan approves Fukushima water release
+Japan,2021-10,Telephone conversation (counted as virtual meeting due to COVID-19),No,0,2021-04,6,Japan approves Fukushima water release
+Russia,2021-06,Video meeting on treaty extension,No,0,2012-07,108,Russian coast guard fires on Chinese fishing vessel
+South Korea,2022-03,Virtual meeting (phone call) congratulating Yoon on election,No,0,2023-08,17,US-Japan-South Korea Camp David summit criticizes China
+South Korea,2025-06,Xi phone call with President Lee Jae-myung,No,0,2023-08,22,US-Japan-South Korea Camp David summit criticizes China
+United Kingdom,2021-10,Phone call between Chinese President Xi Jinping and UK Prime Minister Boris Johnson,No,0,2021-03,7,UK sanctions Chinese officials over Xinjiang; China retaliates
+United Kingdom,2024-08,Xi-Starmer phone call,No,0,2023-03,17,Integrated Review Refresh labels China 'epoch-defining challenge'
+United States,2021-11,Virtual bilateral meeting (video summit),No,0,2021-03,8,Anchorage Talks
+United States,2025-01,Xi-Trump phone call,No,0,2025-04,3,US-China reciprocal tariff war escalates in April 2025
+United States,2025-06,Xi-Trump phone call,No,0,2025-04,2,US-China reciprocal tariff war escalates in April 2025
+United States,2025-09,Xi-Trump phone call,No,0,2025-04,5,US-China reciprocal tariff war escalates in April 2025
+United States,2025-11,Xi-Trump phone call,No,0,2025-04,7,US-China reciprocal tariff war escalates in April 2025
+Vietnam,2021-05,Virtual bilateral meeting (due to COVID-19),No,0,2019-07,22,Haiyang Dizhi 8 at Vanguard Bank
+Vietnam,2025-01,Xi-To Lam phone call,No,0,2019-07,67,Haiyang Dizhi 8 at Vanguard Bank

@@ -1,0 +1,74 @@
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.2.1     ✔ readr     2.2.0
+✔ forcats   1.0.1     ✔ stringr   1.6.0
+✔ ggplot2   4.0.3     ✔ tibble    3.3.1
+✔ lubridate 1.9.5     ✔ tidyr     1.3.2
+✔ purrr     1.2.2     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+Wald test, H0: joint nullity of hz::3:pos, hz::4:pos, hz::5:pos and hz::6:pos
+ stat = 0.881476, p-value = 0.474008, on 4 and 7,099 DoF, VCOV: Clustered (unit).GDELT/change stacked joint Wald (pos h=3..6 = 0): F=0.881 p=0.4740
+              Estimate Std. Error     t value  Pr(>|t|)
+hz::3:pos  0.045502420 0.08243943  0.55194971 0.5810002
+hz::4:pos  0.033588897 0.08946531  0.37544044 0.7073442
+hz::5:pos -0.008776322 0.09155155 -0.09586209 0.9236328
+hz::6:pos -0.133348307 0.09453913 -1.41050911 0.1584332
+hz::3:neg -0.128605447 0.09577872 -1.34273506 0.1794007
+hz::4:neg -0.025818239 0.09037668 -0.28567370 0.7751364
+hz::5:neg  0.005202265 0.11765940  0.04421461 0.9647346
+hz::6:neg  0.048067162 0.09058340  0.53063983 0.5956850
+attr(,"vcov_type")
+[1] "Clustered (unit)"
+Wald test, H0: joint nullity of hz::3:pos, hz::4:pos, hz::5:pos and hz::6:pos
+ stat = 1.07789, p-value = 0.365566, on 4 and 7,096 DoF, VCOV: Clustered (unit).ICEWS/change stacked joint Wald (pos h=3..6 = 0): F=1.078 p=0.3656
+             Estimate Std. Error    t value   Pr(>|t|)
+hz::3:pos  0.17085796  0.1478335  1.1557462 0.24782388
+hz::4:pos  0.17088351  0.1478946  1.1554410 0.24794877
+hz::5:pos  0.26547360  0.1445608  1.8364142 0.06633823
+hz::6:pos  0.02981428  0.1470732  0.2027173 0.83936180
+hz::3:neg -0.13725350  0.1703083 -0.8059121 0.42032054
+hz::4:neg -0.08057899  0.1731051 -0.4654918 0.64159361
+hz::5:neg  0.03419586  0.1578615  0.2166193 0.82851123
+hz::6:neg -0.14733096  0.1658892 -0.8881290 0.37450149
+attr(,"vcov_type")
+[1] "Clustered (unit)"
+# A tibble: 28 × 11
+   db    spec       h beta_pos p_pos_2side p_pos_1side_neg beta_neg p_neg_2side
+   <chr> <chr>  <int>    <dbl>       <dbl>           <dbl>    <dbl>       <dbl>
+ 1 GDELT change     0  0.260    0.00264              1.000 -0.428   0.000522   
+ 2 GDELT change     1  0.126    0.166                0.924 -0.200   0.0511     
+ 3 GDELT change     2  0.0525   0.568                0.719 -0.00106 0.991      
+ 4 GDELT change     3  0.0455   0.575                0.715 -0.129   0.140      
+ 5 GDELT change     4  0.0336   0.678                0.663 -0.0258  0.799      
+ 6 GDELT change     5 -0.00878  0.917                0.458  0.00520 0.958      
+ 7 GDELT change     6 -0.133    0.214                0.101  0.0481  0.591      
+ 8 GDELT level      0  0.456    0.00000962           1.000 -0.664   0.0000340  
+ 9 GDELT level      1  0.320    0.00221              1.000 -0.444   0.000530   
+10 GDELT level      2  0.255    0.0130               0.996 -0.244   0.0310     
+11 GDELT level      3  0.247    0.00737              0.998 -0.371   0.000246   
+12 GDELT level      4  0.235    0.00525              0.999 -0.270   0.0132     
+13 GDELT level      5  0.193    0.0323               0.988 -0.240   0.0100     
+14 GDELT level      6  0.0685   0.442                0.783 -0.196   0.0414     
+15 ICEWS change     0  0.252    0.0210               0.993 -0.710   0.0000938  
+16 ICEWS change     1  0.0735   0.652                0.676 -0.251   0.170      
+17 ICEWS change     2  0.0833   0.645                0.679 -0.134   0.427      
+18 ICEWS change     3  0.171    0.260                0.876 -0.137   0.315      
+19 ICEWS change     4  0.171    0.336                0.837 -0.0806  0.667      
+20 ICEWS change     5  0.265    0.129                0.942  0.0342  0.827      
+21 ICEWS change     6  0.0298   0.841                0.580 -0.147   0.360      
+22 ICEWS level      0  0.418    0.0000848            1.000 -1.04    0.000000231
+23 ICEWS level      1  0.242    0.0902               0.961 -0.578   0.000505   
+24 ICEWS level      2  0.254    0.151                0.931 -0.465   0.0153     
+25 ICEWS level      3  0.341    0.00932              0.998 -0.467   0.00229    
+26 ICEWS level      4  0.349    0.00879              0.998 -0.410   0.0401     
+27 ICEWS level      5  0.444    0.00298              1.000 -0.295   0.131      
+28 ICEWS level      6  0.208    0.0774               0.967 -0.477   0.00297    
+# ℹ 3 more variables: wald_chi2_sym <dbl>, wald_p_sym <dbl>, ratio_abs <dbl>
+# A tibble: 2 × 6
+  db    spec   horizons joint_F joint_p n_obs
+  <chr> <chr>  <chr>      <dbl>   <dbl> <int>
+1 GDELT change 3:6        0.881   0.474 28250
+2 ICEWS change 3:6        1.08    0.366 28238
+Done test3.

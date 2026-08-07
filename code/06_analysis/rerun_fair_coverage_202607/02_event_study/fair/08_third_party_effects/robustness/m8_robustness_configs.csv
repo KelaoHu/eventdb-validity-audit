@@ -1,0 +1,2161 @@
+country,avg_shock,db,node,config
+Australia,0.8150986733828763,GDELT,Financial Crisis Cooperation,baseline
+Belgium,-0.5692880410751677,GDELT,Financial Crisis Cooperation,baseline
+Brazil,0.532207901846871,GDELT,Financial Crisis Cooperation,baseline
+Canada,0.8188185424551605,GDELT,Financial Crisis Cooperation,baseline
+France,-0.9782373068797262,GDELT,Financial Crisis Cooperation,baseline
+Germany,0.10954393404778659,GDELT,Financial Crisis Cooperation,baseline
+India,0.3257299754018952,GDELT,Financial Crisis Cooperation,baseline
+Indonesia,-0.4225248035037754,GDELT,Financial Crisis Cooperation,baseline
+Iran,-0.6817568885317594,GDELT,Financial Crisis Cooperation,baseline
+Italy,-0.08963794235955168,GDELT,Financial Crisis Cooperation,baseline
+Japan,0.20440865513379686,GDELT,Financial Crisis Cooperation,baseline
+Malaysia,-0.4753692999405261,GDELT,Financial Crisis Cooperation,baseline
+Mexico,0.8572163910361527,GDELT,Financial Crisis Cooperation,baseline
+Netherlands,0.0593992800155866,GDELT,Financial Crisis Cooperation,baseline
+Philippines,0.17976276960417528,GDELT,Financial Crisis Cooperation,baseline
+Russia,0.33214906263859956,GDELT,Financial Crisis Cooperation,baseline
+Saudi Arabia,-0.853816827750135,GDELT,Financial Crisis Cooperation,baseline
+Singapore,-0.20582529303200028,GDELT,Financial Crisis Cooperation,baseline
+South Korea,-0.4264811634374864,GDELT,Financial Crisis Cooperation,baseline
+Spain,0.5605085363876342,GDELT,Financial Crisis Cooperation,baseline
+Thailand,-0.19733323498516916,GDELT,Financial Crisis Cooperation,baseline
+United Arab Emirates,-0.38832139686848127,GDELT,Financial Crisis Cooperation,baseline
+United Kingdom,1.306158218900266,GDELT,Financial Crisis Cooperation,baseline
+Vietnam,-0.06375465069734743,GDELT,Financial Crisis Cooperation,baseline
+Australia,-0.674920937803436,GDELT,Pivot to Asia announced,baseline
+Belgium,0.4146359604955906,GDELT,Pivot to Asia announced,baseline
+Brazil,0.37347632121110136,GDELT,Pivot to Asia announced,baseline
+Canada,0.6318299544750561,GDELT,Pivot to Asia announced,baseline
+France,0.06720753413736939,GDELT,Pivot to Asia announced,baseline
+Germany,0.016374852860918887,GDELT,Pivot to Asia announced,baseline
+India,-0.06308011661563734,GDELT,Pivot to Asia announced,baseline
+Indonesia,0.22667362208576922,GDELT,Pivot to Asia announced,baseline
+Iran,-0.09721011509417218,GDELT,Pivot to Asia announced,baseline
+Italy,-0.3636587120801306,GDELT,Pivot to Asia announced,baseline
+Japan,0.4120600464300589,GDELT,Pivot to Asia announced,baseline
+Malaysia,-0.607566686709778,GDELT,Pivot to Asia announced,baseline
+Mexico,0.1757019616683964,GDELT,Pivot to Asia announced,baseline
+Netherlands,0.28219160367236756,GDELT,Pivot to Asia announced,baseline
+Philippines,-0.20246226205122325,GDELT,Pivot to Asia announced,baseline
+Russia,-0.306261100983081,GDELT,Pivot to Asia announced,baseline
+Saudi Arabia,-0.024190319337699797,GDELT,Pivot to Asia announced,baseline
+Singapore,-0.7882388049195186,GDELT,Pivot to Asia announced,baseline
+South Korea,-0.16759063340916813,GDELT,Pivot to Asia announced,baseline
+Spain,-0.8675983995524672,GDELT,Pivot to Asia announced,baseline
+Thailand,-0.18931244465517075,GDELT,Pivot to Asia announced,baseline
+United Arab Emirates,-0.16183272894339537,GDELT,Pivot to Asia announced,baseline
+United Kingdom,-0.11961615000410745,GDELT,Pivot to Asia announced,baseline
+Vietnam,0.9681191912385226,GDELT,Pivot to Asia announced,baseline
+Australia,-0.35874503699080185,GDELT,South China Sea Arbitration Ruling,baseline
+Belgium,0.8061654808079315,GDELT,South China Sea Arbitration Ruling,baseline
+Brazil,0.40688349287190534,GDELT,South China Sea Arbitration Ruling,baseline
+Canada,0.4563434587052505,GDELT,South China Sea Arbitration Ruling,baseline
+France,0.5137755517464919,GDELT,South China Sea Arbitration Ruling,baseline
+Germany,-0.6220513254994089,GDELT,South China Sea Arbitration Ruling,baseline
+India,-0.2914730986121877,GDELT,South China Sea Arbitration Ruling,baseline
+Indonesia,0.2300397449319173,GDELT,South China Sea Arbitration Ruling,baseline
+Iran,-0.3280770219285572,GDELT,South China Sea Arbitration Ruling,baseline
+Italy,-0.29669182058412485,GDELT,South China Sea Arbitration Ruling,baseline
+Japan,-0.5008587370873105,GDELT,South China Sea Arbitration Ruling,baseline
+Malaysia,0.3980499219872914,GDELT,South China Sea Arbitration Ruling,baseline
+Mexico,-0.6397782744259506,GDELT,South China Sea Arbitration Ruling,baseline
+Netherlands,-0.30485880389026887,GDELT,South China Sea Arbitration Ruling,baseline
+Philippines,0.7754666940220613,GDELT,South China Sea Arbitration Ruling,baseline
+Russia,-0.4046205530223986,GDELT,South China Sea Arbitration Ruling,baseline
+Saudi Arabia,-0.257097612517155,GDELT,South China Sea Arbitration Ruling,baseline
+Singapore,-0.48873133497254795,GDELT,South China Sea Arbitration Ruling,baseline
+South Korea,-0.8923618541375962,GDELT,South China Sea Arbitration Ruling,baseline
+Spain,0.3624474327407982,GDELT,South China Sea Arbitration Ruling,baseline
+Thailand,0.21940201738241366,GDELT,South China Sea Arbitration Ruling,baseline
+United Arab Emirates,0.4106676622494223,GDELT,South China Sea Arbitration Ruling,baseline
+United Kingdom,0.5003319082612449,GDELT,South China Sea Arbitration Ruling,baseline
+Vietnam,0.6512582542651985,GDELT,South China Sea Arbitration Ruling,baseline
+Australia,-0.5219133808799643,GDELT,Steel/aluminum tariffs imposed,baseline
+Belgium,-0.4602193776857542,GDELT,Steel/aluminum tariffs imposed,baseline
+Brazil,0.1541682460989751,GDELT,Steel/aluminum tariffs imposed,baseline
+Canada,-0.2972637689638679,GDELT,Steel/aluminum tariffs imposed,baseline
+France,0.27160686097556136,GDELT,Steel/aluminum tariffs imposed,baseline
+Germany,0.7451016657456311,GDELT,Steel/aluminum tariffs imposed,baseline
+India,0.36060400081816424,GDELT,Steel/aluminum tariffs imposed,baseline
+Indonesia,-0.2190759522542931,GDELT,Steel/aluminum tariffs imposed,baseline
+Iran,-0.021401660441914983,GDELT,Steel/aluminum tariffs imposed,baseline
+Italy,0.03767279485554103,GDELT,Steel/aluminum tariffs imposed,baseline
+Japan,0.5587147937641882,GDELT,Steel/aluminum tariffs imposed,baseline
+Malaysia,0.3685664428527475,GDELT,Steel/aluminum tariffs imposed,baseline
+Mexico,-0.25417600920660044,GDELT,Steel/aluminum tariffs imposed,baseline
+Netherlands,-0.4804072413069832,GDELT,Steel/aluminum tariffs imposed,baseline
+Philippines,-0.11781165609147651,GDELT,Steel/aluminum tariffs imposed,baseline
+Russia,0.6587324840405984,GDELT,Steel/aluminum tariffs imposed,baseline
+Saudi Arabia,0.126024327628808,GDELT,Steel/aluminum tariffs imposed,baseline
+Singapore,-0.11687344317365086,GDELT,Steel/aluminum tariffs imposed,baseline
+South Korea,0.8280683599082048,GDELT,Steel/aluminum tariffs imposed,baseline
+Spain,-0.28798885419678655,GDELT,Steel/aluminum tariffs imposed,baseline
+Thailand,-0.2427049232283543,GDELT,Steel/aluminum tariffs imposed,baseline
+United Arab Emirates,-0.6322145919576799,GDELT,Steel/aluminum tariffs imposed,baseline
+United Kingdom,0.46228587918252967,GDELT,Steel/aluminum tariffs imposed,baseline
+Vietnam,-0.34346489472747843,GDELT,Steel/aluminum tariffs imposed,baseline
+Australia,-0.3946772103415295,GDELT,US bans ZTE from tech exports,baseline
+Belgium,-0.4258488565104537,GDELT,US bans ZTE from tech exports,baseline
+Brazil,-0.006501664196250161,GDELT,US bans ZTE from tech exports,baseline
+Canada,0.028143075606938166,GDELT,US bans ZTE from tech exports,baseline
+France,0.13452692773702937,GDELT,US bans ZTE from tech exports,baseline
+Germany,0.559923030790989,GDELT,US bans ZTE from tech exports,baseline
+India,0.23463918130404,GDELT,US bans ZTE from tech exports,baseline
+Indonesia,0.18312566833970573,GDELT,US bans ZTE from tech exports,baseline
+Iran,-0.07033618616278324,GDELT,US bans ZTE from tech exports,baseline
+Italy,0.0826368753725634,GDELT,US bans ZTE from tech exports,baseline
+Japan,0.4814595885268925,GDELT,US bans ZTE from tech exports,baseline
+Malaysia,0.44859297708784357,GDELT,US bans ZTE from tech exports,baseline
+Mexico,-0.09052732798794974,GDELT,US bans ZTE from tech exports,baseline
+Netherlands,-0.4453677832554712,GDELT,US bans ZTE from tech exports,baseline
+Philippines,-0.2055592406144809,GDELT,US bans ZTE from tech exports,baseline
+Russia,0.5777251988937654,GDELT,US bans ZTE from tech exports,baseline
+Saudi Arabia,0.23256996970214766,GDELT,US bans ZTE from tech exports,baseline
+Singapore,-0.020878839645867644,GDELT,US bans ZTE from tech exports,baseline
+South Korea,0.48213318752978257,GDELT,US bans ZTE from tech exports,baseline
+Spain,-0.13190565938468563,GDELT,US bans ZTE from tech exports,baseline
+Thailand,0.27754422262620787,GDELT,US bans ZTE from tech exports,baseline
+United Arab Emirates,-0.504414143816945,GDELT,US bans ZTE from tech exports,baseline
+United Kingdom,0.26892665106511626,GDELT,US bans ZTE from tech exports,baseline
+Vietnam,-0.5795897457879344,GDELT,US bans ZTE from tech exports,baseline
+Australia,-0.037838938730294584,GDELT,Trade War Begins,baseline
+Belgium,-0.4593134473421288,GDELT,Trade War Begins,baseline
+Brazil,-0.04169326544093281,GDELT,Trade War Begins,baseline
+Canada,-0.4695140644978131,GDELT,Trade War Begins,baseline
+France,-0.45947594173973166,GDELT,Trade War Begins,baseline
+Germany,-0.476618404861962,GDELT,Trade War Begins,baseline
+India,0.1613809302330767,GDELT,Trade War Begins,baseline
+Indonesia,0.05796192441000542,GDELT,Trade War Begins,baseline
+Iran,-0.6446408412605507,GDELT,Trade War Begins,baseline
+Italy,-0.08028237585876745,GDELT,Trade War Begins,baseline
+Japan,-0.2682018628607289,GDELT,Trade War Begins,baseline
+Malaysia,0.6615836635770084,GDELT,Trade War Begins,baseline
+Mexico,-0.16964951735882372,GDELT,Trade War Begins,baseline
+Netherlands,-0.2026633056280685,GDELT,Trade War Begins,baseline
+Philippines,0.37039766387575584,GDELT,Trade War Begins,baseline
+Russia,-0.42789213395756426,GDELT,Trade War Begins,baseline
+Saudi Arabia,0.046293430082025376,GDELT,Trade War Begins,baseline
+Singapore,0.0014491591165690892,GDELT,Trade War Begins,baseline
+South Korea,-0.6599665003485727,GDELT,Trade War Begins,baseline
+Spain,0.7863339706372193,GDELT,Trade War Begins,baseline
+Thailand,-0.08186100313040987,GDELT,Trade War Begins,baseline
+United Arab Emirates,0.2559678897813816,GDELT,Trade War Begins,baseline
+United Kingdom,-0.7735298412576371,GDELT,Trade War Begins,baseline
+Vietnam,0.2766029286413615,GDELT,Trade War Begins,baseline
+Australia,-0.26588542079355076,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Belgium,0.14409390253675264,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Brazil,-0.30344226473790276,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Canada,-1.9838450151890858,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+France,-0.5082787369656232,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Germany,-0.5997490434423003,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+India,-0.1211916933426328,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Indonesia,-0.41041392539857463,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Iran,-0.4671890936584956,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Italy,0.5049154350029277,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Japan,-0.33795659519248455,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Malaysia,0.08151591462713882,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Mexico,0.13714261921606138,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Netherlands,0.0490704876119956,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Philippines,-0.4529766956369738,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Russia,-0.15463452378381282,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Saudi Arabia,0.18022551066375048,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Singapore,-0.3193046139361967,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+South Korea,-0.23146686791957427,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Spain,-0.09379805192384832,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Thailand,-0.13098249920481586,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+United Arab Emirates,0.40988148540431224,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+United Kingdom,-1.042840941707762,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Vietnam,-0.036354766339658874,GDELT,Huawei CFO Meng Wanzhou arrested,baseline
+Australia,-0.4298606193337829,GDELT,US hikes tariffs on $200B goods,baseline
+Belgium,0.15529597524715483,GDELT,US hikes tariffs on $200B goods,baseline
+Brazil,0.047775257349743375,GDELT,US hikes tariffs on $200B goods,baseline
+Canada,0.09490946124608711,GDELT,US hikes tariffs on $200B goods,baseline
+France,0.6580264214225235,GDELT,US hikes tariffs on $200B goods,baseline
+Germany,0.8448410777457751,GDELT,US hikes tariffs on $200B goods,baseline
+India,0.01185908897662852,GDELT,US hikes tariffs on $200B goods,baseline
+Indonesia,0.5230732009392279,GDELT,US hikes tariffs on $200B goods,baseline
+Iran,0.09663093765373676,GDELT,US hikes tariffs on $200B goods,baseline
+Italy,-0.2246071820148186,GDELT,US hikes tariffs on $200B goods,baseline
+Japan,0.5364277783596803,GDELT,US hikes tariffs on $200B goods,baseline
+Malaysia,-0.8685705499192433,GDELT,US hikes tariffs on $200B goods,baseline
+Mexico,0.25334775149995314,GDELT,US hikes tariffs on $200B goods,baseline
+Netherlands,-0.06092150374654274,GDELT,US hikes tariffs on $200B goods,baseline
+Philippines,-0.4341762549275983,GDELT,US hikes tariffs on $200B goods,baseline
+Russia,0.945783605391355,GDELT,US hikes tariffs on $200B goods,baseline
+Saudi Arabia,-0.07806983388299728,GDELT,US hikes tariffs on $200B goods,baseline
+Singapore,0.16821467983457702,GDELT,US hikes tariffs on $200B goods,baseline
+South Korea,-0.14512346932211742,GDELT,US hikes tariffs on $200B goods,baseline
+Spain,-0.5079242938677229,GDELT,US hikes tariffs on $200B goods,baseline
+Thailand,0.409175756055134,GDELT,US hikes tariffs on $200B goods,baseline
+United Arab Emirates,0.008637134688205397,GDELT,US hikes tariffs on $200B goods,baseline
+United Kingdom,0.06373691990889693,GDELT,US hikes tariffs on $200B goods,baseline
+Vietnam,-0.25108438199059313,GDELT,US hikes tariffs on $200B goods,baseline
+Australia,-0.31435743083804396,GDELT,US-China Phase One deal signed,baseline
+Belgium,-0.10556261200557958,GDELT,US-China Phase One deal signed,baseline
+Brazil,-0.6080865178551612,GDELT,US-China Phase One deal signed,baseline
+Canada,0.3690196253901465,GDELT,US-China Phase One deal signed,baseline
+France,-1.2036905290052102,GDELT,US-China Phase One deal signed,baseline
+Germany,-0.6779732179542536,GDELT,US-China Phase One deal signed,baseline
+India,-0.8247157454501208,GDELT,US-China Phase One deal signed,baseline
+Indonesia,-0.8205063606335329,GDELT,US-China Phase One deal signed,baseline
+Iran,-0.6960792838982071,GDELT,US-China Phase One deal signed,baseline
+Italy,-0.18814661961506884,GDELT,US-China Phase One deal signed,baseline
+Japan,-0.5920976796598322,GDELT,US-China Phase One deal signed,baseline
+Malaysia,0.2422009334356219,GDELT,US-China Phase One deal signed,baseline
+Mexico,-0.5431446017873525,GDELT,US-China Phase One deal signed,baseline
+Netherlands,0.008921420855127083,GDELT,US-China Phase One deal signed,baseline
+Philippines,-0.06725010738303802,GDELT,US-China Phase One deal signed,baseline
+Russia,-1.248333934494918,GDELT,US-China Phase One deal signed,baseline
+Saudi Arabia,0.261189945168888,GDELT,US-China Phase One deal signed,baseline
+Singapore,-0.929384812903007,GDELT,US-China Phase One deal signed,baseline
+South Korea,-0.4385672165324554,GDELT,US-China Phase One deal signed,baseline
+Spain,0.3306068499705356,GDELT,US-China Phase One deal signed,baseline
+Thailand,-0.46321456290718893,GDELT,US-China Phase One deal signed,baseline
+United Arab Emirates,-0.28713271472038254,GDELT,US-China Phase One deal signed,baseline
+United Kingdom,-0.2731325369921035,GDELT,US-China Phase One deal signed,baseline
+Vietnam,-0.2317356256829773,GDELT,US-China Phase One deal signed,baseline
+Australia,-0.9519051310485441,GDELT,COVID-19 Blame,baseline
+Belgium,-0.2819980721099435,GDELT,COVID-19 Blame,baseline
+Brazil,-0.7753903908264694,GDELT,COVID-19 Blame,baseline
+Canada,-0.03919100402203662,GDELT,COVID-19 Blame,baseline
+France,-0.7991568195502571,GDELT,COVID-19 Blame,baseline
+Germany,-0.06844437315454716,GDELT,COVID-19 Blame,baseline
+India,-1.5067171365942438,GDELT,COVID-19 Blame,baseline
+Indonesia,-0.18021756033164213,GDELT,COVID-19 Blame,baseline
+Iran,-0.1756016339175953,GDELT,COVID-19 Blame,baseline
+Italy,0.46148618484104864,GDELT,COVID-19 Blame,baseline
+Japan,-0.6044940300268432,GDELT,COVID-19 Blame,baseline
+Malaysia,0.13476456075948423,GDELT,COVID-19 Blame,baseline
+Mexico,-1.1138963468809608,GDELT,COVID-19 Blame,baseline
+Netherlands,0.11071781848370961,GDELT,COVID-19 Blame,baseline
+Philippines,-0.18611266506269472,GDELT,COVID-19 Blame,baseline
+Russia,-0.46948660347329513,GDELT,COVID-19 Blame,baseline
+Saudi Arabia,1.0099848050566902,GDELT,COVID-19 Blame,baseline
+Singapore,-0.424112211815,GDELT,COVID-19 Blame,baseline
+South Korea,-0.39702889507713685,GDELT,COVID-19 Blame,baseline
+Spain,0.7809326291860251,GDELT,COVID-19 Blame,baseline
+Thailand,-0.8859647071343495,GDELT,COVID-19 Blame,baseline
+United Arab Emirates,-0.23913312838696207,GDELT,COVID-19 Blame,baseline
+United Kingdom,-0.21057997816249263,GDELT,COVID-19 Blame,baseline
+Vietnam,-0.6278101616745481,GDELT,COVID-19 Blame,baseline
+Australia,-0.004079709529301446,GDELT,Anchorage Talks,baseline
+Belgium,-0.6517493511588636,GDELT,Anchorage Talks,baseline
+Brazil,0.500782195582999,GDELT,Anchorage Talks,baseline
+Canada,-0.4443898545241011,GDELT,Anchorage Talks,baseline
+France,-0.04098336896470555,GDELT,Anchorage Talks,baseline
+Germany,0.26157394279446555,GDELT,Anchorage Talks,baseline
+India,0.392669035939419,GDELT,Anchorage Talks,baseline
+Indonesia,0.3998993740458223,GDELT,Anchorage Talks,baseline
+Iran,0.4613573414696819,GDELT,Anchorage Talks,baseline
+Italy,0.012712533814944693,GDELT,Anchorage Talks,baseline
+Japan,-0.8047976433800336,GDELT,Anchorage Talks,baseline
+Malaysia,-0.5016546032443281,GDELT,Anchorage Talks,baseline
+Mexico,-0.2503827692293841,GDELT,Anchorage Talks,baseline
+Netherlands,-0.378581765314262,GDELT,Anchorage Talks,baseline
+Philippines,-0.3566098293157747,GDELT,Anchorage Talks,baseline
+Russia,0.7777078251929799,GDELT,Anchorage Talks,baseline
+Saudi Arabia,0.3907751321136287,GDELT,Anchorage Talks,baseline
+Singapore,-0.29865255836615334,GDELT,Anchorage Talks,baseline
+South Korea,-0.3072351785993137,GDELT,Anchorage Talks,baseline
+Spain,-0.0771324170779031,GDELT,Anchorage Talks,baseline
+Thailand,-0.3268311508496166,GDELT,Anchorage Talks,baseline
+United Arab Emirates,0.193970005142188,GDELT,Anchorage Talks,baseline
+United Kingdom,0.2725232667493611,GDELT,Anchorage Talks,baseline
+Vietnam,-0.7155996304176838,GDELT,Anchorage Talks,baseline
+Australia,0.8193994201662086,GDELT,Pelosi visits Taiwan,baseline
+Belgium,0.39656248852153825,GDELT,Pelosi visits Taiwan,baseline
+Brazil,0.12986864151887484,GDELT,Pelosi visits Taiwan,baseline
+Canada,0.390036193199663,GDELT,Pelosi visits Taiwan,baseline
+France,0.20571609687034229,GDELT,Pelosi visits Taiwan,baseline
+Germany,-0.5686312886659627,GDELT,Pelosi visits Taiwan,baseline
+India,-0.388832124201532,GDELT,Pelosi visits Taiwan,baseline
+Indonesia,-0.03271897674276895,GDELT,Pelosi visits Taiwan,baseline
+Iran,-0.7019168145994377,GDELT,Pelosi visits Taiwan,baseline
+Italy,0.32300272491832926,GDELT,Pelosi visits Taiwan,baseline
+Japan,-0.17309456074482285,GDELT,Pelosi visits Taiwan,baseline
+Malaysia,-0.2640826730755615,GDELT,Pelosi visits Taiwan,baseline
+Mexico,0.567676290453728,GDELT,Pelosi visits Taiwan,baseline
+Netherlands,0.21420800930015063,GDELT,Pelosi visits Taiwan,baseline
+Philippines,0.3759808797957925,GDELT,Pelosi visits Taiwan,baseline
+Russia,0.5410197398139793,GDELT,Pelosi visits Taiwan,baseline
+Saudi Arabia,0.2158304108788065,GDELT,Pelosi visits Taiwan,baseline
+Singapore,0.4808099069425166,GDELT,Pelosi visits Taiwan,baseline
+South Korea,0.02022256252476175,GDELT,Pelosi visits Taiwan,baseline
+Spain,0.3728217892814127,GDELT,Pelosi visits Taiwan,baseline
+Thailand,1.2238751028287755,GDELT,Pelosi visits Taiwan,baseline
+United Arab Emirates,0.17331169154816412,GDELT,Pelosi visits Taiwan,baseline
+United Kingdom,0.08095205264903944,GDELT,Pelosi visits Taiwan,baseline
+Vietnam,0.3790939708496494,GDELT,Pelosi visits Taiwan,baseline
+Australia,0.13122374364272033,GDELT,Biden hikes tariffs on China EVs,baseline
+Belgium,-0.1866410283974242,GDELT,Biden hikes tariffs on China EVs,baseline
+Brazil,-0.4828756364631769,GDELT,Biden hikes tariffs on China EVs,baseline
+Canada,-0.08275741151127892,GDELT,Biden hikes tariffs on China EVs,baseline
+France,-0.812674052408376,GDELT,Biden hikes tariffs on China EVs,baseline
+Germany,-0.9157784347785913,GDELT,Biden hikes tariffs on China EVs,baseline
+India,0.057776522239015755,GDELT,Biden hikes tariffs on China EVs,baseline
+Indonesia,-0.3188927462871465,GDELT,Biden hikes tariffs on China EVs,baseline
+Iran,0.9366571558912746,GDELT,Biden hikes tariffs on China EVs,baseline
+Italy,-0.7363275140411376,GDELT,Biden hikes tariffs on China EVs,baseline
+Japan,-0.05228939732150222,GDELT,Biden hikes tariffs on China EVs,baseline
+Malaysia,-0.23005297453043724,GDELT,Biden hikes tariffs on China EVs,baseline
+Mexico,0.23695816454125046,GDELT,Biden hikes tariffs on China EVs,baseline
+Netherlands,-0.6956156768176648,GDELT,Biden hikes tariffs on China EVs,baseline
+Philippines,-0.44368139881817703,GDELT,Biden hikes tariffs on China EVs,baseline
+Russia,0.32096499149663893,GDELT,Biden hikes tariffs on China EVs,baseline
+Saudi Arabia,0.30534276494750423,GDELT,Biden hikes tariffs on China EVs,baseline
+Singapore,-0.23200496696567222,GDELT,Biden hikes tariffs on China EVs,baseline
+South Korea,0.4078570785432246,GDELT,Biden hikes tariffs on China EVs,baseline
+Spain,-0.2573781959108893,GDELT,Biden hikes tariffs on China EVs,baseline
+Thailand,-0.03746393584489498,GDELT,Biden hikes tariffs on China EVs,baseline
+United Arab Emirates,-0.19859183238706485,GDELT,Biden hikes tariffs on China EVs,baseline
+United Kingdom,-0.11898954551700681,GDELT,Biden hikes tariffs on China EVs,baseline
+Vietnam,-0.6292571827724324,GDELT,Biden hikes tariffs on China EVs,baseline
+Australia,-0.054381294298658844,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Belgium,0.1586058983726775,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Brazil,-0.5020124551765253,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Canada,0.4028073162716153,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+France,-0.4598102415949041,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Germany,-0.43790629846409657,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+India,-0.18708571040821645,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Indonesia,0.4556875520797409,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Iran,-0.06241193693552367,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Italy,0.05279154110313823,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Japan,-0.3528061732679927,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Malaysia,0.5314992874976634,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Mexico,0.48155711015348773,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Netherlands,0.08348100681157666,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Philippines,-0.08299114135946153,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Russia,-0.1847497184885996,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Saudi Arabia,0.008501963972338171,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Singapore,-0.11910454027288715,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+South Korea,0.2733743084958315,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Spain,0.17264416478791605,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Thailand,-0.14690288719891295,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+United Arab Emirates,-0.05188069670904493,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+United Kingdom,0.10810708486754642,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Vietnam,0.47088959725074814,GDELT,US-China reciprocal tariff war escalates in April 2025,baseline
+Australia,-0.1951711821855844,GDELT,China-US economic and trade talks held in Madrid,baseline
+Belgium,0.3825283984304772,GDELT,China-US economic and trade talks held in Madrid,baseline
+Brazil,0.4224623572867608,GDELT,China-US economic and trade talks held in Madrid,baseline
+Canada,0.568443840297434,GDELT,China-US economic and trade talks held in Madrid,baseline
+France,-0.6391677259243793,GDELT,China-US economic and trade talks held in Madrid,baseline
+Germany,-0.17183441450347356,GDELT,China-US economic and trade talks held in Madrid,baseline
+India,-0.006938907217877752,GDELT,China-US economic and trade talks held in Madrid,baseline
+Indonesia,-0.37582006458888095,GDELT,China-US economic and trade talks held in Madrid,baseline
+Iran,0.5661546416905423,GDELT,China-US economic and trade talks held in Madrid,baseline
+Italy,-0.30060093612704314,GDELT,China-US economic and trade talks held in Madrid,baseline
+Japan,-0.2672078454780018,GDELT,China-US economic and trade talks held in Madrid,baseline
+Malaysia,0.04330004960024089,GDELT,China-US economic and trade talks held in Madrid,baseline
+Mexico,-0.2288995701018323,GDELT,China-US economic and trade talks held in Madrid,baseline
+Netherlands,-0.5774938411378615,GDELT,China-US economic and trade talks held in Madrid,baseline
+Philippines,-0.14542048460809276,GDELT,China-US economic and trade talks held in Madrid,baseline
+Russia,-0.011906666572347485,GDELT,China-US economic and trade talks held in Madrid,baseline
+Saudi Arabia,-0.2945481286604748,GDELT,China-US economic and trade talks held in Madrid,baseline
+Singapore,1.1648290455484236,GDELT,China-US economic and trade talks held in Madrid,baseline
+South Korea,0.4486764277484686,GDELT,China-US economic and trade talks held in Madrid,baseline
+Spain,-0.04442713675758918,GDELT,China-US economic and trade talks held in Madrid,baseline
+Thailand,-0.21267808699760857,GDELT,China-US economic and trade talks held in Madrid,baseline
+United Arab Emirates,0.15474225372480238,GDELT,China-US economic and trade talks held in Madrid,baseline
+United Kingdom,-0.4253745525603128,GDELT,China-US economic and trade talks held in Madrid,baseline
+Vietnam,-0.02316455884818172,GDELT,China-US economic and trade talks held in Madrid,baseline
+Australia,0.1521917203689659,ICEWS,Financial Crisis Cooperation,baseline
+Belgium,0.38250534081470644,ICEWS,Financial Crisis Cooperation,baseline
+Brazil,0.13960179801495448,ICEWS,Financial Crisis Cooperation,baseline
+Canada,-0.08345719240813197,ICEWS,Financial Crisis Cooperation,baseline
+France,0.19125620781901945,ICEWS,Financial Crisis Cooperation,baseline
+Germany,0.6499657682547277,ICEWS,Financial Crisis Cooperation,baseline
+India,0.15965339406699464,ICEWS,Financial Crisis Cooperation,baseline
+Indonesia,0.7567958537148287,ICEWS,Financial Crisis Cooperation,baseline
+Iran,0.2324990406052975,ICEWS,Financial Crisis Cooperation,baseline
+Italy,-0.2874816251997122,ICEWS,Financial Crisis Cooperation,baseline
+Japan,-0.2083111385452375,ICEWS,Financial Crisis Cooperation,baseline
+Malaysia,0.21231875299026726,ICEWS,Financial Crisis Cooperation,baseline
+Mexico,-1.4004112049864672,ICEWS,Financial Crisis Cooperation,baseline
+Netherlands,-0.14119033850953086,ICEWS,Financial Crisis Cooperation,baseline
+Philippines,-0.16789173970811147,ICEWS,Financial Crisis Cooperation,baseline
+Russia,0.08963141152755814,ICEWS,Financial Crisis Cooperation,baseline
+Saudi Arabia,-0.5200101993993606,ICEWS,Financial Crisis Cooperation,baseline
+Singapore,0.3750650589570918,ICEWS,Financial Crisis Cooperation,baseline
+South Korea,-0.018258874152967165,ICEWS,Financial Crisis Cooperation,baseline
+Spain,0.6653653143579359,ICEWS,Financial Crisis Cooperation,baseline
+Thailand,-0.08759155794890196,ICEWS,Financial Crisis Cooperation,baseline
+United Arab Emirates,0.8424098782568136,ICEWS,Financial Crisis Cooperation,baseline
+United Kingdom,0.08887140891853314,ICEWS,Financial Crisis Cooperation,baseline
+Vietnam,0.09077754700150999,ICEWS,Financial Crisis Cooperation,baseline
+Australia,-0.8132123566611126,ICEWS,Pivot to Asia announced,baseline
+Belgium,-0.08643768380411479,ICEWS,Pivot to Asia announced,baseline
+Brazil,-0.3174220639418471,ICEWS,Pivot to Asia announced,baseline
+Canada,-0.009446811817236587,ICEWS,Pivot to Asia announced,baseline
+France,0.24191662665375896,ICEWS,Pivot to Asia announced,baseline
+Germany,1.3253903710316393,ICEWS,Pivot to Asia announced,baseline
+India,0.07109043062148143,ICEWS,Pivot to Asia announced,baseline
+Indonesia,0.5720442045788742,ICEWS,Pivot to Asia announced,baseline
+Iran,-0.3472233482974123,ICEWS,Pivot to Asia announced,baseline
+Italy,-0.6525367238378513,ICEWS,Pivot to Asia announced,baseline
+Japan,-0.15093429632111288,ICEWS,Pivot to Asia announced,baseline
+Malaysia,0.004109035647604461,ICEWS,Pivot to Asia announced,baseline
+Mexico,0.8155808762073304,ICEWS,Pivot to Asia announced,baseline
+Netherlands,-1.5211254022829697,ICEWS,Pivot to Asia announced,baseline
+Philippines,-0.6896015579242553,ICEWS,Pivot to Asia announced,baseline
+Russia,-0.35640177207348134,ICEWS,Pivot to Asia announced,baseline
+Saudi Arabia,0.13897803015675458,ICEWS,Pivot to Asia announced,baseline
+Singapore,-0.6078858273368235,ICEWS,Pivot to Asia announced,baseline
+South Korea,-0.7463515740633453,ICEWS,Pivot to Asia announced,baseline
+Spain,0.39190886449786344,ICEWS,Pivot to Asia announced,baseline
+Thailand,1.3621193676816725,ICEWS,Pivot to Asia announced,baseline
+United Arab Emirates,0.22757699529286732,ICEWS,Pivot to Asia announced,baseline
+United Kingdom,0.5243800719869525,ICEWS,Pivot to Asia announced,baseline
+Vietnam,0.7563907451684094,ICEWS,Pivot to Asia announced,baseline
+Australia,0.9688776821850981,ICEWS,South China Sea Arbitration Ruling,baseline
+Belgium,1.1471974044500859,ICEWS,South China Sea Arbitration Ruling,baseline
+Brazil,0.12335989622254578,ICEWS,South China Sea Arbitration Ruling,baseline
+Canada,0.5669984920781266,ICEWS,South China Sea Arbitration Ruling,baseline
+France,0.7837599046929038,ICEWS,South China Sea Arbitration Ruling,baseline
+Germany,0.8358422039160671,ICEWS,South China Sea Arbitration Ruling,baseline
+India,0.278462707054525,ICEWS,South China Sea Arbitration Ruling,baseline
+Indonesia,0.545895502791833,ICEWS,South China Sea Arbitration Ruling,baseline
+Iran,-0.0766918694261842,ICEWS,South China Sea Arbitration Ruling,baseline
+Italy,-0.1479763958694447,ICEWS,South China Sea Arbitration Ruling,baseline
+Japan,-0.7858863839269782,ICEWS,South China Sea Arbitration Ruling,baseline
+Malaysia,-0.049318832308794296,ICEWS,South China Sea Arbitration Ruling,baseline
+Mexico,0.16777840763373875,ICEWS,South China Sea Arbitration Ruling,baseline
+Netherlands,-2.394626822375868,ICEWS,South China Sea Arbitration Ruling,baseline
+Philippines,1.191551065750599,ICEWS,South China Sea Arbitration Ruling,baseline
+Russia,-0.4435040201609746,ICEWS,South China Sea Arbitration Ruling,baseline
+Saudi Arabia,0.3483414168593157,ICEWS,South China Sea Arbitration Ruling,baseline
+Singapore,-0.5420435441922807,ICEWS,South China Sea Arbitration Ruling,baseline
+South Korea,-0.7112300224665581,ICEWS,South China Sea Arbitration Ruling,baseline
+Spain,0.6775467535640054,ICEWS,South China Sea Arbitration Ruling,baseline
+Thailand,1.938762564517022,ICEWS,South China Sea Arbitration Ruling,baseline
+United Arab Emirates,0.20390721842635592,ICEWS,South China Sea Arbitration Ruling,baseline
+United Kingdom,0.24097403458558012,ICEWS,South China Sea Arbitration Ruling,baseline
+Vietnam,0.40625406210292364,ICEWS,South China Sea Arbitration Ruling,baseline
+Australia,-0.21662507101712675,ICEWS,Steel/aluminum tariffs imposed,baseline
+Belgium,0.3435167263965739,ICEWS,Steel/aluminum tariffs imposed,baseline
+Brazil,-0.9702240553766651,ICEWS,Steel/aluminum tariffs imposed,baseline
+Canada,-0.9774681264916845,ICEWS,Steel/aluminum tariffs imposed,baseline
+France,-0.26115265903732315,ICEWS,Steel/aluminum tariffs imposed,baseline
+Germany,0.7482834310001408,ICEWS,Steel/aluminum tariffs imposed,baseline
+India,0.57995996781162,ICEWS,Steel/aluminum tariffs imposed,baseline
+Indonesia,0.28760972266314794,ICEWS,Steel/aluminum tariffs imposed,baseline
+Iran,-0.03554211575645501,ICEWS,Steel/aluminum tariffs imposed,baseline
+Italy,0.050628265399172666,ICEWS,Steel/aluminum tariffs imposed,baseline
+Japan,0.062110070658100903,ICEWS,Steel/aluminum tariffs imposed,baseline
+Malaysia,0.7768176512750679,ICEWS,Steel/aluminum tariffs imposed,baseline
+Mexico,-0.2616299566909083,ICEWS,Steel/aluminum tariffs imposed,baseline
+Netherlands,-0.4640688800903863,ICEWS,Steel/aluminum tariffs imposed,baseline
+Philippines,-0.3025422793227554,ICEWS,Steel/aluminum tariffs imposed,baseline
+Russia,0.1914485584480839,ICEWS,Steel/aluminum tariffs imposed,baseline
+Saudi Arabia,1.225493312913173,ICEWS,Steel/aluminum tariffs imposed,baseline
+Singapore,0.344448756133828,ICEWS,Steel/aluminum tariffs imposed,baseline
+South Korea,0.2581193218432334,ICEWS,Steel/aluminum tariffs imposed,baseline
+Spain,-1.2259201048210797,ICEWS,Steel/aluminum tariffs imposed,baseline
+Thailand,-0.8326586926462022,ICEWS,Steel/aluminum tariffs imposed,baseline
+United Arab Emirates,-0.7119034530715352,ICEWS,Steel/aluminum tariffs imposed,baseline
+United Kingdom,-0.35687057859555094,ICEWS,Steel/aluminum tariffs imposed,baseline
+Vietnam,-0.3165441997797271,ICEWS,Steel/aluminum tariffs imposed,baseline
+Australia,0.1436427648476091,ICEWS,US bans ZTE from tech exports,baseline
+Belgium,0.43859345796183147,ICEWS,US bans ZTE from tech exports,baseline
+Brazil,-0.7996788621271728,ICEWS,US bans ZTE from tech exports,baseline
+Canada,-0.47052164011846526,ICEWS,US bans ZTE from tech exports,baseline
+France,-0.6277015701354883,ICEWS,US bans ZTE from tech exports,baseline
+Germany,0.9233387631904625,ICEWS,US bans ZTE from tech exports,baseline
+India,0.4837169096207058,ICEWS,US bans ZTE from tech exports,baseline
+Indonesia,-0.031229172128305314,ICEWS,US bans ZTE from tech exports,baseline
+Iran,0.012855667021146353,ICEWS,US bans ZTE from tech exports,baseline
+Italy,0.29631957191600633,ICEWS,US bans ZTE from tech exports,baseline
+Japan,0.15051741702987137,ICEWS,US bans ZTE from tech exports,baseline
+Malaysia,0.8655297402846669,ICEWS,US bans ZTE from tech exports,baseline
+Mexico,-0.12954046763053326,ICEWS,US bans ZTE from tech exports,baseline
+Netherlands,-0.36055156809125727,ICEWS,US bans ZTE from tech exports,baseline
+Philippines,-0.35769480120007197,ICEWS,US bans ZTE from tech exports,baseline
+Russia,0.3004422188244906,ICEWS,US bans ZTE from tech exports,baseline
+Saudi Arabia,1.0941790666802833,ICEWS,US bans ZTE from tech exports,baseline
+Singapore,0.0023223805895624277,ICEWS,US bans ZTE from tech exports,baseline
+South Korea,0.06634096512214858,ICEWS,US bans ZTE from tech exports,baseline
+Spain,-1.221371542675379,ICEWS,US bans ZTE from tech exports,baseline
+Thailand,-0.5855262352763995,ICEWS,US bans ZTE from tech exports,baseline
+United Arab Emirates,-0.3936519853938935,ICEWS,US bans ZTE from tech exports,baseline
+United Kingdom,-0.9359755793814195,ICEWS,US bans ZTE from tech exports,baseline
+Vietnam,-0.2157387776929814,ICEWS,US bans ZTE from tech exports,baseline
+Australia,0.5082807158044816,ICEWS,Trade War Begins,baseline
+Belgium,0.2841610696665614,ICEWS,Trade War Begins,baseline
+Brazil,-0.2970392658927511,ICEWS,Trade War Begins,baseline
+Canada,0.13684923132184162,ICEWS,Trade War Begins,baseline
+France,-0.7396584477615881,ICEWS,Trade War Begins,baseline
+Germany,-0.3650180535409421,ICEWS,Trade War Begins,baseline
+India,-0.38834394435547354,ICEWS,Trade War Begins,baseline
+Indonesia,0.5491986022731133,ICEWS,Trade War Begins,baseline
+Iran,-0.5003695936480322,ICEWS,Trade War Begins,baseline
+Italy,0.40514723624618976,ICEWS,Trade War Begins,baseline
+Japan,-0.5507756459682027,ICEWS,Trade War Begins,baseline
+Malaysia,-0.6179846536391473,ICEWS,Trade War Begins,baseline
+Mexico,-0.15966861699172633,ICEWS,Trade War Begins,baseline
+Netherlands,-0.15573577957587226,ICEWS,Trade War Begins,baseline
+Philippines,0.23508954373282853,ICEWS,Trade War Begins,baseline
+Russia,0.07131690547934856,ICEWS,Trade War Begins,baseline
+Saudi Arabia,0.9148753814252681,ICEWS,Trade War Begins,baseline
+Singapore,0.1981404918606462,ICEWS,Trade War Begins,baseline
+South Korea,-0.6301160896138819,ICEWS,Trade War Begins,baseline
+Spain,-0.255086399494125,ICEWS,Trade War Begins,baseline
+Thailand,-0.2690733479950035,ICEWS,Trade War Begins,baseline
+United Arab Emirates,0.5049281394886139,ICEWS,Trade War Begins,baseline
+United Kingdom,-1.618444585354435,ICEWS,Trade War Begins,baseline
+Vietnam,0.5460485281509991,ICEWS,Trade War Begins,baseline
+Australia,-0.35739519027949546,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Belgium,0.47510249905947427,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Brazil,-0.47122813317945805,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Canada,-1.5991984533660042,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+France,-0.25765514421466734,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Germany,-0.9023121177379219,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+India,-0.30583254076230665,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Indonesia,-0.027017214691117224,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Iran,-0.22585903491474912,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Italy,0.1286084353644083,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Japan,-0.16018390371063626,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Malaysia,0.4708774739989018,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Mexico,0.42373687592277137,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Netherlands,0.19561910271986124,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Philippines,-0.23082077352226588,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Russia,-0.35767626218271087,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Saudi Arabia,0.6976239652844424,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Singapore,-0.12163737179284596,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+South Korea,0.05336074502016043,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Spain,0.2478167881575079,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Thailand,0.5089493518307677,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+United Arab Emirates,-0.4371623293745506,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+United Kingdom,-0.45557675188945046,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Vietnam,0.049059020528493244,ICEWS,Huawei CFO Meng Wanzhou arrested,baseline
+Australia,-0.4293731075491597,ICEWS,US hikes tariffs on $200B goods,baseline
+Belgium,0.20097296941587764,ICEWS,US hikes tariffs on $200B goods,baseline
+Brazil,0.08450279208743695,ICEWS,US hikes tariffs on $200B goods,baseline
+Canada,-0.675308566748521,ICEWS,US hikes tariffs on $200B goods,baseline
+France,0.3784250348465426,ICEWS,US hikes tariffs on $200B goods,baseline
+Germany,0.4058209244271932,ICEWS,US hikes tariffs on $200B goods,baseline
+India,0.5154707951718738,ICEWS,US hikes tariffs on $200B goods,baseline
+Indonesia,-0.7255958315991559,ICEWS,US hikes tariffs on $200B goods,baseline
+Iran,1.0419237704594955,ICEWS,US hikes tariffs on $200B goods,baseline
+Italy,-0.36762406561658945,ICEWS,US hikes tariffs on $200B goods,baseline
+Japan,1.3133845980577294,ICEWS,US hikes tariffs on $200B goods,baseline
+Malaysia,-0.4334961090329777,ICEWS,US hikes tariffs on $200B goods,baseline
+Mexico,0.24707242926076053,ICEWS,US hikes tariffs on $200B goods,baseline
+Netherlands,-0.37490008423931126,ICEWS,US hikes tariffs on $200B goods,baseline
+Philippines,-0.3406464275046533,ICEWS,US hikes tariffs on $200B goods,baseline
+Russia,0.1421887162745206,ICEWS,US hikes tariffs on $200B goods,baseline
+Saudi Arabia,0.2825709073260506,ICEWS,US hikes tariffs on $200B goods,baseline
+Singapore,-0.1603775439088103,ICEWS,US hikes tariffs on $200B goods,baseline
+South Korea,0.3681386543250093,ICEWS,US hikes tariffs on $200B goods,baseline
+Spain,-0.6769043425340511,ICEWS,US hikes tariffs on $200B goods,baseline
+Thailand,-0.4511741238388857,ICEWS,US hikes tariffs on $200B goods,baseline
+United Arab Emirates,-0.8940876603440426,ICEWS,US hikes tariffs on $200B goods,baseline
+United Kingdom,0.4020977734729277,ICEWS,US hikes tariffs on $200B goods,baseline
+Vietnam,-0.6426520980812771,ICEWS,US hikes tariffs on $200B goods,baseline
+Australia,-0.8464205925927235,ICEWS,US-China Phase One deal signed,baseline
+Belgium,0.19584721585698334,ICEWS,US-China Phase One deal signed,baseline
+Brazil,-0.7893673210520478,ICEWS,US-China Phase One deal signed,baseline
+Canada,1.0147132386687479,ICEWS,US-China Phase One deal signed,baseline
+France,-0.5254798961943531,ICEWS,US-China Phase One deal signed,baseline
+Germany,-0.5995969062933588,ICEWS,US-China Phase One deal signed,baseline
+India,-0.7177876276199657,ICEWS,US-China Phase One deal signed,baseline
+Indonesia,-0.5013312840877601,ICEWS,US-China Phase One deal signed,baseline
+Iran,-0.0754377133580069,ICEWS,US-China Phase One deal signed,baseline
+Italy,0.1292246200095997,ICEWS,US-China Phase One deal signed,baseline
+Japan,-0.35750888541608505,ICEWS,US-China Phase One deal signed,baseline
+Malaysia,-0.1413014807282707,ICEWS,US-China Phase One deal signed,baseline
+Mexico,0.2752778018407168,ICEWS,US-China Phase One deal signed,baseline
+Netherlands,-0.484143104041379,ICEWS,US-China Phase One deal signed,baseline
+Philippines,-0.33794343217048795,ICEWS,US-China Phase One deal signed,baseline
+Russia,0.007593337060056438,ICEWS,US-China Phase One deal signed,baseline
+Saudi Arabia,0.8506098598572892,ICEWS,US-China Phase One deal signed,baseline
+Singapore,-0.29759588313151336,ICEWS,US-China Phase One deal signed,baseline
+South Korea,-0.06881940302798713,ICEWS,US-China Phase One deal signed,baseline
+Spain,-0.19680701483216126,ICEWS,US-China Phase One deal signed,baseline
+Thailand,-0.004627217932291467,ICEWS,US-China Phase One deal signed,baseline
+United Arab Emirates,0.6605236733761904,ICEWS,US-China Phase One deal signed,baseline
+United Kingdom,0.15784337835343565,ICEWS,US-China Phase One deal signed,baseline
+Vietnam,-0.6905799429403523,ICEWS,US-China Phase One deal signed,baseline
+Australia,-1.2194476112176025,ICEWS,COVID-19 Blame,baseline
+Belgium,0.2048600852146778,ICEWS,COVID-19 Blame,baseline
+Brazil,-1.3004691198980396,ICEWS,COVID-19 Blame,baseline
+Canada,0.551945414337419,ICEWS,COVID-19 Blame,baseline
+France,-0.3226063149409584,ICEWS,COVID-19 Blame,baseline
+Germany,-0.9283635586249843,ICEWS,COVID-19 Blame,baseline
+India,-1.0605634727676432,ICEWS,COVID-19 Blame,baseline
+Indonesia,9.843227443186839e-4,ICEWS,COVID-19 Blame,baseline
+Iran,-0.26897560111784163,ICEWS,COVID-19 Blame,baseline
+Italy,0.5497232053904737,ICEWS,COVID-19 Blame,baseline
+Japan,-0.2802468019685094,ICEWS,COVID-19 Blame,baseline
+Malaysia,0.08221939058464246,ICEWS,COVID-19 Blame,baseline
+Mexico,-0.25237629507302806,ICEWS,COVID-19 Blame,baseline
+Netherlands,0.02104288009593924,ICEWS,COVID-19 Blame,baseline
+Philippines,-0.14919394798138577,ICEWS,COVID-19 Blame,baseline
+Russia,-0.3345176071562678,ICEWS,COVID-19 Blame,baseline
+Saudi Arabia,0.2806917585788277,ICEWS,COVID-19 Blame,baseline
+Singapore,-0.545887042214239,ICEWS,COVID-19 Blame,baseline
+South Korea,0.008166316380424208,ICEWS,COVID-19 Blame,baseline
+Spain,-0.2533264795647773,ICEWS,COVID-19 Blame,baseline
+Thailand,-0.3683226365196178,ICEWS,COVID-19 Blame,baseline
+United Arab Emirates,1.2762003581800019,ICEWS,COVID-19 Blame,baseline
+United Kingdom,-0.5445073715223108,ICEWS,COVID-19 Blame,baseline
+Vietnam,-1.452621526535904,ICEWS,COVID-19 Blame,baseline
+Australia,0.6028795554889023,ICEWS,Anchorage Talks,baseline
+Belgium,-1.1573745729885379,ICEWS,Anchorage Talks,baseline
+Brazil,-0.240934761818213,ICEWS,Anchorage Talks,baseline
+Canada,-0.3232825710220342,ICEWS,Anchorage Talks,baseline
+France,0.32870504830049796,ICEWS,Anchorage Talks,baseline
+Germany,1.019100650166637,ICEWS,Anchorage Talks,baseline
+India,0.49492246835611314,ICEWS,Anchorage Talks,baseline
+Indonesia,-0.554051278751127,ICEWS,Anchorage Talks,baseline
+Iran,-0.3630625508173284,ICEWS,Anchorage Talks,baseline
+Italy,-0.3374083181539196,ICEWS,Anchorage Talks,baseline
+Japan,-0.9316599264178467,ICEWS,Anchorage Talks,baseline
+Malaysia,-0.6894326321147536,ICEWS,Anchorage Talks,baseline
+Mexico,0.5349893104914906,ICEWS,Anchorage Talks,baseline
+Netherlands,0.42930398391880464,ICEWS,Anchorage Talks,baseline
+Philippines,-0.5305588649132083,ICEWS,Anchorage Talks,baseline
+Russia,0.34761165924488374,ICEWS,Anchorage Talks,baseline
+Saudi Arabia,1.3604738104021643,ICEWS,Anchorage Talks,baseline
+Singapore,-0.05983476009306,ICEWS,Anchorage Talks,baseline
+South Korea,-0.24578356551066247,ICEWS,Anchorage Talks,baseline
+Spain,0.44752219395197623,ICEWS,Anchorage Talks,baseline
+Thailand,1.0994748338331919,ICEWS,Anchorage Talks,baseline
+United Arab Emirates,-0.47950016675702983,ICEWS,Anchorage Talks,baseline
+United Kingdom,0.5169460740101581,ICEWS,Anchorage Talks,baseline
+Vietnam,0.05056169004371048,ICEWS,Anchorage Talks,baseline
+Australia,1.1807729317392543,ICEWS,Pelosi visits Taiwan,baseline
+Belgium,0.35843655661332924,ICEWS,Pelosi visits Taiwan,baseline
+Brazil,-0.2922680556308547,ICEWS,Pelosi visits Taiwan,baseline
+Canada,-0.2957960189729482,ICEWS,Pelosi visits Taiwan,baseline
+France,-0.012998845343308404,ICEWS,Pelosi visits Taiwan,baseline
+Germany,-0.650570426105149,ICEWS,Pelosi visits Taiwan,baseline
+India,-0.7657792186732539,ICEWS,Pelosi visits Taiwan,baseline
+Indonesia,-0.5476374264412791,ICEWS,Pelosi visits Taiwan,baseline
+Iran,0.46738557670298764,ICEWS,Pelosi visits Taiwan,baseline
+Italy,-0.9743832127268776,ICEWS,Pelosi visits Taiwan,baseline
+Japan,0.4569418765067648,ICEWS,Pelosi visits Taiwan,baseline
+Malaysia,-1.6860022805540502,ICEWS,Pelosi visits Taiwan,baseline
+Mexico,-0.12258883931645465,ICEWS,Pelosi visits Taiwan,baseline
+Netherlands,-0.10768132959963463,ICEWS,Pelosi visits Taiwan,baseline
+Philippines,-0.01215485935460319,ICEWS,Pelosi visits Taiwan,baseline
+Russia,0.9170701081496522,ICEWS,Pelosi visits Taiwan,baseline
+Saudi Arabia,-0.15370387338181743,ICEWS,Pelosi visits Taiwan,baseline
+Singapore,-1.1073101476004343,ICEWS,Pelosi visits Taiwan,baseline
+South Korea,0.4852600715052768,ICEWS,Pelosi visits Taiwan,baseline
+Spain,0.043095327217823234,ICEWS,Pelosi visits Taiwan,baseline
+Thailand,-0.6192550609330147,ICEWS,Pelosi visits Taiwan,baseline
+United Arab Emirates,0.49718065916797566,ICEWS,Pelosi visits Taiwan,baseline
+United Kingdom,-0.3143740773418005,ICEWS,Pelosi visits Taiwan,baseline
+Vietnam,1.4555426298892231,ICEWS,Pelosi visits Taiwan,baseline
+Australia,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Belgium,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Brazil,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Canada,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+France,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Germany,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+India,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Indonesia,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Iran,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Italy,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Japan,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Malaysia,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Mexico,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Netherlands,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Philippines,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Russia,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Saudi Arabia,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Singapore,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+South Korea,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Spain,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Thailand,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+United Arab Emirates,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+United Kingdom,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Vietnam,0,ICEWS,Biden hikes tariffs on China EVs,baseline
+Australia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Belgium,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Brazil,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Canada,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+France,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Germany,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+India,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Indonesia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Iran,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Italy,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Japan,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Malaysia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Mexico,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Netherlands,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Philippines,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Russia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Saudi Arabia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Singapore,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+South Korea,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Spain,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Thailand,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+United Arab Emirates,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+United Kingdom,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Vietnam,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,baseline
+Australia,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Belgium,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Brazil,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Canada,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+France,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Germany,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+India,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Indonesia,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Iran,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Italy,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Japan,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Malaysia,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Mexico,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Netherlands,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Philippines,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Russia,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Saudi Arabia,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Singapore,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+South Korea,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Spain,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Thailand,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+United Arab Emirates,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+United Kingdom,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Vietnam,0,ICEWS,China-US economic and trade talks held in Madrid,baseline
+Australia,0.35228602893467603,GDELT,Financial Crisis Cooperation,longer_pre
+Belgium,-0.31798738673052007,GDELT,Financial Crisis Cooperation,longer_pre
+Brazil,0.2560280956990156,GDELT,Financial Crisis Cooperation,longer_pre
+Canada,0.390630391380221,GDELT,Financial Crisis Cooperation,longer_pre
+France,-1.2773460482605665,GDELT,Financial Crisis Cooperation,longer_pre
+Germany,0.40823962290634896,GDELT,Financial Crisis Cooperation,longer_pre
+India,-0.047425320222776846,GDELT,Financial Crisis Cooperation,longer_pre
+Indonesia,-0.6554698763405675,GDELT,Financial Crisis Cooperation,longer_pre
+Iran,-0.2022491895814373,GDELT,Financial Crisis Cooperation,longer_pre
+Italy,-0.3087807765788034,GDELT,Financial Crisis Cooperation,longer_pre
+Japan,0.19056006537228581,GDELT,Financial Crisis Cooperation,longer_pre
+Malaysia,-0.4754921522105478,GDELT,Financial Crisis Cooperation,longer_pre
+Mexico,0.6359059448989572,GDELT,Financial Crisis Cooperation,longer_pre
+Netherlands,-0.07657117226615187,GDELT,Financial Crisis Cooperation,longer_pre
+Philippines,0.19119047812670173,GDELT,Financial Crisis Cooperation,longer_pre
+Russia,0.0722753913494117,GDELT,Financial Crisis Cooperation,longer_pre
+Saudi Arabia,-0.5079465440985428,GDELT,Financial Crisis Cooperation,longer_pre
+Singapore,-0.46878937227940787,GDELT,Financial Crisis Cooperation,longer_pre
+South Korea,-0.4106285219015788,GDELT,Financial Crisis Cooperation,longer_pre
+Spain,0.5976252470627532,GDELT,Financial Crisis Cooperation,longer_pre
+Thailand,-0.15943396873680812,GDELT,Financial Crisis Cooperation,longer_pre
+United Arab Emirates,-0.2680588771674414,GDELT,Financial Crisis Cooperation,longer_pre
+United Kingdom,0.4989622988898511,GDELT,Financial Crisis Cooperation,longer_pre
+Vietnam,0.32752817632373976,GDELT,Financial Crisis Cooperation,longer_pre
+Australia,-0.4293404027393871,GDELT,Pivot to Asia announced,longer_pre
+Belgium,0.37605763393800573,GDELT,Pivot to Asia announced,longer_pre
+Brazil,0.22680033947950357,GDELT,Pivot to Asia announced,longer_pre
+Canada,0.3290619403219319,GDELT,Pivot to Asia announced,longer_pre
+France,-0.33581400237651304,GDELT,Pivot to Asia announced,longer_pre
+Germany,-0.3070582928298,GDELT,Pivot to Asia announced,longer_pre
+India,-0.19156282824495685,GDELT,Pivot to Asia announced,longer_pre
+Indonesia,0.25512766820070665,GDELT,Pivot to Asia announced,longer_pre
+Iran,-0.059866281031449,GDELT,Pivot to Asia announced,longer_pre
+Italy,-0.6768204051594106,GDELT,Pivot to Asia announced,longer_pre
+Japan,0.2888855357968727,GDELT,Pivot to Asia announced,longer_pre
+Malaysia,-0.402514915166375,GDELT,Pivot to Asia announced,longer_pre
+Mexico,0.04453055519837325,GDELT,Pivot to Asia announced,longer_pre
+Netherlands,0.02782851084870588,GDELT,Pivot to Asia announced,longer_pre
+Philippines,-0.4159771327978526,GDELT,Pivot to Asia announced,longer_pre
+Russia,-0.6653161328583644,GDELT,Pivot to Asia announced,longer_pre
+Saudi Arabia,-0.15182401390192982,GDELT,Pivot to Asia announced,longer_pre
+Singapore,-1.0352723592380437,GDELT,Pivot to Asia announced,longer_pre
+South Korea,-0.12279810403572983,GDELT,Pivot to Asia announced,longer_pre
+Spain,-0.8595353240618054,GDELT,Pivot to Asia announced,longer_pre
+Thailand,-0.6796680604940323,GDELT,Pivot to Asia announced,longer_pre
+United Arab Emirates,-0.36804103202531074,GDELT,Pivot to Asia announced,longer_pre
+United Kingdom,-0.43996317745990465,GDELT,Pivot to Asia announced,longer_pre
+Vietnam,0.2149950930618114,GDELT,Pivot to Asia announced,longer_pre
+Australia,-0.7373173594851009,GDELT,South China Sea Arbitration Ruling,longer_pre
+Belgium,0.35413363837109246,GDELT,South China Sea Arbitration Ruling,longer_pre
+Brazil,0.01902152092408252,GDELT,South China Sea Arbitration Ruling,longer_pre
+Canada,0.35004078014192636,GDELT,South China Sea Arbitration Ruling,longer_pre
+France,-0.19592884051124368,GDELT,South China Sea Arbitration Ruling,longer_pre
+Germany,-0.9343126625330944,GDELT,South China Sea Arbitration Ruling,longer_pre
+India,-0.48141453618103713,GDELT,South China Sea Arbitration Ruling,longer_pre
+Indonesia,-0.581331487195729,GDELT,South China Sea Arbitration Ruling,longer_pre
+Iran,-0.6509057767233033,GDELT,South China Sea Arbitration Ruling,longer_pre
+Italy,-0.35893445563410475,GDELT,South China Sea Arbitration Ruling,longer_pre
+Japan,-0.3537809069281564,GDELT,South China Sea Arbitration Ruling,longer_pre
+Malaysia,0.4056396278733257,GDELT,South China Sea Arbitration Ruling,longer_pre
+Mexico,-0.7372966425126708,GDELT,South China Sea Arbitration Ruling,longer_pre
+Netherlands,-0.47620809092444505,GDELT,South China Sea Arbitration Ruling,longer_pre
+Philippines,0.8061756682801678,GDELT,South China Sea Arbitration Ruling,longer_pre
+Russia,-0.48955622713434094,GDELT,South China Sea Arbitration Ruling,longer_pre
+Saudi Arabia,-0.04616647544754294,GDELT,South China Sea Arbitration Ruling,longer_pre
+Singapore,-0.42057203325360004,GDELT,South China Sea Arbitration Ruling,longer_pre
+South Korea,-1.2050294146998881,GDELT,South China Sea Arbitration Ruling,longer_pre
+Spain,0.574689920354867,GDELT,South China Sea Arbitration Ruling,longer_pre
+Thailand,0.2160318251349742,GDELT,South China Sea Arbitration Ruling,longer_pre
+United Arab Emirates,0.43720063011341254,GDELT,South China Sea Arbitration Ruling,longer_pre
+United Kingdom,-0.033756376848920966,GDELT,South China Sea Arbitration Ruling,longer_pre
+Vietnam,0.3574971314219246,GDELT,South China Sea Arbitration Ruling,longer_pre
+Australia,-0.4634368324076028,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Belgium,-0.45411218964523015,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Brazil,0.27234431042434787,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Canada,-0.21746165860866606,GDELT,Steel/aluminum tariffs imposed,longer_pre
+France,0.6144048345115674,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Germany,0.9387878359488742,GDELT,Steel/aluminum tariffs imposed,longer_pre
+India,0.5920764895769477,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Indonesia,0.026017283251809752,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Iran,0.12104694967291303,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Italy,0.047045054820420706,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Japan,0.6582571712361883,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Malaysia,0.38183036688554445,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Mexico,-0.09811713280383058,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Netherlands,-0.11977125914260155,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Philippines,-0.09765537871120647,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Russia,0.47452263084344953,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Saudi Arabia,0.1318614534950234,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Singapore,0.185044008266332,GDELT,Steel/aluminum tariffs imposed,longer_pre
+South Korea,1.288873520383664,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Spain,-0.26680457444327205,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Thailand,-0.0057705440671364586,GDELT,Steel/aluminum tariffs imposed,longer_pre
+United Arab Emirates,-0.4380847950594198,GDELT,Steel/aluminum tariffs imposed,longer_pre
+United Kingdom,0.5403863579504485,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Vietnam,0.040406936195794836,GDELT,Steel/aluminum tariffs imposed,longer_pre
+Australia,-0.4036392771648173,GDELT,US bans ZTE from tech exports,longer_pre
+Belgium,-0.4663225889415155,GDELT,US bans ZTE from tech exports,longer_pre
+Brazil,0.06266497944159542,GDELT,US bans ZTE from tech exports,longer_pre
+Canada,0.0384833934629004,GDELT,US bans ZTE from tech exports,longer_pre
+France,0.32838814909685954,GDELT,US bans ZTE from tech exports,longer_pre
+Germany,0.6582484970489872,GDELT,US bans ZTE from tech exports,longer_pre
+India,0.5406139052668093,GDELT,US bans ZTE from tech exports,longer_pre
+Indonesia,0.24856763863802328,GDELT,US bans ZTE from tech exports,longer_pre
+Iran,-0.15907568313705436,GDELT,US bans ZTE from tech exports,longer_pre
+Italy,-0.0025186390838870193,GDELT,US bans ZTE from tech exports,longer_pre
+Japan,0.5902516413334379,GDELT,US bans ZTE from tech exports,longer_pre
+Malaysia,0.35841562501099405,GDELT,US bans ZTE from tech exports,longer_pre
+Mexico,-0.09876414928268071,GDELT,US bans ZTE from tech exports,longer_pre
+Netherlands,-0.16959819284276315,GDELT,US bans ZTE from tech exports,longer_pre
+Philippines,-0.11879441201519299,GDELT,US bans ZTE from tech exports,longer_pre
+Russia,0.3943804271021475,GDELT,US bans ZTE from tech exports,longer_pre
+Saudi Arabia,0.18795806770897416,GDELT,US bans ZTE from tech exports,longer_pre
+Singapore,0.22614478000919033,GDELT,US bans ZTE from tech exports,longer_pre
+South Korea,0.9877155583446173,GDELT,US bans ZTE from tech exports,longer_pre
+Spain,0.01334871959926284,GDELT,US bans ZTE from tech exports,longer_pre
+Thailand,0.19310545188183195,GDELT,US bans ZTE from tech exports,longer_pre
+United Arab Emirates,-0.5316113236844584,GDELT,US bans ZTE from tech exports,longer_pre
+United Kingdom,0.38509169978502766,GDELT,US bans ZTE from tech exports,longer_pre
+Vietnam,-0.15391695899148036,GDELT,US bans ZTE from tech exports,longer_pre
+Australia,-0.26158744549996404,GDELT,Trade War Begins,longer_pre
+Belgium,-0.5281220867154329,GDELT,Trade War Begins,longer_pre
+Brazil,-0.06430457211218281,GDELT,Trade War Begins,longer_pre
+Canada,-0.644536256143725,GDELT,Trade War Begins,longer_pre
+France,-0.43892346948609146,GDELT,Trade War Begins,longer_pre
+Germany,-0.06322772710798437,GDELT,Trade War Begins,longer_pre
+India,0.3939882329479156,GDELT,Trade War Begins,longer_pre
+Indonesia,0.08026720539433084,GDELT,Trade War Begins,longer_pre
+Iran,-0.665296577789016,GDELT,Trade War Begins,longer_pre
+Italy,-0.10582587480356692,GDELT,Trade War Begins,longer_pre
+Japan,0.07113855415346723,GDELT,Trade War Begins,longer_pre
+Malaysia,0.7115577372785429,GDELT,Trade War Begins,longer_pre
+Mexico,-0.31555015806418707,GDELT,Trade War Begins,longer_pre
+Netherlands,-0.18583867867611986,GDELT,Trade War Begins,longer_pre
+Philippines,0.2149293120085095,GDELT,Trade War Begins,longer_pre
+Russia,-0.38552438889678226,GDELT,Trade War Begins,longer_pre
+Saudi Arabia,0.06974535391010107,GDELT,Trade War Begins,longer_pre
+Singapore,-0.09243342205297735,GDELT,Trade War Begins,longer_pre
+South Korea,-0.14074813825633326,GDELT,Trade War Begins,longer_pre
+Spain,0.8415884648521531,GDELT,Trade War Begins,longer_pre
+Thailand,-0.2108586986819711,GDELT,Trade War Begins,longer_pre
+United Arab Emirates,-0.15728439449342108,GDELT,Trade War Begins,longer_pre
+United Kingdom,-0.45396811458636993,GDELT,Trade War Begins,longer_pre
+Vietnam,0.23334984777915577,GDELT,Trade War Begins,longer_pre
+Australia,-0.28176895486767567,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Belgium,0.07298117722351784,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Brazil,-0.2789262305916907,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Canada,-1.9338223707732927,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+France,-0.681155092671233,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Germany,-0.5290040321569464,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+India,-0.11072443846516519,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Indonesia,-0.19962642818636278,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Iran,-0.5490426326169721,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Italy,0.41005917282465076,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Japan,-0.22650709559794382,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Malaysia,0.4367850595378747,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Mexico,0.04432273930077667,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Netherlands,-0.10334728944964869,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Philippines,-0.40031844776289566,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Russia,-0.190374121878264,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Saudi Arabia,0.3240355042890658,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Singapore,-0.32000855971203923,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+South Korea,-0.28477647258012506,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Spain,0.052803554432574284,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Thailand,-0.09400146050573145,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+United Arab Emirates,0.4025368177004178,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+United Kingdom,-1.2275913652801358,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Vietnam,-0.03961960876173037,GDELT,Huawei CFO Meng Wanzhou arrested,longer_pre
+Australia,-0.4502790476911212,GDELT,US hikes tariffs on $200B goods,longer_pre
+Belgium,0.06262040655970989,GDELT,US hikes tariffs on $200B goods,longer_pre
+Brazil,-0.13445234773003364,GDELT,US hikes tariffs on $200B goods,longer_pre
+Canada,-0.72210767767706,GDELT,US hikes tariffs on $200B goods,longer_pre
+France,0.1646084924888221,GDELT,US hikes tariffs on $200B goods,longer_pre
+Germany,0.3080714423425337,GDELT,US hikes tariffs on $200B goods,longer_pre
+India,-0.12514749849204,GDELT,US hikes tariffs on $200B goods,longer_pre
+Indonesia,0.363806166434344,GDELT,US hikes tariffs on $200B goods,longer_pre
+Iran,-0.11105300791248712,GDELT,US hikes tariffs on $200B goods,longer_pre
+Italy,-0.11688090131861584,GDELT,US hikes tariffs on $200B goods,longer_pre
+Japan,0.23820845576148295,GDELT,US hikes tariffs on $200B goods,longer_pre
+Malaysia,-0.7122959864210313,GDELT,US hikes tariffs on $200B goods,longer_pre
+Mexico,0.1245911575815623,GDELT,US hikes tariffs on $200B goods,longer_pre
+Netherlands,-0.025814215611529728,GDELT,US hikes tariffs on $200B goods,longer_pre
+Philippines,-0.4458775367023535,GDELT,US hikes tariffs on $200B goods,longer_pre
+Russia,0.524649973604213,GDELT,US hikes tariffs on $200B goods,longer_pre
+Saudi Arabia,-0.17074997839984565,GDELT,US hikes tariffs on $200B goods,longer_pre
+Singapore,0.1221851916134344,GDELT,US hikes tariffs on $200B goods,longer_pre
+South Korea,-0.2904650485962509,GDELT,US hikes tariffs on $200B goods,longer_pre
+Spain,-0.31440964733732135,GDELT,US hikes tariffs on $200B goods,longer_pre
+Thailand,0.22869152466422896,GDELT,US hikes tariffs on $200B goods,longer_pre
+United Arab Emirates,0.2764313376784102,GDELT,US hikes tariffs on $200B goods,longer_pre
+United Kingdom,-0.5729916758917684,GDELT,US hikes tariffs on $200B goods,longer_pre
+Vietnam,-0.13194140161003548,GDELT,US hikes tariffs on $200B goods,longer_pre
+Australia,-0.45880503701149183,GDELT,US-China Phase One deal signed,longer_pre
+Belgium,-0.21425981857006618,GDELT,US-China Phase One deal signed,longer_pre
+Brazil,-0.6552698248704255,GDELT,US-China Phase One deal signed,longer_pre
+Canada,0.5619005854196272,GDELT,US-China Phase One deal signed,longer_pre
+France,-1.0064957133058117,GDELT,US-China Phase One deal signed,longer_pre
+Germany,-0.700099555775225,GDELT,US-China Phase One deal signed,longer_pre
+India,-0.8825528093321795,GDELT,US-China Phase One deal signed,longer_pre
+Indonesia,-0.6755276239724398,GDELT,US-China Phase One deal signed,longer_pre
+Iran,-0.6063501930054839,GDELT,US-China Phase One deal signed,longer_pre
+Italy,-0.38395077179000736,GDELT,US-China Phase One deal signed,longer_pre
+Japan,-0.5731963965207426,GDELT,US-China Phase One deal signed,longer_pre
+Malaysia,-0.3072179962637689,GDELT,US-China Phase One deal signed,longer_pre
+Mexico,-0.6121823788819402,GDELT,US-China Phase One deal signed,longer_pre
+Netherlands,-0.06004412399161989,GDELT,US-China Phase One deal signed,longer_pre
+Philippines,-0.13224036901231107,GDELT,US-China Phase One deal signed,longer_pre
+Russia,-1.072539824775673,GDELT,US-China Phase One deal signed,longer_pre
+Saudi Arabia,-0.03745247279227115,GDELT,US-China Phase One deal signed,longer_pre
+Singapore,-0.6456466092440809,GDELT,US-China Phase One deal signed,longer_pre
+South Korea,-0.26989354635547286,GDELT,US-China Phase One deal signed,longer_pre
+Spain,0.2401869963999775,GDELT,US-China Phase One deal signed,longer_pre
+Thailand,-0.283080202931609,GDELT,US-China Phase One deal signed,longer_pre
+United Arab Emirates,-0.38102424052807654,GDELT,US-China Phase One deal signed,longer_pre
+United Kingdom,-0.37812154103083934,GDELT,US-China Phase One deal signed,longer_pre
+Vietnam,-0.3623175339465585,GDELT,US-China Phase One deal signed,longer_pre
+Australia,-0.8654080192464373,GDELT,COVID-19 Blame,longer_pre
+Belgium,-0.6030084727531613,GDELT,COVID-19 Blame,longer_pre
+Brazil,-0.6625313584722448,GDELT,COVID-19 Blame,longer_pre
+Canada,0.15485460369565113,GDELT,COVID-19 Blame,longer_pre
+France,-0.9499076718602881,GDELT,COVID-19 Blame,longer_pre
+Germany,-0.5274906123175304,GDELT,COVID-19 Blame,longer_pre
+India,-1.372243166499693,GDELT,COVID-19 Blame,longer_pre
+Indonesia,-0.4029015950856979,GDELT,COVID-19 Blame,longer_pre
+Iran,-0.31552869043700493,GDELT,COVID-19 Blame,longer_pre
+Italy,0.21320373131636858,GDELT,COVID-19 Blame,longer_pre
+Japan,-0.8499292809470819,GDELT,COVID-19 Blame,longer_pre
+Malaysia,-0.2338971106413736,GDELT,COVID-19 Blame,longer_pre
+Mexico,-0.9652113103577985,GDELT,COVID-19 Blame,longer_pre
+Netherlands,0.05040648405708859,GDELT,COVID-19 Blame,longer_pre
+Philippines,-0.16844593339506378,GDELT,COVID-19 Blame,longer_pre
+Russia,-0.7950157488023165,GDELT,COVID-19 Blame,longer_pre
+Saudi Arabia,0.6654770203741508,GDELT,COVID-19 Blame,longer_pre
+Singapore,-0.31153476452340756,GDELT,COVID-19 Blame,longer_pre
+South Korea,-0.12556044106959466,GDELT,COVID-19 Blame,longer_pre
+Spain,0.6160476988786058,GDELT,COVID-19 Blame,longer_pre
+Thailand,-0.7665298104043093,GDELT,COVID-19 Blame,longer_pre
+United Arab Emirates,-0.39080670892006913,GDELT,COVID-19 Blame,longer_pre
+United Kingdom,-0.47273428631092196,GDELT,COVID-19 Blame,longer_pre
+Vietnam,-0.5910488470169802,GDELT,COVID-19 Blame,longer_pre
+Australia,0.006137429505428203,GDELT,Anchorage Talks,longer_pre
+Belgium,-0.16235050124897513,GDELT,Anchorage Talks,longer_pre
+Brazil,0.18041244397727055,GDELT,Anchorage Talks,longer_pre
+Canada,-0.5275157253731202,GDELT,Anchorage Talks,longer_pre
+France,0.44019927166177675,GDELT,Anchorage Talks,longer_pre
+Germany,0.28948661477376914,GDELT,Anchorage Talks,longer_pre
+India,0.550613512810365,GDELT,Anchorage Talks,longer_pre
+Indonesia,0.3405094297441784,GDELT,Anchorage Talks,longer_pre
+Iran,0.7996508620283791,GDELT,Anchorage Talks,longer_pre
+Italy,-0.1418176875810065,GDELT,Anchorage Talks,longer_pre
+Japan,-0.48628498674967086,GDELT,Anchorage Talks,longer_pre
+Malaysia,-0.12788169478469538,GDELT,Anchorage Talks,longer_pre
+Mexico,0.2686912165427414,GDELT,Anchorage Talks,longer_pre
+Netherlands,-0.33165428974570793,GDELT,Anchorage Talks,longer_pre
+Philippines,-0.046452467667947174,GDELT,Anchorage Talks,longer_pre
+Russia,0.9950638930830047,GDELT,Anchorage Talks,longer_pre
+Saudi Arabia,0.002997516225015376,GDELT,Anchorage Talks,longer_pre
+Singapore,-0.07424864853654921,GDELT,Anchorage Talks,longer_pre
+South Korea,0.009837422649743336,GDELT,Anchorage Talks,longer_pre
+Spain,-0.19734900979132167,GDELT,Anchorage Talks,longer_pre
+Thailand,-0.43502222049853695,GDELT,Anchorage Talks,longer_pre
+United Arab Emirates,-0.45866842022045656,GDELT,Anchorage Talks,longer_pre
+United Kingdom,0.09962760401280203,GDELT,Anchorage Talks,longer_pre
+Vietnam,-0.24452406293659928,GDELT,Anchorage Talks,longer_pre
+Australia,0.8661837595171616,GDELT,Pelosi visits Taiwan,longer_pre
+Belgium,0.3028819342544353,GDELT,Pelosi visits Taiwan,longer_pre
+Brazil,0.38520922571115895,GDELT,Pelosi visits Taiwan,longer_pre
+Canada,0.5299193808651532,GDELT,Pelosi visits Taiwan,longer_pre
+France,-0.07493819264616818,GDELT,Pelosi visits Taiwan,longer_pre
+Germany,-0.6096134290585337,GDELT,Pelosi visits Taiwan,longer_pre
+India,-0.26097811114427466,GDELT,Pelosi visits Taiwan,longer_pre
+Indonesia,0.3267715680783907,GDELT,Pelosi visits Taiwan,longer_pre
+Iran,-0.7719078079171255,GDELT,Pelosi visits Taiwan,longer_pre
+Italy,0.24503115769591305,GDELT,Pelosi visits Taiwan,longer_pre
+Japan,-0.2600110382416708,GDELT,Pelosi visits Taiwan,longer_pre
+Malaysia,0.11466805763761004,GDELT,Pelosi visits Taiwan,longer_pre
+Mexico,0.22655049558149545,GDELT,Pelosi visits Taiwan,longer_pre
+Netherlands,0.40986954811513054,GDELT,Pelosi visits Taiwan,longer_pre
+Philippines,0.20766088215369205,GDELT,Pelosi visits Taiwan,longer_pre
+Russia,-0.0030294428426637893,GDELT,Pelosi visits Taiwan,longer_pre
+Saudi Arabia,0.13202094699359018,GDELT,Pelosi visits Taiwan,longer_pre
+Singapore,0.39634068135563977,GDELT,Pelosi visits Taiwan,longer_pre
+South Korea,-0.07308495012773696,GDELT,Pelosi visits Taiwan,longer_pre
+Spain,0.2813004546508215,GDELT,Pelosi visits Taiwan,longer_pre
+Thailand,1.8477010320710114,GDELT,Pelosi visits Taiwan,longer_pre
+United Arab Emirates,0.5456584296342919,GDELT,Pelosi visits Taiwan,longer_pre
+United Kingdom,-0.03817126988988011,GDELT,Pelosi visits Taiwan,longer_pre
+Vietnam,0.6710803049840881,GDELT,Pelosi visits Taiwan,longer_pre
+Australia,0.2089909396790079,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Belgium,-0.1572490530794827,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Brazil,-0.47110743560473745,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Canada,-0.013239549550077787,GDELT,Biden hikes tariffs on China EVs,longer_pre
+France,-0.6433979010219651,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Germany,-0.8707671355690224,GDELT,Biden hikes tariffs on China EVs,longer_pre
+India,0.15144858719370646,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Indonesia,-0.36462321070512976,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Iran,0.0011526043456161167,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Italy,-0.43805781572724845,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Japan,-0.03175278451692692,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Malaysia,0.0530768390377772,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Mexico,0.20670469280860934,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Netherlands,-0.518472489000281,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Philippines,-0.7442860186623085,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Russia,0.047911159506944447,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Saudi Arabia,0.19304257633117472,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Singapore,-0.22003336100239967,GDELT,Biden hikes tariffs on China EVs,longer_pre
+South Korea,0.5757046392962767,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Spain,-0.03490622436161105,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Thailand,0.1342100478301645,GDELT,Biden hikes tariffs on China EVs,longer_pre
+United Arab Emirates,-0.30029485107423143,GDELT,Biden hikes tariffs on China EVs,longer_pre
+United Kingdom,-0.16116733637385444,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Vietnam,-0.2967863018969341,GDELT,Biden hikes tariffs on China EVs,longer_pre
+Australia,-0.13604936907499968,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Belgium,0.267960450415322,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Brazil,-0.15420250849034237,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Canada,0.43914354506492154,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+France,-0.16755845241669792,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Germany,-0.08850157802549109,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+India,0.0447236293420868,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Indonesia,0.2663093624835297,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Iran,-0.20191614079627657,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Italy,-0.0749371089136554,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Japan,-0.029400318411456516,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Malaysia,0.36697639956834727,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Mexico,0.455102780349673,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Netherlands,0.07529782835037876,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Philippines,0.007658251865921585,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Russia,-0.24745758185790617,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Saudi Arabia,-0.1503320504064802,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Singapore,-0.18689469005701068,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+South Korea,0.027671489609267273,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Spain,0.06952082095787307,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Thailand,-0.7036090941575929,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+United Arab Emirates,-0.1287257800932543,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+United Kingdom,0.34477454406190555,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Vietnam,0.3453234978405489,GDELT,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Australia,-0.2504154233223577,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Belgium,0.424732683258442,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Brazil,0.11999586006753135,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Canada,0.649056287760112,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+France,-0.6201300443592019,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Germany,-0.258445458983252,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+India,-0.10564891912251033,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Indonesia,0.0030791868493802166,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Iran,0.5044159550571319,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Italy,-0.3189051354235291,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Japan,-0.3475954493395052,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Malaysia,0.28760105761866467,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Mexico,-0.010058239976895101,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Netherlands,-0.4842988163290153,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Philippines,-0.0685125509533141,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Russia,-0.07646550684552708,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Saudi Arabia,-0.3560586155531834,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Singapore,0.8635185442298441,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+South Korea,0.5736528718211724,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Spain,0.06736578842089748,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Thailand,-0.2786283769143001,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+United Arab Emirates,0.1649644141955764,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+United Kingdom,-0.41535522462742624,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Vietnam,0.15246648188947706,GDELT,China-US economic and trade talks held in Madrid,longer_pre
+Australia,-0.24384818854279477,ICEWS,Financial Crisis Cooperation,longer_pre
+Belgium,0.39486753660182944,ICEWS,Financial Crisis Cooperation,longer_pre
+Brazil,0.3568024627363669,ICEWS,Financial Crisis Cooperation,longer_pre
+Canada,-0.2968459160462152,ICEWS,Financial Crisis Cooperation,longer_pre
+France,-0.38973917170044925,ICEWS,Financial Crisis Cooperation,longer_pre
+Germany,0.8517961423951333,ICEWS,Financial Crisis Cooperation,longer_pre
+India,-0.005975453630250578,ICEWS,Financial Crisis Cooperation,longer_pre
+Indonesia,0.4595980467739178,ICEWS,Financial Crisis Cooperation,longer_pre
+Iran,0.2042824451762013,ICEWS,Financial Crisis Cooperation,longer_pre
+Italy,-0.0034422674465108194,ICEWS,Financial Crisis Cooperation,longer_pre
+Japan,-0.16133562740451377,ICEWS,Financial Crisis Cooperation,longer_pre
+Malaysia,-0.06224703478921732,ICEWS,Financial Crisis Cooperation,longer_pre
+Mexico,-0.7720120233829466,ICEWS,Financial Crisis Cooperation,longer_pre
+Netherlands,0.2064872551336631,ICEWS,Financial Crisis Cooperation,longer_pre
+Philippines,-0.42804073014734906,ICEWS,Financial Crisis Cooperation,longer_pre
+Russia,-0.2087481500415092,ICEWS,Financial Crisis Cooperation,longer_pre
+Saudi Arabia,-0.06160520056236888,ICEWS,Financial Crisis Cooperation,longer_pre
+Singapore,-0.07296409595239046,ICEWS,Financial Crisis Cooperation,longer_pre
+South Korea,-0.05445480910995414,ICEWS,Financial Crisis Cooperation,longer_pre
+Spain,0.7287957444540623,ICEWS,Financial Crisis Cooperation,longer_pre
+Thailand,-0.4033790696003525,ICEWS,Financial Crisis Cooperation,longer_pre
+United Arab Emirates,0.1754728903389182,ICEWS,Financial Crisis Cooperation,longer_pre
+United Kingdom,0.048122105496412125,ICEWS,Financial Crisis Cooperation,longer_pre
+Vietnam,0.12822091906131575,ICEWS,Financial Crisis Cooperation,longer_pre
+Australia,-0.5150551573412727,ICEWS,Pivot to Asia announced,longer_pre
+Belgium,-0.07277973807716491,ICEWS,Pivot to Asia announced,longer_pre
+Brazil,-0.1862833140982468,ICEWS,Pivot to Asia announced,longer_pre
+Canada,0.1743044850379847,ICEWS,Pivot to Asia announced,longer_pre
+France,0.10623823896650889,ICEWS,Pivot to Asia announced,longer_pre
+Germany,0.6197995604562304,ICEWS,Pivot to Asia announced,longer_pre
+India,0.2894417428795683,ICEWS,Pivot to Asia announced,longer_pre
+Indonesia,0.2630087918504848,ICEWS,Pivot to Asia announced,longer_pre
+Iran,-0.39620342402286,ICEWS,Pivot to Asia announced,longer_pre
+Italy,-1.4119031444705172,ICEWS,Pivot to Asia announced,longer_pre
+Japan,0.18645134662682172,ICEWS,Pivot to Asia announced,longer_pre
+Malaysia,-0.21579868099304383,ICEWS,Pivot to Asia announced,longer_pre
+Mexico,0.7427517271819684,ICEWS,Pivot to Asia announced,longer_pre
+Netherlands,-1.1231619066845913,ICEWS,Pivot to Asia announced,longer_pre
+Philippines,-0.8777045811744036,ICEWS,Pivot to Asia announced,longer_pre
+Russia,-0.6766137207608456,ICEWS,Pivot to Asia announced,longer_pre
+Saudi Arabia,0.38048358919749015,ICEWS,Pivot to Asia announced,longer_pre
+Singapore,-0.8715213412586509,ICEWS,Pivot to Asia announced,longer_pre
+South Korea,-0.6926844141825472,ICEWS,Pivot to Asia announced,longer_pre
+Spain,-0.07341622138611231,ICEWS,Pivot to Asia announced,longer_pre
+Thailand,1.1024613041324467,ICEWS,Pivot to Asia announced,longer_pre
+United Arab Emirates,0.10220389394437909,ICEWS,Pivot to Asia announced,longer_pre
+United Kingdom,0.15371872615954507,ICEWS,Pivot to Asia announced,longer_pre
+Vietnam,0.1969002729799731,ICEWS,Pivot to Asia announced,longer_pre
+Australia,0.5869952808247101,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Belgium,1.0053873901196049,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Brazil,0.19350747943808808,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Canada,0.6502355507638788,ICEWS,South China Sea Arbitration Ruling,longer_pre
+France,0.18677393348447702,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Germany,0.4958353048149076,ICEWS,South China Sea Arbitration Ruling,longer_pre
+India,-0.19279966107118562,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Indonesia,0.35027995128422257,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Iran,-0.1669875318740532,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Italy,-0.23980023232144662,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Japan,-0.26421365045458006,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Malaysia,-0.20072089902831775,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Mexico,0.029454493216698546,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Netherlands,-2.0750807013179373,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Philippines,1.2206431314968818,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Russia,-0.5322856825096167,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Saudi Arabia,0.14267306998259477,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Singapore,-0.6481160355482951,ICEWS,South China Sea Arbitration Ruling,longer_pre
+South Korea,-1.1336447707235626,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Spain,0.3127192969041672,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Thailand,0.9738136761963877,ICEWS,South China Sea Arbitration Ruling,longer_pre
+United Arab Emirates,0.6850916857331312,ICEWS,South China Sea Arbitration Ruling,longer_pre
+United Kingdom,-0.12437142500734409,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Vietnam,-0.20704301906426753,ICEWS,South China Sea Arbitration Ruling,longer_pre
+Australia,-0.40857133114192423,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Belgium,0.07393446012892266,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Brazil,-0.48687185687336987,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Canada,-1.043437339602393,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+France,0.4421392698753514,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Germany,1.1068279984146498,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+India,0.7121750887417007,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Indonesia,0.3455472450220923,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Iran,0.044596683773506604,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Italy,0.14745285745885964,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Japan,-0.015388929253730496,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Malaysia,0.47829235747410287,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Mexico,0.09262875952682945,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Netherlands,0.2299863213627175,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Philippines,-0.2599902155212323,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Russia,0.04215788736005875,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Saudi Arabia,0.24363297147018378,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Singapore,0.853380109691545,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+South Korea,0.8538499585176127,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Spain,-0.7218570589037283,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Thailand,-0.7820932929449007,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+United Arab Emirates,-0.39041722647940025,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+United Kingdom,-0.1643400862273142,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Vietnam,0.11361041160075422,ICEWS,Steel/aluminum tariffs imposed,longer_pre
+Australia,-0.24201392336632252,ICEWS,US bans ZTE from tech exports,longer_pre
+Belgium,0.08222279676806998,ICEWS,US bans ZTE from tech exports,longer_pre
+Brazil,-0.35828591079855,ICEWS,US bans ZTE from tech exports,longer_pre
+Canada,-0.7225718717856203,ICEWS,US bans ZTE from tech exports,longer_pre
+France,-0.22969827931258247,ICEWS,US bans ZTE from tech exports,longer_pre
+Germany,1.0018001414162634,ICEWS,US bans ZTE from tech exports,longer_pre
+India,0.6530009315052746,ICEWS,US bans ZTE from tech exports,longer_pre
+Indonesia,0.25009933039764226,ICEWS,US bans ZTE from tech exports,longer_pre
+Iran,-0.08903184867519433,ICEWS,US bans ZTE from tech exports,longer_pre
+Italy,0.23766555942132506,ICEWS,US bans ZTE from tech exports,longer_pre
+Japan,0.10885567873713958,ICEWS,US bans ZTE from tech exports,longer_pre
+Malaysia,0.43823540604830724,ICEWS,US bans ZTE from tech exports,longer_pre
+Mexico,0.08504280042807913,ICEWS,US bans ZTE from tech exports,longer_pre
+Netherlands,0.2889548485779941,ICEWS,US bans ZTE from tech exports,longer_pre
+Philippines,-0.2311649710619216,ICEWS,US bans ZTE from tech exports,longer_pre
+Russia,0.1477530990532105,ICEWS,US bans ZTE from tech exports,longer_pre
+Saudi Arabia,0.09273554451195022,ICEWS,US bans ZTE from tech exports,longer_pre
+Singapore,0.2503821393969939,ICEWS,US bans ZTE from tech exports,longer_pre
+South Korea,0.7207674912955442,ICEWS,US bans ZTE from tech exports,longer_pre
+Spain,-0.8583327671905645,ICEWS,US bans ZTE from tech exports,longer_pre
+Thailand,-0.665297389414014,ICEWS,US bans ZTE from tech exports,longer_pre
+United Arab Emirates,-0.3831056817097519,ICEWS,US bans ZTE from tech exports,longer_pre
+United Kingdom,-0.6865610373881398,ICEWS,US bans ZTE from tech exports,longer_pre
+Vietnam,0.08408650411102163,ICEWS,US bans ZTE from tech exports,longer_pre
+Australia,0.18930837072342663,ICEWS,Trade War Begins,longer_pre
+Belgium,0.1257537015994759,ICEWS,Trade War Begins,longer_pre
+Brazil,-0.7210658244731881,ICEWS,Trade War Begins,longer_pre
+Canada,-0.4965450633137148,ICEWS,Trade War Begins,longer_pre
+France,-0.8299508914882555,ICEWS,Trade War Begins,longer_pre
+Germany,0.1550031697431159,ICEWS,Trade War Begins,longer_pre
+India,0.23311111174929425,ICEWS,Trade War Begins,longer_pre
+Indonesia,0.61273875053254645,ICEWS,Trade War Begins,longer_pre
+Iran,-0.7841670791057083,ICEWS,Trade War Begins,longer_pre
+Italy,0.370748544814406,ICEWS,Trade War Begins,longer_pre
+Japan,-0.31729643109777145,ICEWS,Trade War Begins,longer_pre
+Malaysia,-0.14765773267114232,ICEWS,Trade War Begins,longer_pre
+Mexico,-0.3098832813194281,ICEWS,Trade War Begins,longer_pre
+Netherlands,0.05734987893973353,ICEWS,Trade War Begins,longer_pre
+Philippines,0.07322847952385221,ICEWS,Trade War Begins,longer_pre
+Russia,6.791721013643908e-4,ICEWS,Trade War Begins,longer_pre
+Saudi Arabia,0.26796534548181056,ICEWS,Trade War Begins,longer_pre
+Singapore,0.3615913087736646,ICEWS,Trade War Begins,longer_pre
+South Korea,-0.06643863744314768,ICEWS,Trade War Begins,longer_pre
+Spain,-0.6987130034740672,ICEWS,Trade War Begins,longer_pre
+Thailand,-0.42025345379966195,ICEWS,Trade War Begins,longer_pre
+United Arab Emirates,-0.323884771698715,ICEWS,Trade War Begins,longer_pre
+United Kingdom,-1.485887087129643,ICEWS,Trade War Begins,longer_pre
+Vietnam,0.4591194656158954,ICEWS,Trade War Begins,longer_pre
+Australia,-0.06632403126957104,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Belgium,0.3446224822932502,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Brazil,-0.7229504884924052,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Canada,-1.2679929902467457,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+France,-0.6062432327389027,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Germany,-0.7838299275769617,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+India,-0.40427873011213705,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Indonesia,-0.30985291756240746,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Iran,-0.28257080619274194,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Italy,0.3041242990551793,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Japan,-0.5171044331678407,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Malaysia,0.22444874132614523,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Mexico,0.30071903297770436,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Netherlands,0.13946445349383763,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Philippines,-0.31216220357610713,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Russia,-0.31107364839773144,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Saudi Arabia,1.1791005395623975,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Singapore,-0.052963277235491595,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+South Korea,-0.1154618406779109,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Spain,-0.18540946416885912,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Thailand,0.23110354706155617,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+United Arab Emirates,-0.3009066931795261,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+United Kingdom,-1.0854715679128117,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Vietnam,0.18382334186352806,ICEWS,Huawei CFO Meng Wanzhou arrested,longer_pre
+Australia,-0.4883168148210134,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Belgium,0.009312896538733193,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Brazil,-0.03891006667749847,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Canada,-1.1521306729228198,ICEWS,US hikes tariffs on $200B goods,longer_pre
+France,0.31372490618689547,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Germany,-0.15641630484354038,ICEWS,US hikes tariffs on $200B goods,longer_pre
+India,0.23161300499370252,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Indonesia,-0.5989834447757819,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Iran,0.6165818098028967,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Italy,-0.16589543949491145,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Japan,0.8318458764765222,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Malaysia,-0.23281760777588115,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Mexico,0.2656180357310959,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Netherlands,-0.34765552443996156,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Philippines,-0.25204868860280066,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Russia,-0.15463024409241566,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Saudi Arabia,0.4047322404588958,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Singapore,-0.09325260118702139,ICEWS,US hikes tariffs on $200B goods,longer_pre
+South Korea,0.3901709750235084,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Spain,-0.27377910738611816,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Thailand,-0.2946681531677491,ICEWS,US hikes tariffs on $200B goods,longer_pre
+United Arab Emirates,-0.754681040124401,ICEWS,US hikes tariffs on $200B goods,longer_pre
+United Kingdom,-0.1851305105294288,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Vietnam,-0.5305243199904368,ICEWS,US hikes tariffs on $200B goods,longer_pre
+Australia,-0.9365027455043845,ICEWS,US-China Phase One deal signed,longer_pre
+Belgium,-0.07272942491307378,ICEWS,US-China Phase One deal signed,longer_pre
+Brazil,-0.6096174095225607,ICEWS,US-China Phase One deal signed,longer_pre
+Canada,0.7541683182986154,ICEWS,US-China Phase One deal signed,longer_pre
+France,-0.16814988789370147,ICEWS,US-China Phase One deal signed,longer_pre
+Germany,-0.40881720255162063,ICEWS,US-China Phase One deal signed,longer_pre
+India,-0.6346886143478838,ICEWS,US-China Phase One deal signed,longer_pre
+Indonesia,-0.559278547863449,ICEWS,US-China Phase One deal signed,longer_pre
+Iran,0.11370219202157784,ICEWS,US-China Phase One deal signed,longer_pre
+Italy,0.30655532226096804,ICEWS,US-China Phase One deal signed,longer_pre
+Japan,0.03815201881585149,ICEWS,US-China Phase One deal signed,longer_pre
+Malaysia,-0.6641096450274405,ICEWS,US-China Phase One deal signed,longer_pre
+Mexico,0.18328657811164611,ICEWS,US-China Phase One deal signed,longer_pre
+Netherlands,-0.9901583324169839,ICEWS,US-China Phase One deal signed,longer_pre
+Philippines,-0.44187590953123473,ICEWS,US-China Phase One deal signed,longer_pre
+Russia,-0.03623073473348303,ICEWS,US-China Phase One deal signed,longer_pre
+Saudi Arabia,0.8816300800392336,ICEWS,US-China Phase One deal signed,longer_pre
+Singapore,-0.2471049381659338,ICEWS,US-China Phase One deal signed,longer_pre
+South Korea,0.20804214223001097,ICEWS,US-China Phase One deal signed,longer_pre
+Spain,0.05104808708052319,ICEWS,US-China Phase One deal signed,longer_pre
+Thailand,-0.392188381957773,ICEWS,US-China Phase One deal signed,longer_pre
+United Arab Emirates,0.886120922679103,ICEWS,US-China Phase One deal signed,longer_pre
+United Kingdom,-0.085696664250107,ICEWS,US-China Phase One deal signed,longer_pre
+Vietnam,-1.1075743965982627,ICEWS,US-China Phase One deal signed,longer_pre
+Australia,-1.322088868909074,ICEWS,COVID-19 Blame,longer_pre
+Belgium,-0.12429138585840864,ICEWS,COVID-19 Blame,longer_pre
+Brazil,-1.0720605549399878,ICEWS,COVID-19 Blame,longer_pre
+Canada,0.6411509565202043,ICEWS,COVID-19 Blame,longer_pre
+France,-0.44156649341109366,ICEWS,COVID-19 Blame,longer_pre
+Germany,-0.5075858590678586,ICEWS,COVID-19 Blame,longer_pre
+India,-1.0031258923030306,ICEWS,COVID-19 Blame,longer_pre
+Indonesia,-2.601186831479823e-4,ICEWS,COVID-19 Blame,longer_pre
+Iran,-0.23426890380850668,ICEWS,COVID-19 Blame,longer_pre
+Italy,0.49051535189930223,ICEWS,COVID-19 Blame,longer_pre
+Japan,-0.32208550147274484,ICEWS,COVID-19 Blame,longer_pre
+Malaysia,-0.4998042543088466,ICEWS,COVID-19 Blame,longer_pre
+Mexico,-0.21159915434974408,ICEWS,COVID-19 Blame,longer_pre
+Netherlands,-0.10812362324556124,ICEWS,COVID-19 Blame,longer_pre
+Philippines,-0.2625341772307517,ICEWS,COVID-19 Blame,longer_pre
+Russia,-0.08375982377810519,ICEWS,COVID-19 Blame,longer_pre
+Saudi Arabia,0.6380021434817577,ICEWS,COVID-19 Blame,longer_pre
+Singapore,-0.12274186058824947,ICEWS,COVID-19 Blame,longer_pre
+South Korea,0.3203086066098349,ICEWS,COVID-19 Blame,longer_pre
+Spain,0.2717260282030516,ICEWS,COVID-19 Blame,longer_pre
+Thailand,-0.5171657880657564,ICEWS,COVID-19 Blame,longer_pre
+United Arab Emirates,1.7001167018315,ICEWS,COVID-19 Blame,longer_pre
+United Kingdom,-0.6017579665059238,ICEWS,COVID-19 Blame,longer_pre
+Vietnam,-1.5797846821968957,ICEWS,COVID-19 Blame,longer_pre
+Australia,0.7761253524164696,ICEWS,Anchorage Talks,longer_pre
+Belgium,-0.8327396236100064,ICEWS,Anchorage Talks,longer_pre
+Brazil,0.24713114871378386,ICEWS,Anchorage Talks,longer_pre
+Canada,-0.3025732435332986,ICEWS,Anchorage Talks,longer_pre
+France,-0.023202861149059433,ICEWS,Anchorage Talks,longer_pre
+Germany,0.8982211792253149,ICEWS,Anchorage Talks,longer_pre
+India,0.878299817513411,ICEWS,Anchorage Talks,longer_pre
+Indonesia,-0.05126505120894411,ICEWS,Anchorage Talks,longer_pre
+Iran,-0.27835867781377227,ICEWS,Anchorage Talks,longer_pre
+Italy,-0.5040486529300444,ICEWS,Anchorage Talks,longer_pre
+Japan,-0.8715119509043976,ICEWS,Anchorage Talks,longer_pre
+Malaysia,-0.044700909532487655,ICEWS,Anchorage Talks,longer_pre
+Mexico,0.5428649913758554,ICEWS,Anchorage Talks,longer_pre
+Netherlands,0.07742732394015085,ICEWS,Anchorage Talks,longer_pre
+Philippines,0.07567707479227012,ICEWS,Anchorage Talks,longer_pre
+Russia,0.21691679702816258,ICEWS,Anchorage Talks,longer_pre
+Saudi Arabia,0.3932974397572121,ICEWS,Anchorage Talks,longer_pre
+Singapore,-0.06685230187220827,ICEWS,Anchorage Talks,longer_pre
+South Korea,-0.4204886959556911,ICEWS,Anchorage Talks,longer_pre
+Spain,0.29655571385478435,ICEWS,Anchorage Talks,longer_pre
+Thailand,1.257165590608184,ICEWS,Anchorage Talks,longer_pre
+United Arab Emirates,-0.8423833473739952,ICEWS,Anchorage Talks,longer_pre
+United Kingdom,0.3768079412909584,ICEWS,Anchorage Talks,longer_pre
+Vietnam,1.2029534873771652,ICEWS,Anchorage Talks,longer_pre
+Australia,1.2724754674643948,ICEWS,Pelosi visits Taiwan,longer_pre
+Belgium,0.765434452451122,ICEWS,Pelosi visits Taiwan,longer_pre
+Brazil,-0.7302553367655524,ICEWS,Pelosi visits Taiwan,longer_pre
+Canada,0.37846064560085974,ICEWS,Pelosi visits Taiwan,longer_pre
+France,0.1447239956686239,ICEWS,Pelosi visits Taiwan,longer_pre
+Germany,-0.4456289798218361,ICEWS,Pelosi visits Taiwan,longer_pre
+India,-0.5552996956728498,ICEWS,Pelosi visits Taiwan,longer_pre
+Indonesia,-0.31709422316035435,ICEWS,Pelosi visits Taiwan,longer_pre
+Iran,0.6476091921998949,ICEWS,Pelosi visits Taiwan,longer_pre
+Italy,-0.6909251085598733,ICEWS,Pelosi visits Taiwan,longer_pre
+Japan,0.4178081619191763,ICEWS,Pelosi visits Taiwan,longer_pre
+Malaysia,-1.4211227301597482,ICEWS,Pelosi visits Taiwan,longer_pre
+Mexico,-0.16195041491904377,ICEWS,Pelosi visits Taiwan,longer_pre
+Netherlands,-0.3926999877606444,ICEWS,Pelosi visits Taiwan,longer_pre
+Philippines,0.3552881955160358,ICEWS,Pelosi visits Taiwan,longer_pre
+Russia,0.2647316240825786,ICEWS,Pelosi visits Taiwan,longer_pre
+Saudi Arabia,-0.6229959119299481,ICEWS,Pelosi visits Taiwan,longer_pre
+Singapore,-0.9195790093138313,ICEWS,Pelosi visits Taiwan,longer_pre
+South Korea,0.00319699411801333,ICEWS,Pelosi visits Taiwan,longer_pre
+Spain,-0.4415006339609572,ICEWS,Pelosi visits Taiwan,longer_pre
+Thailand,-0.7872642248725593,ICEWS,Pelosi visits Taiwan,longer_pre
+United Arab Emirates,0.42919582251037497,ICEWS,Pelosi visits Taiwan,longer_pre
+United Kingdom,-0.4351864878093032,ICEWS,Pelosi visits Taiwan,longer_pre
+Vietnam,0.8232579820157628,ICEWS,Pelosi visits Taiwan,longer_pre
+Australia,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Belgium,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Brazil,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Canada,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+France,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Germany,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+India,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Indonesia,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Iran,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Italy,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Japan,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Malaysia,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Mexico,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Netherlands,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Philippines,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Russia,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Saudi Arabia,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Singapore,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+South Korea,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Spain,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Thailand,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+United Arab Emirates,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+United Kingdom,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Vietnam,0,ICEWS,Biden hikes tariffs on China EVs,longer_pre
+Australia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Belgium,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Brazil,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Canada,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+France,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Germany,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+India,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Indonesia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Iran,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Italy,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Japan,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Malaysia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Mexico,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Netherlands,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Philippines,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Russia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Saudi Arabia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Singapore,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+South Korea,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Spain,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Thailand,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+United Arab Emirates,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+United Kingdom,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Vietnam,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,longer_pre
+Australia,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Belgium,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Brazil,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Canada,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+France,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Germany,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+India,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Indonesia,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Iran,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Italy,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Japan,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Malaysia,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Mexico,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Netherlands,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Philippines,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Russia,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Saudi Arabia,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Singapore,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+South Korea,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Spain,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Thailand,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+United Arab Emirates,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+United Kingdom,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Vietnam,0,ICEWS,China-US economic and trade talks held in Madrid,longer_pre
+Australia,-0.674920937803436,GDELT,Pivot to Asia announced,neg_only
+Belgium,0.4146359604955906,GDELT,Pivot to Asia announced,neg_only
+Brazil,0.37347632121110136,GDELT,Pivot to Asia announced,neg_only
+Canada,0.6318299544750561,GDELT,Pivot to Asia announced,neg_only
+France,0.06720753413736939,GDELT,Pivot to Asia announced,neg_only
+Germany,0.016374852860918887,GDELT,Pivot to Asia announced,neg_only
+India,-0.06308011661563734,GDELT,Pivot to Asia announced,neg_only
+Indonesia,0.22667362208576922,GDELT,Pivot to Asia announced,neg_only
+Iran,-0.09721011509417218,GDELT,Pivot to Asia announced,neg_only
+Italy,-0.3636587120801306,GDELT,Pivot to Asia announced,neg_only
+Japan,0.4120600464300589,GDELT,Pivot to Asia announced,neg_only
+Malaysia,-0.607566686709778,GDELT,Pivot to Asia announced,neg_only
+Mexico,0.1757019616683964,GDELT,Pivot to Asia announced,neg_only
+Netherlands,0.28219160367236756,GDELT,Pivot to Asia announced,neg_only
+Philippines,-0.20246226205122325,GDELT,Pivot to Asia announced,neg_only
+Russia,-0.306261100983081,GDELT,Pivot to Asia announced,neg_only
+Saudi Arabia,-0.024190319337699797,GDELT,Pivot to Asia announced,neg_only
+Singapore,-0.7882388049195186,GDELT,Pivot to Asia announced,neg_only
+South Korea,-0.16759063340916813,GDELT,Pivot to Asia announced,neg_only
+Spain,-0.8675983995524672,GDELT,Pivot to Asia announced,neg_only
+Thailand,-0.18931244465517075,GDELT,Pivot to Asia announced,neg_only
+United Arab Emirates,-0.16183272894339537,GDELT,Pivot to Asia announced,neg_only
+United Kingdom,-0.11961615000410745,GDELT,Pivot to Asia announced,neg_only
+Vietnam,0.9681191912385226,GDELT,Pivot to Asia announced,neg_only
+Australia,-0.35874503699080185,GDELT,South China Sea Arbitration Ruling,neg_only
+Belgium,0.8061654808079315,GDELT,South China Sea Arbitration Ruling,neg_only
+Brazil,0.40688349287190534,GDELT,South China Sea Arbitration Ruling,neg_only
+Canada,0.4563434587052505,GDELT,South China Sea Arbitration Ruling,neg_only
+France,0.5137755517464919,GDELT,South China Sea Arbitration Ruling,neg_only
+Germany,-0.6220513254994089,GDELT,South China Sea Arbitration Ruling,neg_only
+India,-0.2914730986121877,GDELT,South China Sea Arbitration Ruling,neg_only
+Indonesia,0.2300397449319173,GDELT,South China Sea Arbitration Ruling,neg_only
+Iran,-0.3280770219285572,GDELT,South China Sea Arbitration Ruling,neg_only
+Italy,-0.29669182058412485,GDELT,South China Sea Arbitration Ruling,neg_only
+Japan,-0.5008587370873105,GDELT,South China Sea Arbitration Ruling,neg_only
+Malaysia,0.3980499219872914,GDELT,South China Sea Arbitration Ruling,neg_only
+Mexico,-0.6397782744259506,GDELT,South China Sea Arbitration Ruling,neg_only
+Netherlands,-0.30485880389026887,GDELT,South China Sea Arbitration Ruling,neg_only
+Philippines,0.7754666940220613,GDELT,South China Sea Arbitration Ruling,neg_only
+Russia,-0.4046205530223986,GDELT,South China Sea Arbitration Ruling,neg_only
+Saudi Arabia,-0.257097612517155,GDELT,South China Sea Arbitration Ruling,neg_only
+Singapore,-0.48873133497254795,GDELT,South China Sea Arbitration Ruling,neg_only
+South Korea,-0.8923618541375962,GDELT,South China Sea Arbitration Ruling,neg_only
+Spain,0.3624474327407982,GDELT,South China Sea Arbitration Ruling,neg_only
+Thailand,0.21940201738241366,GDELT,South China Sea Arbitration Ruling,neg_only
+United Arab Emirates,0.4106676622494223,GDELT,South China Sea Arbitration Ruling,neg_only
+United Kingdom,0.5003319082612449,GDELT,South China Sea Arbitration Ruling,neg_only
+Vietnam,0.6512582542651985,GDELT,South China Sea Arbitration Ruling,neg_only
+Australia,-0.5219133808799643,GDELT,Steel/aluminum tariffs imposed,neg_only
+Belgium,-0.4602193776857542,GDELT,Steel/aluminum tariffs imposed,neg_only
+Brazil,0.1541682460989751,GDELT,Steel/aluminum tariffs imposed,neg_only
+Canada,-0.2972637689638679,GDELT,Steel/aluminum tariffs imposed,neg_only
+France,0.27160686097556136,GDELT,Steel/aluminum tariffs imposed,neg_only
+Germany,0.7451016657456311,GDELT,Steel/aluminum tariffs imposed,neg_only
+India,0.36060400081816424,GDELT,Steel/aluminum tariffs imposed,neg_only
+Indonesia,-0.2190759522542931,GDELT,Steel/aluminum tariffs imposed,neg_only
+Iran,-0.021401660441914983,GDELT,Steel/aluminum tariffs imposed,neg_only
+Italy,0.03767279485554103,GDELT,Steel/aluminum tariffs imposed,neg_only
+Japan,0.5587147937641882,GDELT,Steel/aluminum tariffs imposed,neg_only
+Malaysia,0.3685664428527475,GDELT,Steel/aluminum tariffs imposed,neg_only
+Mexico,-0.25417600920660044,GDELT,Steel/aluminum tariffs imposed,neg_only
+Netherlands,-0.4804072413069832,GDELT,Steel/aluminum tariffs imposed,neg_only
+Philippines,-0.11781165609147651,GDELT,Steel/aluminum tariffs imposed,neg_only
+Russia,0.6587324840405984,GDELT,Steel/aluminum tariffs imposed,neg_only
+Saudi Arabia,0.126024327628808,GDELT,Steel/aluminum tariffs imposed,neg_only
+Singapore,-0.11687344317365086,GDELT,Steel/aluminum tariffs imposed,neg_only
+South Korea,0.8280683599082048,GDELT,Steel/aluminum tariffs imposed,neg_only
+Spain,-0.28798885419678655,GDELT,Steel/aluminum tariffs imposed,neg_only
+Thailand,-0.2427049232283543,GDELT,Steel/aluminum tariffs imposed,neg_only
+United Arab Emirates,-0.6322145919576799,GDELT,Steel/aluminum tariffs imposed,neg_only
+United Kingdom,0.46228587918252967,GDELT,Steel/aluminum tariffs imposed,neg_only
+Vietnam,-0.34346489472747843,GDELT,Steel/aluminum tariffs imposed,neg_only
+Australia,-0.3946772103415295,GDELT,US bans ZTE from tech exports,neg_only
+Belgium,-0.4258488565104537,GDELT,US bans ZTE from tech exports,neg_only
+Brazil,-0.006501664196250161,GDELT,US bans ZTE from tech exports,neg_only
+Canada,0.028143075606938166,GDELT,US bans ZTE from tech exports,neg_only
+France,0.13452692773702937,GDELT,US bans ZTE from tech exports,neg_only
+Germany,0.559923030790989,GDELT,US bans ZTE from tech exports,neg_only
+India,0.23463918130404,GDELT,US bans ZTE from tech exports,neg_only
+Indonesia,0.18312566833970573,GDELT,US bans ZTE from tech exports,neg_only
+Iran,-0.07033618616278324,GDELT,US bans ZTE from tech exports,neg_only
+Italy,0.0826368753725634,GDELT,US bans ZTE from tech exports,neg_only
+Japan,0.4814595885268925,GDELT,US bans ZTE from tech exports,neg_only
+Malaysia,0.44859297708784357,GDELT,US bans ZTE from tech exports,neg_only
+Mexico,-0.09052732798794974,GDELT,US bans ZTE from tech exports,neg_only
+Netherlands,-0.4453677832554712,GDELT,US bans ZTE from tech exports,neg_only
+Philippines,-0.2055592406144809,GDELT,US bans ZTE from tech exports,neg_only
+Russia,0.5777251988937654,GDELT,US bans ZTE from tech exports,neg_only
+Saudi Arabia,0.23256996970214766,GDELT,US bans ZTE from tech exports,neg_only
+Singapore,-0.020878839645867644,GDELT,US bans ZTE from tech exports,neg_only
+South Korea,0.48213318752978257,GDELT,US bans ZTE from tech exports,neg_only
+Spain,-0.13190565938468563,GDELT,US bans ZTE from tech exports,neg_only
+Thailand,0.27754422262620787,GDELT,US bans ZTE from tech exports,neg_only
+United Arab Emirates,-0.504414143816945,GDELT,US bans ZTE from tech exports,neg_only
+United Kingdom,0.26892665106511626,GDELT,US bans ZTE from tech exports,neg_only
+Vietnam,-0.5795897457879344,GDELT,US bans ZTE from tech exports,neg_only
+Australia,-0.037838938730294584,GDELT,Trade War Begins,neg_only
+Belgium,-0.4593134473421288,GDELT,Trade War Begins,neg_only
+Brazil,-0.04169326544093281,GDELT,Trade War Begins,neg_only
+Canada,-0.4695140644978131,GDELT,Trade War Begins,neg_only
+France,-0.45947594173973166,GDELT,Trade War Begins,neg_only
+Germany,-0.476618404861962,GDELT,Trade War Begins,neg_only
+India,0.1613809302330767,GDELT,Trade War Begins,neg_only
+Indonesia,0.05796192441000542,GDELT,Trade War Begins,neg_only
+Iran,-0.6446408412605507,GDELT,Trade War Begins,neg_only
+Italy,-0.08028237585876745,GDELT,Trade War Begins,neg_only
+Japan,-0.2682018628607289,GDELT,Trade War Begins,neg_only
+Malaysia,0.6615836635770084,GDELT,Trade War Begins,neg_only
+Mexico,-0.16964951735882372,GDELT,Trade War Begins,neg_only
+Netherlands,-0.2026633056280685,GDELT,Trade War Begins,neg_only
+Philippines,0.37039766387575584,GDELT,Trade War Begins,neg_only
+Russia,-0.42789213395756426,GDELT,Trade War Begins,neg_only
+Saudi Arabia,0.046293430082025376,GDELT,Trade War Begins,neg_only
+Singapore,0.0014491591165690892,GDELT,Trade War Begins,neg_only
+South Korea,-0.6599665003485727,GDELT,Trade War Begins,neg_only
+Spain,0.7863339706372193,GDELT,Trade War Begins,neg_only
+Thailand,-0.08186100313040987,GDELT,Trade War Begins,neg_only
+United Arab Emirates,0.2559678897813816,GDELT,Trade War Begins,neg_only
+United Kingdom,-0.7735298412576371,GDELT,Trade War Begins,neg_only
+Vietnam,0.2766029286413615,GDELT,Trade War Begins,neg_only
+Australia,-0.26588542079355076,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Belgium,0.14409390253675264,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Brazil,-0.30344226473790276,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Canada,-1.9838450151890858,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+France,-0.5082787369656232,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Germany,-0.5997490434423003,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+India,-0.1211916933426328,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Indonesia,-0.41041392539857463,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Iran,-0.4671890936584956,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Italy,0.5049154350029277,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Japan,-0.33795659519248455,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Malaysia,0.08151591462713882,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Mexico,0.13714261921606138,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Netherlands,0.0490704876119956,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Philippines,-0.4529766956369738,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Russia,-0.15463452378381282,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Saudi Arabia,0.18022551066375048,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Singapore,-0.3193046139361967,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+South Korea,-0.23146686791957427,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Spain,-0.09379805192384832,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Thailand,-0.13098249920481586,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+United Arab Emirates,0.40988148540431224,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+United Kingdom,-1.042840941707762,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Vietnam,-0.036354766339658874,GDELT,Huawei CFO Meng Wanzhou arrested,neg_only
+Australia,-0.4298606193337829,GDELT,US hikes tariffs on $200B goods,neg_only
+Belgium,0.15529597524715483,GDELT,US hikes tariffs on $200B goods,neg_only
+Brazil,0.047775257349743375,GDELT,US hikes tariffs on $200B goods,neg_only
+Canada,0.09490946124608711,GDELT,US hikes tariffs on $200B goods,neg_only
+France,0.6580264214225235,GDELT,US hikes tariffs on $200B goods,neg_only
+Germany,0.8448410777457751,GDELT,US hikes tariffs on $200B goods,neg_only
+India,0.01185908897662852,GDELT,US hikes tariffs on $200B goods,neg_only
+Indonesia,0.5230732009392279,GDELT,US hikes tariffs on $200B goods,neg_only
+Iran,0.09663093765373676,GDELT,US hikes tariffs on $200B goods,neg_only
+Italy,-0.2246071820148186,GDELT,US hikes tariffs on $200B goods,neg_only
+Japan,0.5364277783596803,GDELT,US hikes tariffs on $200B goods,neg_only
+Malaysia,-0.8685705499192433,GDELT,US hikes tariffs on $200B goods,neg_only
+Mexico,0.25334775149995314,GDELT,US hikes tariffs on $200B goods,neg_only
+Netherlands,-0.06092150374654274,GDELT,US hikes tariffs on $200B goods,neg_only
+Philippines,-0.4341762549275983,GDELT,US hikes tariffs on $200B goods,neg_only
+Russia,0.945783605391355,GDELT,US hikes tariffs on $200B goods,neg_only
+Saudi Arabia,-0.07806983388299728,GDELT,US hikes tariffs on $200B goods,neg_only
+Singapore,0.16821467983457702,GDELT,US hikes tariffs on $200B goods,neg_only
+South Korea,-0.14512346932211742,GDELT,US hikes tariffs on $200B goods,neg_only
+Spain,-0.5079242938677229,GDELT,US hikes tariffs on $200B goods,neg_only
+Thailand,0.409175756055134,GDELT,US hikes tariffs on $200B goods,neg_only
+United Arab Emirates,0.008637134688205397,GDELT,US hikes tariffs on $200B goods,neg_only
+United Kingdom,0.06373691990889693,GDELT,US hikes tariffs on $200B goods,neg_only
+Vietnam,-0.25108438199059313,GDELT,US hikes tariffs on $200B goods,neg_only
+Australia,-0.9519051310485441,GDELT,COVID-19 Blame,neg_only
+Belgium,-0.2819980721099435,GDELT,COVID-19 Blame,neg_only
+Brazil,-0.7753903908264694,GDELT,COVID-19 Blame,neg_only
+Canada,-0.03919100402203662,GDELT,COVID-19 Blame,neg_only
+France,-0.7991568195502571,GDELT,COVID-19 Blame,neg_only
+Germany,-0.06844437315454716,GDELT,COVID-19 Blame,neg_only
+India,-1.5067171365942438,GDELT,COVID-19 Blame,neg_only
+Indonesia,-0.18021756033164213,GDELT,COVID-19 Blame,neg_only
+Iran,-0.1756016339175953,GDELT,COVID-19 Blame,neg_only
+Italy,0.46148618484104864,GDELT,COVID-19 Blame,neg_only
+Japan,-0.6044940300268432,GDELT,COVID-19 Blame,neg_only
+Malaysia,0.13476456075948423,GDELT,COVID-19 Blame,neg_only
+Mexico,-1.1138963468809608,GDELT,COVID-19 Blame,neg_only
+Netherlands,0.11071781848370961,GDELT,COVID-19 Blame,neg_only
+Philippines,-0.18611266506269472,GDELT,COVID-19 Blame,neg_only
+Russia,-0.46948660347329513,GDELT,COVID-19 Blame,neg_only
+Saudi Arabia,1.0099848050566902,GDELT,COVID-19 Blame,neg_only
+Singapore,-0.424112211815,GDELT,COVID-19 Blame,neg_only
+South Korea,-0.39702889507713685,GDELT,COVID-19 Blame,neg_only
+Spain,0.7809326291860251,GDELT,COVID-19 Blame,neg_only
+Thailand,-0.8859647071343495,GDELT,COVID-19 Blame,neg_only
+United Arab Emirates,-0.23913312838696207,GDELT,COVID-19 Blame,neg_only
+United Kingdom,-0.21057997816249263,GDELT,COVID-19 Blame,neg_only
+Vietnam,-0.6278101616745481,GDELT,COVID-19 Blame,neg_only
+Australia,-0.004079709529301446,GDELT,Anchorage Talks,neg_only
+Belgium,-0.6517493511588636,GDELT,Anchorage Talks,neg_only
+Brazil,0.500782195582999,GDELT,Anchorage Talks,neg_only
+Canada,-0.4443898545241011,GDELT,Anchorage Talks,neg_only
+France,-0.04098336896470555,GDELT,Anchorage Talks,neg_only
+Germany,0.26157394279446555,GDELT,Anchorage Talks,neg_only
+India,0.392669035939419,GDELT,Anchorage Talks,neg_only
+Indonesia,0.3998993740458223,GDELT,Anchorage Talks,neg_only
+Iran,0.4613573414696819,GDELT,Anchorage Talks,neg_only
+Italy,0.012712533814944693,GDELT,Anchorage Talks,neg_only
+Japan,-0.8047976433800336,GDELT,Anchorage Talks,neg_only
+Malaysia,-0.5016546032443281,GDELT,Anchorage Talks,neg_only
+Mexico,-0.2503827692293841,GDELT,Anchorage Talks,neg_only
+Netherlands,-0.378581765314262,GDELT,Anchorage Talks,neg_only
+Philippines,-0.3566098293157747,GDELT,Anchorage Talks,neg_only
+Russia,0.7777078251929799,GDELT,Anchorage Talks,neg_only
+Saudi Arabia,0.3907751321136287,GDELT,Anchorage Talks,neg_only
+Singapore,-0.29865255836615334,GDELT,Anchorage Talks,neg_only
+South Korea,-0.3072351785993137,GDELT,Anchorage Talks,neg_only
+Spain,-0.0771324170779031,GDELT,Anchorage Talks,neg_only
+Thailand,-0.3268311508496166,GDELT,Anchorage Talks,neg_only
+United Arab Emirates,0.193970005142188,GDELT,Anchorage Talks,neg_only
+United Kingdom,0.2725232667493611,GDELT,Anchorage Talks,neg_only
+Vietnam,-0.7155996304176838,GDELT,Anchorage Talks,neg_only
+Australia,0.8193994201662086,GDELT,Pelosi visits Taiwan,neg_only
+Belgium,0.39656248852153825,GDELT,Pelosi visits Taiwan,neg_only
+Brazil,0.12986864151887484,GDELT,Pelosi visits Taiwan,neg_only
+Canada,0.390036193199663,GDELT,Pelosi visits Taiwan,neg_only
+France,0.20571609687034229,GDELT,Pelosi visits Taiwan,neg_only
+Germany,-0.5686312886659627,GDELT,Pelosi visits Taiwan,neg_only
+India,-0.388832124201532,GDELT,Pelosi visits Taiwan,neg_only
+Indonesia,-0.03271897674276895,GDELT,Pelosi visits Taiwan,neg_only
+Iran,-0.7019168145994377,GDELT,Pelosi visits Taiwan,neg_only
+Italy,0.32300272491832926,GDELT,Pelosi visits Taiwan,neg_only
+Japan,-0.17309456074482285,GDELT,Pelosi visits Taiwan,neg_only
+Malaysia,-0.2640826730755615,GDELT,Pelosi visits Taiwan,neg_only
+Mexico,0.567676290453728,GDELT,Pelosi visits Taiwan,neg_only
+Netherlands,0.21420800930015063,GDELT,Pelosi visits Taiwan,neg_only
+Philippines,0.3759808797957925,GDELT,Pelosi visits Taiwan,neg_only
+Russia,0.5410197398139793,GDELT,Pelosi visits Taiwan,neg_only
+Saudi Arabia,0.2158304108788065,GDELT,Pelosi visits Taiwan,neg_only
+Singapore,0.4808099069425166,GDELT,Pelosi visits Taiwan,neg_only
+South Korea,0.02022256252476175,GDELT,Pelosi visits Taiwan,neg_only
+Spain,0.3728217892814127,GDELT,Pelosi visits Taiwan,neg_only
+Thailand,1.2238751028287755,GDELT,Pelosi visits Taiwan,neg_only
+United Arab Emirates,0.17331169154816412,GDELT,Pelosi visits Taiwan,neg_only
+United Kingdom,0.08095205264903944,GDELT,Pelosi visits Taiwan,neg_only
+Vietnam,0.3790939708496494,GDELT,Pelosi visits Taiwan,neg_only
+Australia,0.13122374364272033,GDELT,Biden hikes tariffs on China EVs,neg_only
+Belgium,-0.1866410283974242,GDELT,Biden hikes tariffs on China EVs,neg_only
+Brazil,-0.4828756364631769,GDELT,Biden hikes tariffs on China EVs,neg_only
+Canada,-0.08275741151127892,GDELT,Biden hikes tariffs on China EVs,neg_only
+France,-0.812674052408376,GDELT,Biden hikes tariffs on China EVs,neg_only
+Germany,-0.9157784347785913,GDELT,Biden hikes tariffs on China EVs,neg_only
+India,0.057776522239015755,GDELT,Biden hikes tariffs on China EVs,neg_only
+Indonesia,-0.3188927462871465,GDELT,Biden hikes tariffs on China EVs,neg_only
+Iran,0.9366571558912746,GDELT,Biden hikes tariffs on China EVs,neg_only
+Italy,-0.7363275140411376,GDELT,Biden hikes tariffs on China EVs,neg_only
+Japan,-0.05228939732150222,GDELT,Biden hikes tariffs on China EVs,neg_only
+Malaysia,-0.23005297453043724,GDELT,Biden hikes tariffs on China EVs,neg_only
+Mexico,0.23695816454125046,GDELT,Biden hikes tariffs on China EVs,neg_only
+Netherlands,-0.6956156768176648,GDELT,Biden hikes tariffs on China EVs,neg_only
+Philippines,-0.44368139881817703,GDELT,Biden hikes tariffs on China EVs,neg_only
+Russia,0.32096499149663893,GDELT,Biden hikes tariffs on China EVs,neg_only
+Saudi Arabia,0.30534276494750423,GDELT,Biden hikes tariffs on China EVs,neg_only
+Singapore,-0.23200496696567222,GDELT,Biden hikes tariffs on China EVs,neg_only
+South Korea,0.4078570785432246,GDELT,Biden hikes tariffs on China EVs,neg_only
+Spain,-0.2573781959108893,GDELT,Biden hikes tariffs on China EVs,neg_only
+Thailand,-0.03746393584489498,GDELT,Biden hikes tariffs on China EVs,neg_only
+United Arab Emirates,-0.19859183238706485,GDELT,Biden hikes tariffs on China EVs,neg_only
+United Kingdom,-0.11898954551700681,GDELT,Biden hikes tariffs on China EVs,neg_only
+Vietnam,-0.6292571827724324,GDELT,Biden hikes tariffs on China EVs,neg_only
+Australia,-0.054381294298658844,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Belgium,0.1586058983726775,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Brazil,-0.5020124551765253,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Canada,0.4028073162716153,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+France,-0.4598102415949041,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Germany,-0.43790629846409657,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+India,-0.18708571040821645,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Indonesia,0.4556875520797409,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Iran,-0.06241193693552367,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Italy,0.05279154110313823,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Japan,-0.3528061732679927,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Malaysia,0.5314992874976634,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Mexico,0.48155711015348773,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Netherlands,0.08348100681157666,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Philippines,-0.08299114135946153,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Russia,-0.1847497184885996,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Saudi Arabia,0.008501963972338171,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Singapore,-0.11910454027288715,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+South Korea,0.2733743084958315,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Spain,0.17264416478791605,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Thailand,-0.14690288719891295,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+United Arab Emirates,-0.05188069670904493,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+United Kingdom,0.10810708486754642,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Vietnam,0.47088959725074814,GDELT,US-China reciprocal tariff war escalates in April 2025,neg_only
+Australia,-0.8132123566611126,ICEWS,Pivot to Asia announced,neg_only
+Belgium,-0.08643768380411479,ICEWS,Pivot to Asia announced,neg_only
+Brazil,-0.3174220639418471,ICEWS,Pivot to Asia announced,neg_only
+Canada,-0.009446811817236587,ICEWS,Pivot to Asia announced,neg_only
+France,0.24191662665375896,ICEWS,Pivot to Asia announced,neg_only
+Germany,1.3253903710316393,ICEWS,Pivot to Asia announced,neg_only
+India,0.07109043062148143,ICEWS,Pivot to Asia announced,neg_only
+Indonesia,0.5720442045788742,ICEWS,Pivot to Asia announced,neg_only
+Iran,-0.3472233482974123,ICEWS,Pivot to Asia announced,neg_only
+Italy,-0.6525367238378513,ICEWS,Pivot to Asia announced,neg_only
+Japan,-0.15093429632111288,ICEWS,Pivot to Asia announced,neg_only
+Malaysia,0.004109035647604461,ICEWS,Pivot to Asia announced,neg_only
+Mexico,0.8155808762073304,ICEWS,Pivot to Asia announced,neg_only
+Netherlands,-1.5211254022829697,ICEWS,Pivot to Asia announced,neg_only
+Philippines,-0.6896015579242553,ICEWS,Pivot to Asia announced,neg_only
+Russia,-0.35640177207348134,ICEWS,Pivot to Asia announced,neg_only
+Saudi Arabia,0.13897803015675458,ICEWS,Pivot to Asia announced,neg_only
+Singapore,-0.6078858273368235,ICEWS,Pivot to Asia announced,neg_only
+South Korea,-0.7463515740633453,ICEWS,Pivot to Asia announced,neg_only
+Spain,0.39190886449786344,ICEWS,Pivot to Asia announced,neg_only
+Thailand,1.3621193676816725,ICEWS,Pivot to Asia announced,neg_only
+United Arab Emirates,0.22757699529286732,ICEWS,Pivot to Asia announced,neg_only
+United Kingdom,0.5243800719869525,ICEWS,Pivot to Asia announced,neg_only
+Vietnam,0.7563907451684094,ICEWS,Pivot to Asia announced,neg_only
+Australia,0.9688776821850981,ICEWS,South China Sea Arbitration Ruling,neg_only
+Belgium,1.1471974044500859,ICEWS,South China Sea Arbitration Ruling,neg_only
+Brazil,0.12335989622254578,ICEWS,South China Sea Arbitration Ruling,neg_only
+Canada,0.5669984920781266,ICEWS,South China Sea Arbitration Ruling,neg_only
+France,0.7837599046929038,ICEWS,South China Sea Arbitration Ruling,neg_only
+Germany,0.8358422039160671,ICEWS,South China Sea Arbitration Ruling,neg_only
+India,0.278462707054525,ICEWS,South China Sea Arbitration Ruling,neg_only
+Indonesia,0.545895502791833,ICEWS,South China Sea Arbitration Ruling,neg_only
+Iran,-0.0766918694261842,ICEWS,South China Sea Arbitration Ruling,neg_only
+Italy,-0.1479763958694447,ICEWS,South China Sea Arbitration Ruling,neg_only
+Japan,-0.7858863839269782,ICEWS,South China Sea Arbitration Ruling,neg_only
+Malaysia,-0.049318832308794296,ICEWS,South China Sea Arbitration Ruling,neg_only
+Mexico,0.16777840763373875,ICEWS,South China Sea Arbitration Ruling,neg_only
+Netherlands,-2.394626822375868,ICEWS,South China Sea Arbitration Ruling,neg_only
+Philippines,1.191551065750599,ICEWS,South China Sea Arbitration Ruling,neg_only
+Russia,-0.4435040201609746,ICEWS,South China Sea Arbitration Ruling,neg_only
+Saudi Arabia,0.3483414168593157,ICEWS,South China Sea Arbitration Ruling,neg_only
+Singapore,-0.5420435441922807,ICEWS,South China Sea Arbitration Ruling,neg_only
+South Korea,-0.7112300224665581,ICEWS,South China Sea Arbitration Ruling,neg_only
+Spain,0.6775467535640054,ICEWS,South China Sea Arbitration Ruling,neg_only
+Thailand,1.938762564517022,ICEWS,South China Sea Arbitration Ruling,neg_only
+United Arab Emirates,0.20390721842635592,ICEWS,South China Sea Arbitration Ruling,neg_only
+United Kingdom,0.24097403458558012,ICEWS,South China Sea Arbitration Ruling,neg_only
+Vietnam,0.40625406210292364,ICEWS,South China Sea Arbitration Ruling,neg_only
+Australia,-0.21662507101712675,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Belgium,0.3435167263965739,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Brazil,-0.9702240553766651,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Canada,-0.9774681264916845,ICEWS,Steel/aluminum tariffs imposed,neg_only
+France,-0.26115265903732315,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Germany,0.7482834310001408,ICEWS,Steel/aluminum tariffs imposed,neg_only
+India,0.57995996781162,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Indonesia,0.28760972266314794,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Iran,-0.03554211575645501,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Italy,0.050628265399172666,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Japan,0.062110070658100903,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Malaysia,0.7768176512750679,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Mexico,-0.2616299566909083,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Netherlands,-0.4640688800903863,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Philippines,-0.3025422793227554,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Russia,0.1914485584480839,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Saudi Arabia,1.225493312913173,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Singapore,0.344448756133828,ICEWS,Steel/aluminum tariffs imposed,neg_only
+South Korea,0.2581193218432334,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Spain,-1.2259201048210797,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Thailand,-0.8326586926462022,ICEWS,Steel/aluminum tariffs imposed,neg_only
+United Arab Emirates,-0.7119034530715352,ICEWS,Steel/aluminum tariffs imposed,neg_only
+United Kingdom,-0.35687057859555094,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Vietnam,-0.3165441997797271,ICEWS,Steel/aluminum tariffs imposed,neg_only
+Australia,0.1436427648476091,ICEWS,US bans ZTE from tech exports,neg_only
+Belgium,0.43859345796183147,ICEWS,US bans ZTE from tech exports,neg_only
+Brazil,-0.7996788621271728,ICEWS,US bans ZTE from tech exports,neg_only
+Canada,-0.47052164011846526,ICEWS,US bans ZTE from tech exports,neg_only
+France,-0.6277015701354883,ICEWS,US bans ZTE from tech exports,neg_only
+Germany,0.9233387631904625,ICEWS,US bans ZTE from tech exports,neg_only
+India,0.4837169096207058,ICEWS,US bans ZTE from tech exports,neg_only
+Indonesia,-0.031229172128305314,ICEWS,US bans ZTE from tech exports,neg_only
+Iran,0.012855667021146353,ICEWS,US bans ZTE from tech exports,neg_only
+Italy,0.29631957191600633,ICEWS,US bans ZTE from tech exports,neg_only
+Japan,0.15051741702987137,ICEWS,US bans ZTE from tech exports,neg_only
+Malaysia,0.8655297402846669,ICEWS,US bans ZTE from tech exports,neg_only
+Mexico,-0.12954046763053326,ICEWS,US bans ZTE from tech exports,neg_only
+Netherlands,-0.36055156809125727,ICEWS,US bans ZTE from tech exports,neg_only
+Philippines,-0.35769480120007197,ICEWS,US bans ZTE from tech exports,neg_only
+Russia,0.3004422188244906,ICEWS,US bans ZTE from tech exports,neg_only
+Saudi Arabia,1.0941790666802833,ICEWS,US bans ZTE from tech exports,neg_only
+Singapore,0.0023223805895624277,ICEWS,US bans ZTE from tech exports,neg_only
+South Korea,0.06634096512214858,ICEWS,US bans ZTE from tech exports,neg_only
+Spain,-1.221371542675379,ICEWS,US bans ZTE from tech exports,neg_only
+Thailand,-0.5855262352763995,ICEWS,US bans ZTE from tech exports,neg_only
+United Arab Emirates,-0.3936519853938935,ICEWS,US bans ZTE from tech exports,neg_only
+United Kingdom,-0.9359755793814195,ICEWS,US bans ZTE from tech exports,neg_only
+Vietnam,-0.2157387776929814,ICEWS,US bans ZTE from tech exports,neg_only
+Australia,0.5082807158044816,ICEWS,Trade War Begins,neg_only
+Belgium,0.2841610696665614,ICEWS,Trade War Begins,neg_only
+Brazil,-0.2970392658927511,ICEWS,Trade War Begins,neg_only
+Canada,0.13684923132184162,ICEWS,Trade War Begins,neg_only
+France,-0.7396584477615881,ICEWS,Trade War Begins,neg_only
+Germany,-0.3650180535409421,ICEWS,Trade War Begins,neg_only
+India,-0.38834394435547354,ICEWS,Trade War Begins,neg_only
+Indonesia,0.5491986022731133,ICEWS,Trade War Begins,neg_only
+Iran,-0.5003695936480322,ICEWS,Trade War Begins,neg_only
+Italy,0.40514723624618976,ICEWS,Trade War Begins,neg_only
+Japan,-0.5507756459682027,ICEWS,Trade War Begins,neg_only
+Malaysia,-0.6179846536391473,ICEWS,Trade War Begins,neg_only
+Mexico,-0.15966861699172633,ICEWS,Trade War Begins,neg_only
+Netherlands,-0.15573577957587226,ICEWS,Trade War Begins,neg_only
+Philippines,0.23508954373282853,ICEWS,Trade War Begins,neg_only
+Russia,0.07131690547934856,ICEWS,Trade War Begins,neg_only
+Saudi Arabia,0.9148753814252681,ICEWS,Trade War Begins,neg_only
+Singapore,0.1981404918606462,ICEWS,Trade War Begins,neg_only
+South Korea,-0.6301160896138819,ICEWS,Trade War Begins,neg_only
+Spain,-0.255086399494125,ICEWS,Trade War Begins,neg_only
+Thailand,-0.2690733479950035,ICEWS,Trade War Begins,neg_only
+United Arab Emirates,0.5049281394886139,ICEWS,Trade War Begins,neg_only
+United Kingdom,-1.618444585354435,ICEWS,Trade War Begins,neg_only
+Vietnam,0.5460485281509991,ICEWS,Trade War Begins,neg_only
+Australia,-0.35739519027949546,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Belgium,0.47510249905947427,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Brazil,-0.47122813317945805,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Canada,-1.5991984533660042,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+France,-0.25765514421466734,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Germany,-0.9023121177379219,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+India,-0.30583254076230665,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Indonesia,-0.027017214691117224,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Iran,-0.22585903491474912,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Italy,0.1286084353644083,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Japan,-0.16018390371063626,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Malaysia,0.4708774739989018,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Mexico,0.42373687592277137,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Netherlands,0.19561910271986124,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Philippines,-0.23082077352226588,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Russia,-0.35767626218271087,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Saudi Arabia,0.6976239652844424,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Singapore,-0.12163737179284596,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+South Korea,0.05336074502016043,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Spain,0.2478167881575079,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Thailand,0.5089493518307677,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+United Arab Emirates,-0.4371623293745506,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+United Kingdom,-0.45557675188945046,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Vietnam,0.049059020528493244,ICEWS,Huawei CFO Meng Wanzhou arrested,neg_only
+Australia,-0.4293731075491597,ICEWS,US hikes tariffs on $200B goods,neg_only
+Belgium,0.20097296941587764,ICEWS,US hikes tariffs on $200B goods,neg_only
+Brazil,0.08450279208743695,ICEWS,US hikes tariffs on $200B goods,neg_only
+Canada,-0.675308566748521,ICEWS,US hikes tariffs on $200B goods,neg_only
+France,0.3784250348465426,ICEWS,US hikes tariffs on $200B goods,neg_only
+Germany,0.4058209244271932,ICEWS,US hikes tariffs on $200B goods,neg_only
+India,0.5154707951718738,ICEWS,US hikes tariffs on $200B goods,neg_only
+Indonesia,-0.7255958315991559,ICEWS,US hikes tariffs on $200B goods,neg_only
+Iran,1.0419237704594955,ICEWS,US hikes tariffs on $200B goods,neg_only
+Italy,-0.36762406561658945,ICEWS,US hikes tariffs on $200B goods,neg_only
+Japan,1.3133845980577294,ICEWS,US hikes tariffs on $200B goods,neg_only
+Malaysia,-0.4334961090329777,ICEWS,US hikes tariffs on $200B goods,neg_only
+Mexico,0.24707242926076053,ICEWS,US hikes tariffs on $200B goods,neg_only
+Netherlands,-0.37490008423931126,ICEWS,US hikes tariffs on $200B goods,neg_only
+Philippines,-0.3406464275046533,ICEWS,US hikes tariffs on $200B goods,neg_only
+Russia,0.1421887162745206,ICEWS,US hikes tariffs on $200B goods,neg_only
+Saudi Arabia,0.2825709073260506,ICEWS,US hikes tariffs on $200B goods,neg_only
+Singapore,-0.1603775439088103,ICEWS,US hikes tariffs on $200B goods,neg_only
+South Korea,0.3681386543250093,ICEWS,US hikes tariffs on $200B goods,neg_only
+Spain,-0.6769043425340511,ICEWS,US hikes tariffs on $200B goods,neg_only
+Thailand,-0.4511741238388857,ICEWS,US hikes tariffs on $200B goods,neg_only
+United Arab Emirates,-0.8940876603440426,ICEWS,US hikes tariffs on $200B goods,neg_only
+United Kingdom,0.4020977734729277,ICEWS,US hikes tariffs on $200B goods,neg_only
+Vietnam,-0.6426520980812771,ICEWS,US hikes tariffs on $200B goods,neg_only
+Australia,-1.2194476112176025,ICEWS,COVID-19 Blame,neg_only
+Belgium,0.2048600852146778,ICEWS,COVID-19 Blame,neg_only
+Brazil,-1.3004691198980396,ICEWS,COVID-19 Blame,neg_only
+Canada,0.551945414337419,ICEWS,COVID-19 Blame,neg_only
+France,-0.3226063149409584,ICEWS,COVID-19 Blame,neg_only
+Germany,-0.9283635586249843,ICEWS,COVID-19 Blame,neg_only
+India,-1.0605634727676432,ICEWS,COVID-19 Blame,neg_only
+Indonesia,9.843227443186839e-4,ICEWS,COVID-19 Blame,neg_only
+Iran,-0.26897560111784163,ICEWS,COVID-19 Blame,neg_only
+Italy,0.5497232053904737,ICEWS,COVID-19 Blame,neg_only
+Japan,-0.2802468019685094,ICEWS,COVID-19 Blame,neg_only
+Malaysia,0.08221939058464246,ICEWS,COVID-19 Blame,neg_only
+Mexico,-0.25237629507302806,ICEWS,COVID-19 Blame,neg_only
+Netherlands,0.02104288009593924,ICEWS,COVID-19 Blame,neg_only
+Philippines,-0.14919394798138577,ICEWS,COVID-19 Blame,neg_only
+Russia,-0.3345176071562678,ICEWS,COVID-19 Blame,neg_only
+Saudi Arabia,0.2806917585788277,ICEWS,COVID-19 Blame,neg_only
+Singapore,-0.545887042214239,ICEWS,COVID-19 Blame,neg_only
+South Korea,0.008166316380424208,ICEWS,COVID-19 Blame,neg_only
+Spain,-0.2533264795647773,ICEWS,COVID-19 Blame,neg_only
+Thailand,-0.3683226365196178,ICEWS,COVID-19 Blame,neg_only
+United Arab Emirates,1.2762003581800019,ICEWS,COVID-19 Blame,neg_only
+United Kingdom,-0.5445073715223108,ICEWS,COVID-19 Blame,neg_only
+Vietnam,-1.452621526535904,ICEWS,COVID-19 Blame,neg_only
+Australia,0.6028795554889023,ICEWS,Anchorage Talks,neg_only
+Belgium,-1.1573745729885379,ICEWS,Anchorage Talks,neg_only
+Brazil,-0.240934761818213,ICEWS,Anchorage Talks,neg_only
+Canada,-0.3232825710220342,ICEWS,Anchorage Talks,neg_only
+France,0.32870504830049796,ICEWS,Anchorage Talks,neg_only
+Germany,1.019100650166637,ICEWS,Anchorage Talks,neg_only
+India,0.49492246835611314,ICEWS,Anchorage Talks,neg_only
+Indonesia,-0.554051278751127,ICEWS,Anchorage Talks,neg_only
+Iran,-0.3630625508173284,ICEWS,Anchorage Talks,neg_only
+Italy,-0.3374083181539196,ICEWS,Anchorage Talks,neg_only
+Japan,-0.9316599264178467,ICEWS,Anchorage Talks,neg_only
+Malaysia,-0.6894326321147536,ICEWS,Anchorage Talks,neg_only
+Mexico,0.5349893104914906,ICEWS,Anchorage Talks,neg_only
+Netherlands,0.42930398391880464,ICEWS,Anchorage Talks,neg_only
+Philippines,-0.5305588649132083,ICEWS,Anchorage Talks,neg_only
+Russia,0.34761165924488374,ICEWS,Anchorage Talks,neg_only
+Saudi Arabia,1.3604738104021643,ICEWS,Anchorage Talks,neg_only
+Singapore,-0.05983476009306,ICEWS,Anchorage Talks,neg_only
+South Korea,-0.24578356551066247,ICEWS,Anchorage Talks,neg_only
+Spain,0.44752219395197623,ICEWS,Anchorage Talks,neg_only
+Thailand,1.0994748338331919,ICEWS,Anchorage Talks,neg_only
+United Arab Emirates,-0.47950016675702983,ICEWS,Anchorage Talks,neg_only
+United Kingdom,0.5169460740101581,ICEWS,Anchorage Talks,neg_only
+Vietnam,0.05056169004371048,ICEWS,Anchorage Talks,neg_only
+Australia,1.1807729317392543,ICEWS,Pelosi visits Taiwan,neg_only
+Belgium,0.35843655661332924,ICEWS,Pelosi visits Taiwan,neg_only
+Brazil,-0.2922680556308547,ICEWS,Pelosi visits Taiwan,neg_only
+Canada,-0.2957960189729482,ICEWS,Pelosi visits Taiwan,neg_only
+France,-0.012998845343308404,ICEWS,Pelosi visits Taiwan,neg_only
+Germany,-0.650570426105149,ICEWS,Pelosi visits Taiwan,neg_only
+India,-0.7657792186732539,ICEWS,Pelosi visits Taiwan,neg_only
+Indonesia,-0.5476374264412791,ICEWS,Pelosi visits Taiwan,neg_only
+Iran,0.46738557670298764,ICEWS,Pelosi visits Taiwan,neg_only
+Italy,-0.9743832127268776,ICEWS,Pelosi visits Taiwan,neg_only
+Japan,0.4569418765067648,ICEWS,Pelosi visits Taiwan,neg_only
+Malaysia,-1.6860022805540502,ICEWS,Pelosi visits Taiwan,neg_only
+Mexico,-0.12258883931645465,ICEWS,Pelosi visits Taiwan,neg_only
+Netherlands,-0.10768132959963463,ICEWS,Pelosi visits Taiwan,neg_only
+Philippines,-0.01215485935460319,ICEWS,Pelosi visits Taiwan,neg_only
+Russia,0.9170701081496522,ICEWS,Pelosi visits Taiwan,neg_only
+Saudi Arabia,-0.15370387338181743,ICEWS,Pelosi visits Taiwan,neg_only
+Singapore,-1.1073101476004343,ICEWS,Pelosi visits Taiwan,neg_only
+South Korea,0.4852600715052768,ICEWS,Pelosi visits Taiwan,neg_only
+Spain,0.043095327217823234,ICEWS,Pelosi visits Taiwan,neg_only
+Thailand,-0.6192550609330147,ICEWS,Pelosi visits Taiwan,neg_only
+United Arab Emirates,0.49718065916797566,ICEWS,Pelosi visits Taiwan,neg_only
+United Kingdom,-0.3143740773418005,ICEWS,Pelosi visits Taiwan,neg_only
+Vietnam,1.4555426298892231,ICEWS,Pelosi visits Taiwan,neg_only
+Australia,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Belgium,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Brazil,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Canada,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+France,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Germany,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+India,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Indonesia,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Iran,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Italy,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Japan,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Malaysia,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Mexico,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Netherlands,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Philippines,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Russia,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Saudi Arabia,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Singapore,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+South Korea,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Spain,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Thailand,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+United Arab Emirates,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+United Kingdom,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Vietnam,0,ICEWS,Biden hikes tariffs on China EVs,neg_only
+Australia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Belgium,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Brazil,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Canada,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+France,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Germany,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+India,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Indonesia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Iran,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Italy,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Japan,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Malaysia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Mexico,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Netherlands,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Philippines,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Russia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Saudi Arabia,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Singapore,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+South Korea,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Spain,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Thailand,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+United Arab Emirates,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+United Kingdom,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Vietnam,0,ICEWS,US-China reciprocal tariff war escalates in April 2025,neg_only
+Australia,0.8150986733828763,GDELT,Financial Crisis Cooperation,pos_only
+Belgium,-0.5692880410751677,GDELT,Financial Crisis Cooperation,pos_only
+Brazil,0.532207901846871,GDELT,Financial Crisis Cooperation,pos_only
+Canada,0.8188185424551605,GDELT,Financial Crisis Cooperation,pos_only
+France,-0.9782373068797262,GDELT,Financial Crisis Cooperation,pos_only
+Germany,0.10954393404778659,GDELT,Financial Crisis Cooperation,pos_only
+India,0.3257299754018952,GDELT,Financial Crisis Cooperation,pos_only
+Indonesia,-0.4225248035037754,GDELT,Financial Crisis Cooperation,pos_only
+Iran,-0.6817568885317594,GDELT,Financial Crisis Cooperation,pos_only
+Italy,-0.08963794235955168,GDELT,Financial Crisis Cooperation,pos_only
+Japan,0.20440865513379686,GDELT,Financial Crisis Cooperation,pos_only
+Malaysia,-0.4753692999405261,GDELT,Financial Crisis Cooperation,pos_only
+Mexico,0.8572163910361527,GDELT,Financial Crisis Cooperation,pos_only
+Netherlands,0.0593992800155866,GDELT,Financial Crisis Cooperation,pos_only
+Philippines,0.17976276960417528,GDELT,Financial Crisis Cooperation,pos_only
+Russia,0.33214906263859956,GDELT,Financial Crisis Cooperation,pos_only
+Saudi Arabia,-0.853816827750135,GDELT,Financial Crisis Cooperation,pos_only
+Singapore,-0.20582529303200028,GDELT,Financial Crisis Cooperation,pos_only
+South Korea,-0.4264811634374864,GDELT,Financial Crisis Cooperation,pos_only
+Spain,0.5605085363876342,GDELT,Financial Crisis Cooperation,pos_only
+Thailand,-0.19733323498516916,GDELT,Financial Crisis Cooperation,pos_only
+United Arab Emirates,-0.38832139686848127,GDELT,Financial Crisis Cooperation,pos_only
+United Kingdom,1.306158218900266,GDELT,Financial Crisis Cooperation,pos_only
+Vietnam,-0.06375465069734743,GDELT,Financial Crisis Cooperation,pos_only
+Australia,-0.31435743083804396,GDELT,US-China Phase One deal signed,pos_only
+Belgium,-0.10556261200557958,GDELT,US-China Phase One deal signed,pos_only
+Brazil,-0.6080865178551612,GDELT,US-China Phase One deal signed,pos_only
+Canada,0.3690196253901465,GDELT,US-China Phase One deal signed,pos_only
+France,-1.2036905290052102,GDELT,US-China Phase One deal signed,pos_only
+Germany,-0.6779732179542536,GDELT,US-China Phase One deal signed,pos_only
+India,-0.8247157454501208,GDELT,US-China Phase One deal signed,pos_only
+Indonesia,-0.8205063606335329,GDELT,US-China Phase One deal signed,pos_only
+Iran,-0.6960792838982071,GDELT,US-China Phase One deal signed,pos_only
+Italy,-0.18814661961506884,GDELT,US-China Phase One deal signed,pos_only
+Japan,-0.5920976796598322,GDELT,US-China Phase One deal signed,pos_only
+Malaysia,0.2422009334356219,GDELT,US-China Phase One deal signed,pos_only
+Mexico,-0.5431446017873525,GDELT,US-China Phase One deal signed,pos_only
+Netherlands,0.008921420855127083,GDELT,US-China Phase One deal signed,pos_only
+Philippines,-0.06725010738303802,GDELT,US-China Phase One deal signed,pos_only
+Russia,-1.248333934494918,GDELT,US-China Phase One deal signed,pos_only
+Saudi Arabia,0.261189945168888,GDELT,US-China Phase One deal signed,pos_only
+Singapore,-0.929384812903007,GDELT,US-China Phase One deal signed,pos_only
+South Korea,-0.4385672165324554,GDELT,US-China Phase One deal signed,pos_only
+Spain,0.3306068499705356,GDELT,US-China Phase One deal signed,pos_only
+Thailand,-0.46321456290718893,GDELT,US-China Phase One deal signed,pos_only
+United Arab Emirates,-0.28713271472038254,GDELT,US-China Phase One deal signed,pos_only
+United Kingdom,-0.2731325369921035,GDELT,US-China Phase One deal signed,pos_only
+Vietnam,-0.2317356256829773,GDELT,US-China Phase One deal signed,pos_only
+Australia,-0.1951711821855844,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Belgium,0.3825283984304772,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Brazil,0.4224623572867608,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Canada,0.568443840297434,GDELT,China-US economic and trade talks held in Madrid,pos_only
+France,-0.6391677259243793,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Germany,-0.17183441450347356,GDELT,China-US economic and trade talks held in Madrid,pos_only
+India,-0.006938907217877752,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Indonesia,-0.37582006458888095,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Iran,0.5661546416905423,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Italy,-0.30060093612704314,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Japan,-0.2672078454780018,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Malaysia,0.04330004960024089,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Mexico,-0.2288995701018323,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Netherlands,-0.5774938411378615,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Philippines,-0.14542048460809276,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Russia,-0.011906666572347485,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Saudi Arabia,-0.2945481286604748,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Singapore,1.1648290455484236,GDELT,China-US economic and trade talks held in Madrid,pos_only
+South Korea,0.4486764277484686,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Spain,-0.04442713675758918,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Thailand,-0.21267808699760857,GDELT,China-US economic and trade talks held in Madrid,pos_only
+United Arab Emirates,0.15474225372480238,GDELT,China-US economic and trade talks held in Madrid,pos_only
+United Kingdom,-0.4253745525603128,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Vietnam,-0.02316455884818172,GDELT,China-US economic and trade talks held in Madrid,pos_only
+Australia,0.1521917203689659,ICEWS,Financial Crisis Cooperation,pos_only
+Belgium,0.38250534081470644,ICEWS,Financial Crisis Cooperation,pos_only
+Brazil,0.13960179801495448,ICEWS,Financial Crisis Cooperation,pos_only
+Canada,-0.08345719240813197,ICEWS,Financial Crisis Cooperation,pos_only
+France,0.19125620781901945,ICEWS,Financial Crisis Cooperation,pos_only
+Germany,0.6499657682547277,ICEWS,Financial Crisis Cooperation,pos_only
+India,0.15965339406699464,ICEWS,Financial Crisis Cooperation,pos_only
+Indonesia,0.7567958537148287,ICEWS,Financial Crisis Cooperation,pos_only
+Iran,0.2324990406052975,ICEWS,Financial Crisis Cooperation,pos_only
+Italy,-0.2874816251997122,ICEWS,Financial Crisis Cooperation,pos_only
+Japan,-0.2083111385452375,ICEWS,Financial Crisis Cooperation,pos_only
+Malaysia,0.21231875299026726,ICEWS,Financial Crisis Cooperation,pos_only
+Mexico,-1.4004112049864672,ICEWS,Financial Crisis Cooperation,pos_only
+Netherlands,-0.14119033850953086,ICEWS,Financial Crisis Cooperation,pos_only
+Philippines,-0.16789173970811147,ICEWS,Financial Crisis Cooperation,pos_only
+Russia,0.08963141152755814,ICEWS,Financial Crisis Cooperation,pos_only
+Saudi Arabia,-0.5200101993993606,ICEWS,Financial Crisis Cooperation,pos_only
+Singapore,0.3750650589570918,ICEWS,Financial Crisis Cooperation,pos_only
+South Korea,-0.018258874152967165,ICEWS,Financial Crisis Cooperation,pos_only
+Spain,0.6653653143579359,ICEWS,Financial Crisis Cooperation,pos_only
+Thailand,-0.08759155794890196,ICEWS,Financial Crisis Cooperation,pos_only
+United Arab Emirates,0.8424098782568136,ICEWS,Financial Crisis Cooperation,pos_only
+United Kingdom,0.08887140891853314,ICEWS,Financial Crisis Cooperation,pos_only
+Vietnam,0.09077754700150999,ICEWS,Financial Crisis Cooperation,pos_only
+Australia,-0.8464205925927235,ICEWS,US-China Phase One deal signed,pos_only
+Belgium,0.19584721585698334,ICEWS,US-China Phase One deal signed,pos_only
+Brazil,-0.7893673210520478,ICEWS,US-China Phase One deal signed,pos_only
+Canada,1.0147132386687479,ICEWS,US-China Phase One deal signed,pos_only
+France,-0.5254798961943531,ICEWS,US-China Phase One deal signed,pos_only
+Germany,-0.5995969062933588,ICEWS,US-China Phase One deal signed,pos_only
+India,-0.7177876276199657,ICEWS,US-China Phase One deal signed,pos_only
+Indonesia,-0.5013312840877601,ICEWS,US-China Phase One deal signed,pos_only
+Iran,-0.0754377133580069,ICEWS,US-China Phase One deal signed,pos_only
+Italy,0.1292246200095997,ICEWS,US-China Phase One deal signed,pos_only
+Japan,-0.35750888541608505,ICEWS,US-China Phase One deal signed,pos_only
+Malaysia,-0.1413014807282707,ICEWS,US-China Phase One deal signed,pos_only
+Mexico,0.2752778018407168,ICEWS,US-China Phase One deal signed,pos_only
+Netherlands,-0.484143104041379,ICEWS,US-China Phase One deal signed,pos_only
+Philippines,-0.33794343217048795,ICEWS,US-China Phase One deal signed,pos_only
+Russia,0.007593337060056438,ICEWS,US-China Phase One deal signed,pos_only
+Saudi Arabia,0.8506098598572892,ICEWS,US-China Phase One deal signed,pos_only
+Singapore,-0.29759588313151336,ICEWS,US-China Phase One deal signed,pos_only
+South Korea,-0.06881940302798713,ICEWS,US-China Phase One deal signed,pos_only
+Spain,-0.19680701483216126,ICEWS,US-China Phase One deal signed,pos_only
+Thailand,-0.004627217932291467,ICEWS,US-China Phase One deal signed,pos_only
+United Arab Emirates,0.6605236733761904,ICEWS,US-China Phase One deal signed,pos_only
+United Kingdom,0.15784337835343565,ICEWS,US-China Phase One deal signed,pos_only
+Vietnam,-0.6905799429403523,ICEWS,US-China Phase One deal signed,pos_only
+Australia,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Belgium,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Brazil,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Canada,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+France,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Germany,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+India,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Indonesia,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Iran,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Italy,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Japan,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Malaysia,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Mexico,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Netherlands,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Philippines,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Russia,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Saudi Arabia,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Singapore,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+South Korea,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Spain,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Thailand,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+United Arab Emirates,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+United Kingdom,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only
+Vietnam,0,ICEWS,China-US economic and trade talks held in Madrid,pos_only

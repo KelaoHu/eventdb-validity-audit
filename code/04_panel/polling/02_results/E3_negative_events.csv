@@ -1,0 +1,8 @@
+test,beta,se,p_raw
+E3a_main,-0.1898,0.07,0.0155
+E3b_sov,-0.1477,0.0954,0.1411
+E3b_other_neg,-0.2124,0.1094,0.0699
+E3c_gdelt,0.1441,,
+E3c_icews,0.0496,,
+E3c_phoenix,0.0368,,
+E3e_robust,-0.2186,0.0762,0.0117

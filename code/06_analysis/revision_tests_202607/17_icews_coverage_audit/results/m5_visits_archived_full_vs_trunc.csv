@@ -1,0 +1,17 @@
+regime,db,category_4,mean,ci_lo,ci_hi,n
+full,GDELT,Chinese outbound visit,0.3348,0.2086,0.4611,121
+full,GDELT,Partner inbound visit,0.3066,0.1854,0.4279,159
+full,GDELT,Third-party meeting,0.1820,0.0582,0.3058,134
+full,GDELT,Remote talk,0.2198,-0.0930,0.5325,18
+full,ICEWS,Chinese outbound visit,0.2862,0.1642,0.4082,121
+full,ICEWS,Partner inbound visit,0.2582,0.1346,0.3818,158
+full,ICEWS,Third-party meeting,0.1547,0.0282,0.2811,134
+full,ICEWS,Remote talk,0.2875,-0.0813,0.6563,18
+trunc,GDELT,Chinese outbound visit,0.3348,0.2086,0.4611,121
+trunc,GDELT,Partner inbound visit,0.3066,0.1854,0.4279,159
+trunc,GDELT,Third-party meeting,0.1820,0.0582,0.3058,134
+trunc,GDELT,Remote talk,0.2198,-0.0930,0.5325,18
+trunc,ICEWS,Chinese outbound visit,0.3463,0.2013,0.4913,100
+trunc,ICEWS,Partner inbound visit,0.3163,0.1666,0.4660,129
+trunc,ICEWS,Third-party meeting,0.1919,0.0357,0.3482,108
+trunc,ICEWS,Remote talk,0.5175,-0.1240,1.1591,10

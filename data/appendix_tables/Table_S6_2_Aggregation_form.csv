@@ -1,0 +1,13 @@
+﻿Database,Aggregation form,Spearman ρ,Pearson r,RMSE
+GDELT,ArithmeticMean,0.9514,0.9598,0.6774
+GDELT,DailyAM+MonthlyGM,0.8725,0.8745,0.7408
+GDELT,FullMonthGM,0.8957,0.892,0.7397
+GDELT,Median,0.8731,0.8857,1.0331
+ICEWS,ArithmeticMean,0.9965,0.997,0.1737
+ICEWS,DailyAM+MonthlyGM,0.9846,0.9784,0.4471
+ICEWS,FullMonthGM,0.9282,0.9468,0.5882
+ICEWS,Median,0.8952,0.9297,0.7064
+Phoenix,ArithmeticMean,0.996,0.996,0.2566
+Phoenix,DailyAM+MonthlyGM,0.9814,0.9679,0.8134
+Phoenix,FullMonthGM,0.9662,0.9691,0.7572
+Phoenix,Median,0.9101,0.9525,0.8521

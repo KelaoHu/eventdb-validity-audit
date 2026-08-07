@@ -1,0 +1,19 @@
+﻿# Table S8-2 | Pew Global Attitudes waves: CKAN package & resource IDs (opendata.com.pk). 2002/2004 waves lack the China favorability question; no 2007 wave.
+wave,ckan_package_id,resource_id
+2005 Spring 22-Nation,f7f7739f-fb9c-4d9d-b588-e1f8f13ad92d,7f9acf98-955b-4721-a80a-cbbd62ab003a
+2006 Spring 15-Nation,6e82bfc1-1583-4f25-83dc-40a9a2252e34,1f545fa2-a8cf-4533-9226-974c0deef06f
+2008 Spring 24-Nation,b7d67a03-87ca-404b-bb9d-831169cfabc7,9102e34e-da87-4ad4-acfc-7b3cbec3c4ef
+2009 Spring 25-Nation,e9334a23-f07f-48bf-8c9a-04292a0f29ff,0eb56101-a8fd-4112-bea5-73bb52c01c45
+2010 Spring 22-Nation,f2675546-78a1-4ff9-a9c8-8775c54f3b0b,00003ffe-a2cd-4dbf-90fb-a33b8f32e9f3
+2011 Spring 23-Nation,b58fb2f9-9f76-4c89-9c28-ec4d75dd7f24,79cb0ae8-adba-47fd-b7d5-4af13f2c5f8e
+2012 Spring 21-Nation,937fbd03-7346-4f02-9dd9-5e8420a5a38d,48975d8b-9c06-4e73-a9bd-863b5468b561
+2013 Spring 39-Nation,6b58dced-342b-4fd6-93d3-5549b5396fc6,b511ff8b-5489-4a77-92c6-21758e2819a4
+2014 Spring 44-Nation,6d5bf26e-2b33-4c32-8ef8-3b18692398d6,8a84d43d-e4a8-4c91-9e72-840b9487959d
+2015 Spring 40-Nation,e3c94392-b038-48f8-bb20-3f063941e843,e7d3f583-1420-4054-abb7-2940b6e65e82
+2016 Spring 19-Nation,d93a4f40-9e5d-4b45-8098-c7c25ce390a4,848edcfe-1745-4ea1-b58a-3dc1d30417d1
+2017 Spring Global,f1af3e4d-b4e2-4447-8650-0160f9e81772,2ceed9f4-c767-493f-9b6b-6adaad51228e
+2018 Spring 27-Nation,f36c22b4-a575-43f8-8888-dd698d2db4ba,81cd5f23-4bd4-4bad-9915-1c74deada830
+2019 Spring 34-Nation,efe096d2-a9b5-4e79-87ea-beaaaae52c1a,c05328fe-a762-4807-9a48-49966a52f1c7
+2020 Summer 14-Nation,b01596ce-18ed-4395-bcd9-88ac12891104,fd0a7a92-8e9c-4ff7-8155-f0e0fdfb8cc7
+2009 Fall 14-Nation,643b5d48-913b-4eb2-9a93-69ff16421a97,8d37423e-a45a-401b-bdad-bf84680d52e8
+2020 Fall 4-Nation,12bbe249-4e0e-4c13-b7da-46f9c77d4772,3dc845c5-e12b-40c8-9d00-2398ce6c7d16

@@ -1,0 +1,518 @@
+﻿db,version,country,event_name,category,col,archive,full_repl
+GDELT,v3,Australia,China-Australia LNG supply agreement signed,Economic win-win cooperation,shock,-0.39454186168293126,-0.4073123129016718
+GDELT,v3,Australia,Australia-China Trade and Economic Framework signed,Economic win-win cooperation,shock,-2.892066498548627,-2.985676322316197
+GDELT,v3,Australia,Australia-China Air Services Agreement signed,Economic win-win cooperation,shock,-0.32899546810599556,-0.33964432690823476
+GDELT,v3,Australia,FTA Talks Begin,Economic win-win cooperation,shock,0.20104675391914872,0.2075541946065802
+GDELT,v3,Australia,Australia-China nuclear cooperation agreements signed,Economic win-win cooperation,shock,-0.7544450486789969,-0.7788647734967347
+GDELT,v3,Australia,Australia-China Joint Coordination Group on Clean Coal Technology launched,Economic win-win cooperation,shock,-2.533659222383117,-2.6156681918910407
+GDELT,v3,Australia,Rio Tinto executive Stern Hu detained in Shanghai,Detention / judicial dispute,shock,-1.371748130961258,-1.4161485971528958
+GDELT,v3,Australia,China-Australia FTA,Economic win-win cooperation,shock,-0.7433904504628989,-0.7674523622803655
+GDELT,v3,Australia,ChAFTA enters into force,Economic win-win cooperation,shock,-0.470906319759808,-0.48614852031981326
+GDELT,v3,Australia,Foreign Interference Laws,Policy shift / domestic politics,shock,-0.6972984971684508,-0.7198685139595888
+GDELT,v3,Australia,Australia bans Huawei from 5G,Tech control / export restriction,shock,-1.2115719833350378,-1.25078790036137
+GDELT,v3,Australia,Australia calls for COVID inquiry,Diplomatic protest / friction,shock,-1.2772284791208561,-1.318569552329728
+GDELT,v3,Australia,China imposes barley tariffs,Economic sanction / tariff barrier,shock,-0.5995524270288468,-0.6189586187819599
+GDELT,v3,Australia,AUKUS security pact announced,Security threat,shock,1.0902875367692624,1.125577743347904
+GDELT,v3,Australia,China lifts barley tariffs,Economic win-win cooperation,shock,0.5110046594136128,0.5275447549252897
+GDELT,v3,Australia,China lifts wine tariffs,Economic win-win cooperation,shock,-0.18886573858400224,-0.19497890662956863
+GDELT,v3,Belgium,Belgium-Luxembourg Economic Union and China sign BIT,Economic win-win cooperation,shock,1.0250534711903614,1.4416359195397803
+GDELT,v3,Belgium,Belgium provides emergency aid after Wenchuan earthquake,Pandemic / crisis aid,shock,0.46339391300244037,0.6517175236767218
+GDELT,v3,Belgium,China and Belgium establish all-round friendly cooperative partnership,Strategic partnership upgrade,shock,-0.04243901680288409,-0.059686262943865476
+GDELT,v3,Belgium,China-Belgium industrial investment fund agreement signed,Economic win-win cooperation,shock,-0.04243901680288409,-0.059686262943865476
+GDELT,v3,Belgium,50th anniversary of China-Belgium diplomatic ties,Cultural / people-to-people cooperation,shock,-0.40247992275802436,-0.5660480451500375
+GDELT,v3,Brazil,COSBAN established,Strategic partnership upgrade,shock,-4.221303733344361,-5.362442927835071
+GDELT,v3,Brazil,Brazil recognizes China's market economy status,Economic win-win cooperation,shock,-4.221303733344361,-5.362442927835071
+GDELT,v3,Brazil,China becomes Brazil's largest trading partner,Economic win-win cooperation,shock,0.6503160311524528,0.8261150635916017
+GDELT,v3,Brazil,China-Brazil Joint Action Plan 2010-2014 signed,Strategic partnership upgrade,shock,0.5737643344086231,0.7288692526410356
+GDELT,v3,Brazil,Comprehensive strategic partnership established,Strategic partnership upgrade,shock,-0.37471143802719337,-0.47600666233886324
+GDELT,v3,Brazil,BRICS New Development Bank and Contingent Reserve Arrangement established,Economic win-win cooperation,shock,0.07981900643389532,0.10139636794606055
+GDELT,v3,Brazil,Visa facilitation agreement enters into force,Cultural / people-to-people cooperation,shock,0.788755659085123,1.0019788844949873
+GDELT,v3,Brazil,Brazil says no restrictions on Huawei 5G,Economic win-win cooperation,shock,-1.411889118214255,-1.7935631489982846
+GDELT,v3,Brazil,China-Brazil local currency trade settlement agreement,Economic win-win cooperation,shock,-0.6149016164702805,-0.7811271192141955
+GDELT,v3,Brazil,Brazil launches anti-dumping investigations on Chinese products,Economic sanction / tariff barrier,shock,-0.844774861199968,-1.073141679967589
+GDELT,v3,Canada,Canada-China energy cooperation and joint statement,Economic win-win cooperation,shock,-3.931272663798281,-5.306741447181768
+GDELT,v3,Canada,Canada-China strategic partnership announced,Strategic partnership upgrade,shock,0.1757637428312561,0.2372597422670868
+GDELT,v3,Canada,China bans Canadian pork imports over H1N1; Canada protests,Pandemic / disaster shock,shock,0.7214182354235519,0.9738271491390341
+GDELT,v3,Canada,Canada-China FIPA signed,Economic win-win cooperation,shock,1.5007072312486314,2.0257728082534094
+GDELT,v3,Canada,China detains Canadians Kovrig and Spavor ('Two Michaels'),Detention / judicial dispute,shock,-2.083530982709945,-2.8125142079947985
+GDELT,v3,Canada,Meng Wanzhou arrested,Detention / judicial dispute,shock,-2.083530982709945,-2.8125142079947985
+GDELT,v3,Canada,China suspends canola seed licences of Richardson and Viterra,Economic sanction / tariff barrier,shock,1.7451667341793569,2.355763497606037
+GDELT,v3,Canada,Meng Released / Michaels Freed,Strategic partnership upgrade,shock,1.7602231117297742,2.3760877817817416
+GDELT,v3,Canada,Canada bans Huawei and ZTE from 5G networks,Tech control / export restriction,shock,-0.9390465604571946,-1.2675990014889926
+GDELT,v3,Canada,Canada imposes 100% surtax on Chinese-made EVs,Economic sanction / tariff barrier,shock,0.26694274326975187,0.3603403378195905
+GDELT,v3,France,China-France comprehensive strategic partnership established,Strategic partnership upgrade,shock,-0.6399614793802455,-0.5905950160033147
+GDELT,v3,France,Airbus A320 final assembly line MoU signed,Economic win-win cooperation,shock,0.5611673205792529,0.5178790182793485
+GDELT,v3,France,Mega deals on aviation railways and nuclear power signed,Economic win-win cooperation,shock,-0.32811151400143446,-0.30280107648074583
+GDELT,v3,France,Olympic torch relay disrupted in Paris,Diplomatic protest / friction,shock,-0.1007395144888085,-0.0929684943370368
+GDELT,v3,France,Sarkozy meets Dalai Lama in Poland,Diplomatic protest / friction,shock,1.0048373900203502,0.9273244930530993
+GDELT,v3,France,China-France joint communique restores ties,Strategic partnership upgrade,shock,2.0928432606527716,1.9314018715855334
+GDELT,v3,France,Airbus cooperation agreements and aircraft orders,Economic win-win cooperation,shock,-0.15278482503824997,-0.1409990430610195
+GDELT,v3,France,France applies to join AIIB as founding member,Economic win-win cooperation,shock,-0.4851332862846767,-0.4477102297696256
+GDELT,v3,France,China-France joint statement on third-party market cooperation,Economic win-win cooperation,shock,-2.4299311765540295,-2.2424869126399165
+GDELT,v3,France,China issues 4 billion euro sovereign bonds in Paris,Economic win-win cooperation,shock,0.14798906744344686,0.13657322896953117
+GDELT,v3,France,French limits on Huawei 5G equipment,Tech control / export restriction,shock,-0.15269038776088195,-0.14091189065085774
+GDELT,v3,France,China announces sanctions on relevant EU entities and personnel (including French MEP Raphaël Glucksmann),Diplomatic protest / friction,shock,-0.3997208346874317,-0.36888647264785546
+GDELT,v3,France,China-France joint statement on climate change,Cultural / people-to-people cooperation,shock,-1.0296546457095621,-0.9502273520425537
+GDELT,v3,Germany,Partnership with Global Responsibility established,Strategic partnership upgrade,shock,-2.3869408127586365,-2.19400787824327
+GDELT,v3,Germany,Joint communiqué on advancing strategic partnership,Strategic partnership upgrade,shock,-0.47235331768367,-0.43417368992681094
+GDELT,v3,Germany,Comprehensive strategic partnership established,Strategic partnership upgrade,shock,1.0359230544514817,0.952190909205509
+GDELT,v3,Germany,Germany applies to join AIIB as founding member,Economic win-win cooperation,shock,-0.9724049949909263,-0.8938069215832427
+GDELT,v3,Germany,Midea acquires Kuka amid technology concerns,Economic sanction / tariff barrier,shock,-0.7635917944230396,-0.7018717865860509
+GDELT,v3,Germany,BMW to raise stake in BMW Brilliance Automotive JV to 75%,Economic win-win cooperation,shock,-0.8701138145584381,-0.7997837876437348
+GDELT,v3,Germany,EU-China Comprehensive Agreement on Investment concluded,Economic win-win cooperation,shock,1.3255445630836054,1.2184027349244713
+GDELT,v3,Germany,BMW acquires 75% stake in China joint venture as ownership caps lift,Economic win-win cooperation,shock,-1.3367345433008238,-1.2286882454083234
+GDELT,v3,Germany,Germany blocks Elmos Semiconductor fab sale to Chinese-owned Silex,Tech control / export restriction,shock,0.521813614535329,0.4796361833295595
+GDELT,v3,Germany,German government China strategy released,Negative strategic positioning,shock,-0.976197021859903,-0.8972924444670003
+GDELT,v3,Germany,4th China-Germany High-Level Financial Dialogue held in Beijing,Economic win-win cooperation,shock,1.1257424537652143,1.0347503378516079
+GDELT,v3,India,India-China Declaration on Principles for Relations and Comprehensive Cooperation,Strategic partnership upgrade,shock,0.26498786936798874,0.35792348434788346
+GDELT,v3,India,India-China Strategic Partnership and Boundary Political Parameters Agreement,Strategic partnership upgrade,shock,0.6090347731000371,0.8226333099583061
+GDELT,v3,India,India-China defence ministers MOU,Military / security cooperation,shock,-1.2539930571383564,-1.6937890984576343
+GDELT,v3,India,China-India Hand-in-Hand 2007 joint anti-terror military training,Military / security cooperation,shock,-1.1182215901574324,-1.5104003393693801
+GDELT,v3,India,Depsang Standoff (Daulat Beg Oldi incursion),Sovereignty dispute,shock,-0.8844164253110023,-1.1945958481677355
+GDELT,v3,India,Chumar-Demchok Standoff during Xi visit,Sovereignty dispute,shock,-0.09943238308321685,-0.13430495929885683
+GDELT,v3,India,Doklam Standoff,Sovereignty dispute,shock,0.5097526118451579,0.6885312577598839
+GDELT,v3,India,Doklam Standoff Disengagement,Military / security cooperation,shock,1.3051922913547847,1.7629447483007556
+GDELT,v3,India,India revokes Article 370 in Kashmir; China expresses concern,Sovereignty dispute,shock,-1.9125496571904073,-2.583312356609467
+GDELT,v3,India,"India bans 59 Chinese apps (TikTok, WeChat, etc.)",Tech control / export restriction,shock,-0.23322401480582866,-0.31501952225964325
+GDELT,v3,India,Galwan Valley Clash,Sovereignty dispute,shock,-0.23322401480582866,-0.31501952225964325
+GDELT,v3,India,Pangong Tso disengagement agreement,Military / security cooperation,shock,-0.3655252771567772,-0.49372101873650576
+GDELT,v3,India,India-China patrolling agreement (Depsang/Demchok),Military / security cooperation,shock,1.2313684828980167,1.6632297129910332
+GDELT,v3,Indonesia,Strategic Partnership,Strategic partnership upgrade,shock,0.43328214941007626,0.5382165647468131
+GDELT,v3,Indonesia,Indonesia detains 75 Chinese fishermen,Detention / judicial dispute,shock,1.157334331419171,1.4376232876615487
+GDELT,v3,Indonesia,China-Indonesia strategic partnership,Strategic partnership upgrade,shock,-0.6687643144663742,-0.8307289659807495
+GDELT,v3,Indonesia,Maritime Silk Road,Economic win-win cooperation,shock,-0.6687643144663742,-0.8307289659807495
+GDELT,v3,Indonesia,Indonesia signs MoU to join AIIB as prospective founding member,Economic win-win cooperation,shock,0.4533482187384738,0.563142334055809
+GDELT,v3,Indonesia,Jokowi BRI Visit,Economic win-win cooperation,shock,-0.9767937340026708,-1.2133584748342823
+GDELT,v3,Indonesia,Jakarta-Bandung HSR agreement,Economic win-win cooperation,shock,-2.3861144185341145,-2.963995417731383
+GDELT,v3,Indonesia,Natuna Fishing Dispute,Sovereignty dispute,shock,2.518307100094503,3.128203177157825
+GDELT,v3,Indonesia,China participates in Indonesia-hosted Komodo-2018 multilateral naval exercise,Military / security cooperation,shock,0.31977822483518764,0.3972236979666953
+GDELT,v3,Indonesia,Indonesia deploys ships/jets to Natuna,Sovereignty dispute,shock,-2.000803206623105,-2.4853676295441045
+GDELT,v3,Indonesia,COVID in Indonesia,Pandemic / disaster shock,shock,1.3758202453307897,1.7090232015310314
+GDELT,v3,Indonesia,PLA Navy dispatched three salvage ships to assist Indonesia after the sinking of submarine KRI Nanggala-402,Pandemic / crisis aid,shock,0.7559717634157647,0.9390567465223186
+GDELT,v3,Indonesia,Jakarta-Bandung HSR starts operation,Economic win-win cooperation,shock,-1.5144011150933758,-1.8811662721947915
+GDELT,v3,Iran,Sinopec signs US$70 billion Yadavaran oil and gas deal,Economic win-win cooperation,shock,-0.6684467624511873,-0.7600266085182454
+GDELT,v3,Iran,UNSC Resolution 1737 sanctions on Iran (China votes in favour),Economic sanction / tariff barrier,shock,1.1803275697086255,1.3420371077221542
+GDELT,v3,Iran,UNSC Resolution 1929 fourth round sanctions on Iran (China votes in favour),Economic sanction / tariff barrier,shock,1.0956917120240008,1.2458058033184989
+GDELT,v3,Iran,Joint Comprehensive Plan of Action (JCPOA) signed,Strategic partnership upgrade,shock,-1.6564684251634363,-1.8834111405939518
+GDELT,v3,Iran,US withdraws from JCPOA and reimposes sanctions; China opposes unilateral sanctions,Economic sanction / tariff barrier,shock,-0.7006891372895789,-0.796686316030534
+GDELT,v3,Iran,China donates COVID-19 medical supplies to Iran,Pandemic / crisis aid,shock,0.1998786081050825,0.2272627667106798
+GDELT,v3,Iran,China and Iran sign 25-year comprehensive cooperation plan,Strategic partnership upgrade,shock,1.3496122926591771,1.5345145062007712
+GDELT,v3,Iran,China and Iran launch implementation of comprehensive cooperation plan,Strategic partnership upgrade,shock,-1.1688814097080393,-1.3290227786020576
+GDELT,v3,Iran,China-brokered Saudi-Iran rapprochement restores diplomatic ties,Strategic partnership upgrade,shock,-1.3648880260359961,-1.5518830753721424
+GDELT,v3,Iran,Iran officially becomes full member of Shanghai Cooperation Organization,Multilateral / third-party meeting,shock,-1.2533082116952268,-1.4250163858521927
+GDELT,v3,Italy,Comprehensive strategic partnership established,Strategic partnership upgrade,shock,-0.129578346360605,-0.17665653819025973
+GDELT,v3,Italy,Italy-China cultural cooperation programme,Cultural / people-to-people cooperation,shock,0.2712563509019791,0.3698087624849842
+GDELT,v3,Italy,ChemChina agrees to acquire Pirelli,Economic win-win cooperation,shock,1.608192645300504,2.1924785540263394
+GDELT,v3,Italy,Belt and Road Initiative MoU signed,Strategic partnership upgrade,shock,-0.36342637550829326,-0.4954658489440902
+GDELT,v3,Italy,Deals worth 2.5 billion euros signed,Economic win-win cooperation,shock,-0.36342637550829326,-0.4954658489440902
+GDELT,v3,Italy,China sends COVID-19 medical aid and experts,Pandemic / crisis aid,shock,-0.20410508352602957,-0.2782602070132937
+GDELT,v3,Italy,Italy blocks Fastweb-Huawei 5G core deal (de-facto restriction),Tech control / export restriction,shock,-1.260219636386413,-1.7180805634288872
+GDELT,v3,Italy,Italy and China agree on second round of third-party market cooperation projects,Economic win-win cooperation,shock,0.05015906848983285,0.06838277881400678
+GDELT,v3,Italy,Italy-China Intergovernmental Committee meeting,Multilateral / third-party meeting,shock,0.3459305066401949,0.47161340975438426
+GDELT,v3,Italy,Italy withdraws from Belt and Road Initiative,Policy shift / domestic politics,shock,-0.20731470743356334,-0.2826359462036958
+GDELT,v3,Italy,2024-2027 action plan on strengthening comprehensive strategic partnership,Strategic partnership upgrade,shock,-1.0558504511200475,-1.4394603016650265
+GDELT,v3,Japan,Anti-Japanese protests across major Chinese cities,Diplomatic protest / friction,shock,-0.9147747328798012,-0.8352063634059396
+GDELT,v3,Japan,Senkaku/Diaoyu fishing boat standoff,Sovereignty dispute,shock,1.3799209627214863,1.25989353185783
+GDELT,v3,Japan,China-Japan Joint Statement on strategic mutually beneficial relations,Strategic partnership upgrade,shock,0.055585157319567924,0.050750283578638644
+GDELT,v3,Japan,China and Japan hold 10th round of strategic dialogue in Beijing,Strategic partnership upgrade,shock,-0.10299681173802167,-0.09403800682525243
+GDELT,v3,Japan,"Fifth round of trilateral senior foreign affairs officials' consultation of China, Japan and the ROK in Jeju",Multilateral / third-party meeting,shock,-0.09528653295695833,-0.08699837873965244
+GDELT,v3,Japan,Senkaku Boat Collision,Sovereignty dispute,shock,-0.8567959199582313,-0.7822706276949484
+GDELT,v3,Japan,Nationalization of Senkaku,Sovereignty dispute,shock,-0.18725298440924165,-0.17096546124859083
+GDELT,v3,Japan,China declares East China Sea ADIZ,Sovereignty dispute,shock,1.5205839372818275,1.3883214466500955
+GDELT,v3,Japan,Japan allows collective self-defense,Policy shift / domestic politics,shock,0.342108673184494,0.312351588374705
+GDELT,v3,Japan,Japan protests China ECS gas drilling,Sovereignty dispute,shock,-0.574404981162379,-0.5244424427078324
+GDELT,v3,Japan,China-Japan maritime liaison starts,Military / security cooperation,shock,0.46867887051168755,0.4279125351582096
+GDELT,v3,Japan,RCEP Signed,Economic win-win cooperation,shock,0.8440730401865009,0.7706544015747259
+GDELT,v3,Japan,Japan approves Fukushima water release,Diplomatic protest / friction,shock,-1.6531258807432834,-1.5093347088427496
+GDELT,v3,Japan,Taiwan Tensions,Sovereignty dispute,shock,-0.15003646070563814,-0.13698608216884328
+GDELT,v3,Japan,Japanese PM Takaichi links Taiwan contingency to 'survival-threatening situation',Negative strategic positioning,shock,-1.087437759822914,-0.9928509218360064
+GDELT,v3,Malaysia,China-Malaysia Joint Communique on strategic cooperation,Strategic partnership upgrade,shock,-0.06901684980291084,-0.05590453369640502
+GDELT,v3,Malaysia,China-Malaysia comprehensive strategic partnership established,Strategic partnership upgrade,shock,0.38693283558055724,0.31342056043894456
+GDELT,v3,Malaysia,Malaysia Airlines Flight MH370 disappearance,Pandemic / disaster shock,shock,0.1791121247367402,0.14508311870759227
+GDELT,v3,Malaysia,China-Malaysia Littoral Mission Ships defense deal,Military / security cooperation,shock,-0.428072162605021,-0.3467439430687549
+GDELT,v3,Malaysia,Malaysia suspends China-backed East Coast Rail Link project,Policy shift / domestic politics,shock,-0.3566577312156004,-0.28889733753082614
+GDELT,v3,Malaysia,East Coast Rail Link reinstated at reduced cost,Economic win-win cooperation,shock,-0.8285299659047056,-0.6711199008600264
+GDELT,v3,Malaysia,Xi-Mahathir phone call on COVID-19 cooperation,Pandemic / crisis aid,shock,1.7636469452614556,1.428576649926614
+GDELT,v3,Malaysia,Chinese survey ship Haiyang Dizhi 8 tags Malaysian drillship West Capella in South China Sea,Sovereignty dispute,shock,-0.5734592321831606,-0.4645093344690139
+GDELT,v3,Malaysia,China-Malaysia reciprocal visa-free entry policy,Cultural / people-to-people cooperation,shock,-0.18639959357118074,-0.15098606194797326
+GDELT,v3,Malaysia,Joint Statement on Deepening Comprehensive Strategic Partnership towards Community with Shared Future,Strategic partnership upgrade,shock,-0.36370290707964376,-0.2946040203570235
+GDELT,v3,Malaysia,Joint Statement on High-level Strategic China-Malaysia Community with Shared Future,Strategic partnership upgrade,shock,1.007493948329739,0.8160830223947493
+GDELT,v3,Mexico,Mexico requests WTO consultations on Chinese industrial subsidy programs,Economic sanction / tariff barrier,shock,-1.5822212881021653,-2.166676008923489
+GDELT,v3,Mexico,Transitional trade remedy measure replaces anti-dumping duties on Chinese goods,Economic sanction / tariff barrier,shock,1.5572608576499471,2.132495476630125
+GDELT,v3,Mexico,Mexico cancels USD 3.7 billion Chinese-led bullet train contract,Policy shift / domestic politics,shock,0.5087014678616699,0.6966100597989644
+GDELT,v3,Mexico,China sends COVID-19 medical supplies and ventilators to Mexico,Pandemic / crisis aid,shock,0.6096097002741565,0.8347926565792527
+GDELT,v3,Mexico,First shipment of Chinese Sinovac COVID-19 vaccine arrives in Mexico City,Pandemic / crisis aid,shock,-0.5829337956285429,-0.7982629732494897
+GDELT,v3,Mexico,"Mexico amends Mining Law to nationalize lithium, affecting Ganfeng concessions",Policy shift / domestic politics,shock,-0.5355821233477359,-0.7334201266232174
+GDELT,v3,Mexico,Mexico raises tariffs on 392 Chinese product lines via presidential decree,Economic sanction / tariff barrier,shock,0.40094436581036985,0.5490486980846878
+GDELT,v3,Mexico,Mexico expands tariffs to 544 product lines with rates up to 50 percent,Economic sanction / tariff barrier,shock,2.4554245098922576,3.3624306646054603
+GDELT,v3,Mexico,Mexico imposes additional 15-35 percent duties on 155 textile and apparel items,Economic sanction / tariff barrier,shock,0.3113140921126845,0.4263100109273694
+GDELT,v3,Mexico,"Mexico enacts permanent tariffs on 1,463 products affecting Chinese imports",Economic sanction / tariff barrier,shock,-0.04266532627199008,-0.05842541719135608
+GDELT,v3,Netherlands,Open and pragmatic comprehensive partnership established,Strategic partnership upgrade,shock,0.6101893585506268,1.04233555333135
+GDELT,v3,Netherlands,22 countries including the Netherlands send joint UNHRC letter criticizing China's Xinjiang policy,Diplomatic protest / friction,shock,0.07897335644119102,0.13490359350102143
+GDELT,v3,Netherlands,"Netherlands recalls 600,000 face masks purchased from China",Pandemic / disaster shock,shock,-0.29974359335862116,-0.5120269632087714
+GDELT,v3,Netherlands,Netherlands announces export controls on advanced semiconductor equipment,Tech control / export restriction,shock,-0.9547125640702055,-1.6308557905798757
+GDELT,v3,Philippines,"Tripartite Joint Marine Seismic Undertaking (JMSU) signed in Manila by China, Philippines and Vietnam",Sovereignty dispute,shock,0.26993026218787397,0.42331275714863126
+GDELT,v3,Philippines,China and Philippines sign MOU on broadening agriculture and fisheries cooperation,Economic win-win cooperation,shock,0.22042754562496025,0.34568110790431916
+GDELT,v3,Philippines,Philippines signs Republic Act 9522 baselines law; China protests,Sovereignty dispute,shock,0.2504892987285173,0.3928248534326772
+GDELT,v3,Philippines,Chinese patrol boats harass Philippine survey vessel at Reed Bank,Sovereignty dispute,shock,-1.4557417380454807,-2.282937984920965
+GDELT,v3,Philippines,Scarborough Shoal standoff,Sovereignty dispute,shock,0.039033408606579,0.06121336557165913
+GDELT,v3,Philippines,Philippines files SCS arbitration,Sovereignty dispute,shock,0.46108197321224326,0.7230826205627789
+GDELT,v3,Philippines,South China Sea tribunal ruling,Sovereignty dispute,shock,0.9561750370655739,1.499502456583416
+GDELT,v3,Philippines,China-Philippines BCM launched,Strategic partnership upgrade,shock,-0.6625028451310053,-1.038956891006261
+GDELT,v3,Philippines,Philippines-China MoU on oil and gas development in West Philippine Sea,Economic win-win cooperation,shock,-0.6526051016734424,-1.0234349519742654
+GDELT,v3,Philippines,Reed Bank/Gem-Ver collision,Sovereignty dispute,shock,-0.12162282408949945,-0.190732571369472
+GDELT,v3,Philippines,US Base Expansion,Sovereignty dispute,shock,-1.3875630341975442,-2.1760180906091424
+GDELT,v3,Philippines,Second Thomas Shoal water cannon,Sovereignty dispute,shock,-1.5163215664507026,-2.3779410941757426
+GDELT,v3,Russia,Supplementary agreement on China-Russia eastern border signed,Strategic partnership upgrade,shock,0.9511670266106036,0.7629595783927434
+GDELT,v3,Russia,Peace Mission 2005 joint military exercise,Military / security cooperation,shock,-0.5443635739812103,-0.43665033719372315
+GDELT,v3,Russia,Russia Year in China launched,Cultural / people-to-people cooperation,shock,-2.540664462458931,-2.037943108711925
+GDELT,v3,Russia,Heixiazi Island handover and border marker unveiling,Strategic partnership upgrade,shock,1.0959695316072353,0.87911000736222
+GDELT,v3,Russia,New Star cargo ship sunk by Russian coast guard,Diplomatic protest / friction,shock,-1.3208168396571325,-1.0594667717927464
+GDELT,v3,Russia,China-Russia crude oil pipeline completed,Economic win-win cooperation,shock,-1.3160719835128192,-1.0556607804766898
+GDELT,v3,Russia,Treaty of Good-Neighborliness 10th anniversary joint statement,Strategic partnership upgrade,shock,1.7754555343141711,1.424146094237937
+GDELT,v3,Russia,Russian coast guard fires on Chinese fishing vessel,Diplomatic protest / friction,shock,-0.49374974906901037,-0.3960514713420946
+GDELT,v3,Russia,East-route gas supply contract signed,Economic win-win cooperation,shock,0.23620328035374666,0.18946573015241297
+GDELT,v3,Russia,Joint statement on Silk Road Economic Belt and EEU alignment,Strategic partnership upgrade,shock,-0.18199142887340403,-0.14598077935810294
+GDELT,v3,Russia,Relations elevated to comprehensive strategic partnership of coordination for a new era,Strategic partnership upgrade,shock,-0.31397172736996304,-0.25184613221406005
+GDELT,v3,Russia,Power of Siberia gas pipeline begins deliveries,Economic win-win cooperation,shock,-0.4067730067637113,-0.3262848196576982
+GDELT,v3,Russia,Joint statement on international relations entering a new era,Strategic partnership upgrade,shock,-0.4089256740262838,-0.3280115385841571
+GDELT,v3,Saudi Arabia,China and Saudi Arabia establish comprehensive strategic partnership,Strategic partnership upgrade,shock,-0.6196413075344193,-0.8998096771242796
+GDELT,v3,Saudi Arabia,Saudi Arabia donates over US$60 million for Wenchuan earthquake relief,Pandemic / crisis aid,shock,-0.6862491300868685,-0.9965339635398389
+GDELT,v3,Saudi Arabia,China and Saudi Arabia establish strategic friendly relations,Strategic partnership upgrade,shock,-1.6203290814753948,-2.3529544752896716
+GDELT,v3,Saudi Arabia,Mina Hajj stampede kills Chinese pilgrims,Pandemic / disaster shock,shock,0.09313288499587064,0.13524255106754968
+GDELT,v3,Saudi Arabia,Abqaiq-Khurais attack disrupts Saudi oil supply,Security threat,shock,-0.007958240950779114,-0.011556528161253965
+GDELT,v3,Saudi Arabia,COVID-19 pandemic and oil price war slash China oil demand,Pandemic / disaster shock,shock,0.5113993387226184,0.7426265296750069
+GDELT,v3,Saudi Arabia,Saudi Arabia becomes Chinese group tourism destination,Economic win-win cooperation,shock,0.2505821756201878,0.36388191651567103
+GDELT,v3,Saudi Arabia,Saudi Aramco acquires 10% stake in Rongsheng Petrochemical,Economic win-win cooperation,shock,0.38029917910193256,0.5522499507335223
+GDELT,v3,Saudi Arabia,PBOC and SAMA sign bilateral currency swap agreement,Economic win-win cooperation,shock,0.19616330233761003,0.2848577646354422
+GDELT,v3,Saudi Arabia,China launches unilateral visa-free trial for Saudi citizens,Cultural / people-to-people cooperation,shock,-0.37435239747949384,-0.5436143552905608
+GDELT,v3,Saudi Arabia,China and Saudi Arabia sign mutual visa exemption for diplomatic passport holders,Cultural / people-to-people cooperation,shock,0.03471928278243677,0.05041746934974256
+GDELT,v3,Singapore,Joint Council for Bilateral Cooperation launched,Economic win-win cooperation,shock,1.0248841128690191,0.9805117033084141
+GDELT,v3,Singapore,Deputy PM Lee Hsien Loong visit to Taiwan sparks Chinese protest,Sovereignty dispute,shock,-2.2174813560507376,-2.1214753884606594
+GDELT,v3,Singapore,Tianjin Eco-City Framework Agreement signed,Economic win-win cooperation,shock,-0.46663574670754526,-0.44643272842622617
+GDELT,v3,Singapore,China-Singapore Free Trade Agreement signed,Economic win-win cooperation,shock,1.4323193493896382,1.3703070106338135
+GDELT,v3,Singapore,Singapore and China establish bilateral currency swap arrangement,Economic win-win cooperation,shock,0.40964431941075075,0.3919087478599481
+GDELT,v3,Singapore,Singapore military vehicles detained in Hong Kong,Detention / judicial dispute,shock,0.763531822242551,0.7304746733379204
+GDELT,v3,Singapore,China-Singapore Chongqing Connectivity Initiative Southern Transport Corridor launched,Economic win-win cooperation,shock,0.0845514274645443,0.08089076913129323
+GDELT,v3,Singapore,China-Singapore FTA upgrade protocol signed,Economic win-win cooperation,shock,0.8612197846755194,0.823933230491025
+GDELT,v3,Singapore,Relations elevated to all-round high-quality future-oriented partnership,Strategic partnership upgrade,shock,-1.2609157243131253,-1.2063243141838325
+GDELT,v3,Singapore,30-day mutual visa exemption,Cultural / people-to-people cooperation,shock,-0.6840127667808307,-0.6543983994087799
+GDELT,v3,Singapore,China-Singapore FTA further upgraded,Economic win-win cooperation,shock,-0.07323831936192937,-0.07006746261680852
+GDELT,v3,South Korea,Kimchi import dispute with South Korea,Economic sanction / tariff barrier,shock,0.05378157583550758,0.05227421326128345
+GDELT,v3,South Korea,ROKS Cheonan sinking,Security threat,shock,-1.0422859828693412,-1.0130733229982223
+GDELT,v3,South Korea,Yeonpyeong Island shelling,Security threat,shock,0.46176025862664283,0.4488182776358547
+GDELT,v3,South Korea,China declares East China Sea ADIZ covering Ieodo/Suyan Rock,Sovereignty dispute,shock,1.74364082201276,1.6947709464622587
+GDELT,v3,South Korea,South Korea announces decision to join AIIB as founding member,Economic win-win cooperation,shock,0.009522818441923597,0.009255917744101172
+GDELT,v3,South Korea,China-South Korea FTA enters into force,Economic win-win cooperation,shock,-1.729541430985545,-1.6810667259748353
+GDELT,v3,South Korea,THAAD deployment announced,Security threat,shock,-0.9025049325740304,-0.8772099846800632
+GDELT,v3,South Korea,China restricts K-pop and Hallyu over THAAD,Diplomatic protest / friction,shock,-0.2527306458710059,-0.24564724024320186
+GDELT,v3,South Korea,Lotte stores closed in China amid THAAD retaliation,Diplomatic protest / friction,shock,2.313756603309303,2.248907813449387
+GDELT,v3,South Korea,THAAD 'Three Noes' and bilateral relations normalization,Strategic partnership upgrade,shock,1.093091964553535,1.0624553405432529
+GDELT,v3,South Korea,US-Japan-South Korea Camp David summit criticizes China,Negative strategic positioning,shock,0.8695648881563269,0.8451931670250042
+GDELT,v3,South Korea,First vice-ministerial China-ROK 2+2 diplomatic and security dialogue,High-level visit,shock,-1.5353700414687137,-1.4923374731190406
+GDELT,v3,Spain,China-Spain comprehensive strategic partnership established,Strategic partnership upgrade,shock,-0.6577059243617962,-0.9493443634204397
+GDELT,v3,Spain,Joint statement on deepening comprehensive strategic partnership,Strategic partnership upgrade,shock,0.04803109305671419,0.06932892919667744
+GDELT,v3,Spain,China-Spain business deals worth over $4 billion signed,Economic win-win cooperation,shock,-0.37901681454824554,-0.5470795734158778
+GDELT,v3,Spain,Yiwu-Madrid China-Europe freight train launched,Economic win-win cooperation,shock,-1.2860525790052737,-1.8563110376809835
+GDELT,v3,Spain,China sends COVID-19 medical aid to Spain,Pandemic / crisis aid,shock,0.6828156364703027,0.9855881659685946
+GDELT,v3,Spain,Spain passes 5G cybersecurity law enabling Huawei/ZTE restrictions,Tech control / export restriction,shock,0.07513897345939469,0.10845692320027678
+GDELT,v3,Spain,50th anniversary of China-Spain diplomatic relations,Cultural / people-to-people cooperation,shock,0.407676940042625,0.5884481054378647
+GDELT,v3,Spain,China-Spain Action Plan 2025-2028 released,Strategic partnership upgrade,shock,-0.38935749569581896,-0.5620054954697237
+GDELT,v3,Thailand,China-Thailand Early Harvest FTA on fruits and vegetables takes effect,Economic win-win cooperation,shock,-0.20006557245268886,-0.22635477029348605
+GDELT,v3,Thailand,China donates flood relief aid to Thailand,Pandemic / crisis aid,shock,2.0873358747878497,2.361617876932259
+GDELT,v3,Thailand,China-Thailand railway cooperation MoU signed,Economic win-win cooperation,shock,0.8593123820570975,0.9722285272088964
+GDELT,v3,Thailand,China-Thailand railway project launching ceremony held,Economic win-win cooperation,shock,0.37306084023337777,0.42208211918365035
+GDELT,v3,Thailand,Thailand approves purchase of Chinese S26T submarine,Military / security cooperation,shock,0.19314753205040525,0.21852767927056505
+GDELT,v3,Thailand,COVID-19 pandemic travel restrictions disrupt China-Thailand tourism,Pandemic / disaster shock,shock,-0.5743865090683196,-0.6498625661873056
+GDELT,v3,Thailand,First batch of China's Sinovac COVID-19 vaccines arrives in Thailand,Pandemic / crisis aid,shock,-2.0133913097937364,-2.2779567811300194
+GDELT,v3,Thailand,Thailand announces five-month visa exemption for Chinese tourists,Cultural / people-to-people cooperation,shock,0.4570327431916586,0.5170881743095186
+GDELT,v3,Thailand,China-Thailand mutual visa exemption agreement signed,Cultural / people-to-people cooperation,shock,-0.9310248611459402,-1.0533642345289054
+GDELT,v3,Thailand,50th anniversary joint statement on China-Thailand community with shared future,Strategic partnership upgrade,shock,0.31895886205187823,0.3608709837865671
+GDELT,v3,United Arab Emirates,China-UAE criminal judicial assistance treaty signed,Cultural / people-to-people cooperation,shock,-3.2053184490542943,-3.9866510164567948
+GDELT,v3,United Arab Emirates,China-UAE strategic partnership established,Strategic partnership upgrade,shock,0.11373129026065254,0.14145457655052884
+GDELT,v3,United Arab Emirates,Central banks renew currency swap and sign RMB clearing MOU,Economic win-win cooperation,shock,0.30854224198173896,0.38375289761904163
+GDELT,v3,United Arab Emirates,CNPC awarded 8% stake in Abu Dhabi onshore oil concession,Economic win-win cooperation,shock,-0.15822139445890077,-0.19678964604309224
+GDELT,v3,United Arab Emirates,China-UAE comprehensive mutual visa exemption arrangement reached,Cultural / people-to-people cooperation,shock,0.08486201592344556,0.10554809059286896
+GDELT,v3,United Arab Emirates,CNPC acquires 10% stakes in two Abu Dhabi offshore concessions,Economic win-win cooperation,shock,-0.3234005292071197,-0.4022330601399755
+GDELT,v3,United Arab Emirates,US raises security concerns over UAE Huawei 5G contract,Tech control / export restriction,shock,0.2976170905039007,0.37016461709829684
+GDELT,v3,United Arab Emirates,Sinopharm COVID-19 vaccine phase 3 clinical trial launched in UAE,Pandemic / crisis aid,shock,-2.1937478792452896,-2.728498697289665
+GDELT,v3,United Arab Emirates,Falcon Shield-2023 China-UAE air force joint training,Military / security cooperation,shock,0.22471045241443507,0.27948616269025806
+GDELT,v3,United Arab Emirates,40th anniversary of China-UAE diplomatic relations,Cultural / people-to-people cooperation,shock,0.7332904273937314,0.9120382496128507
+GDELT,v3,United Kingdom,UK-China Comprehensive Strategic Partnership established,Strategic partnership upgrade,shock,-0.9724763238296047,-0.9195234268780119
+GDELT,v3,United Kingdom,First UK-China Economic and Financial Dialogue held,Economic win-win cooperation,shock,0.887639209632008,0.8393058297377407
+GDELT,v3,United Kingdom,China-UK High-Level People-to-People Exchange Mechanism launched,Cultural / people-to-people cooperation,shock,0.030105214483096554,0.0284659372265037
+GDELT,v3,United Kingdom,Bank of England and PBOC sign sterling/RMB currency swap line,Economic win-win cooperation,shock,0.49763572938265604,0.47053866506168696
+GDELT,v3,United Kingdom,UK joins AIIB as founding member,Economic win-win cooperation,shock,-0.5598552255845752,-0.5293702098142734
+GDELT,v3,United Kingdom,UK government approves Hinkley Point C nuclear project with CGN investment,Economic win-win cooperation,shock,-0.17020166902971645,-0.16093391492581421
+GDELT,v3,United Kingdom,Hong Kong extradition bill protests begin,Sovereignty dispute,shock,-0.16275008943865055,-0.1538880858055242
+GDELT,v3,United Kingdom,Hong Kong National Security Law enacted,Sovereignty dispute,shock,0.09968358842969294,0.09425565701734168
+GDELT,v3,United Kingdom,UK bans Huawei 5G,Tech control / export restriction,shock,0.1082435540238118,0.1023495187435231
+GDELT,v3,United Kingdom,UK opens BNO visa route for Hong Kong residents,Sovereignty dispute,shock,-0.36610347987248626,-0.3461685576864486
+GDELT,v3,United Kingdom,UK sanctions Chinese officials over Xinjiang; China retaliates,Diplomatic protest / friction,shock,0.6707871290128309,0.6342616930215534
+GDELT,v3,United Kingdom,UK buys out CGN from Sizewell C nuclear project,Economic sanction / tariff barrier,shock,0.7249235927832136,0.685450339434216
+GDELT,v3,United Kingdom,Integrated Review Refresh labels China 'epoch-defining challenge',Negative strategic positioning,shock,-0.2588744112653665,-0.24477828400012197
+GDELT,v3,United States,Financial Crisis Cooperation,Economic win-win cooperation,shock,1.263687743030885,0.9082597815300779
+GDELT,v3,United States,Pivot to Asia announced,Negative strategic positioning,shock,-0.6676171040524945,-0.47984145483449697
+GDELT,v3,United States,South China Sea Arbitration Ruling,Sovereignty dispute,shock,0.050007395899923424,0.03594219119829073
+GDELT,v3,United States,Steel/aluminum tariffs imposed,Economic sanction / tariff barrier,shock,-0.49717369543982654,-0.3573373837745943
+GDELT,v3,United States,US bans ZTE from tech exports,Tech control / export restriction,shock,-0.26806928435768557,-0.19267144988022977
+GDELT,v3,United States,Trade War Begins,Economic sanction / tariff barrier,shock,-0.5835400010732623,-0.41941208721204565
+GDELT,v3,United States,Huawei CFO Meng Wanzhou arrested,Detention / judicial dispute,shock,0.4253138248855364,0.30568899936130656
+GDELT,v3,United States,US hikes tariffs on $200B goods,Economic sanction / tariff barrier,shock,-1.4692181153932682,-1.0559821695402078
+GDELT,v3,United States,US-China Phase One deal signed,Economic win-win cooperation,shock,-1.554375761752561,-1.1171881642208228
+GDELT,v3,United States,COVID-19 Blame,Pandemic / disaster shock,shock,-1.7488934306018278,-1.256995309132299
+GDELT,v3,United States,Anchorage Talks,Diplomatic protest / friction,shock,0.23185607781335027,0.16664365998842112
+GDELT,v3,United States,Pelosi visits Taiwan,Sovereignty dispute,shock,0.7425506210569744,0.5336989842432521
+GDELT,v3,United States,Biden hikes tariffs on China EVs,Economic sanction / tariff barrier,shock,0.9526339811068191,0.6846937752857993
+GDELT,v3,United States,US-China reciprocal tariff war escalates in April 2025,Economic sanction / tariff barrier,shock,0.8275824640308179,0.5948145593118912
+GDELT,v3,United States,China-US economic and trade talks held in Madrid,Economic win-win cooperation,shock,-0.6748505180104386,-0.4850403807696348
+GDELT,v3,Vietnam,Joint Development Agreement,Economic win-win cooperation,shock,1.4968882582726626,2.0126140736497407
+GDELT,v3,Vietnam,Vietnam says China cut seismic cables,Sovereignty dispute,shock,-0.06438017621359138,-0.08656120321302063
+GDELT,v3,Vietnam,Vietnam SCS Drills,Sovereignty dispute,shock,-0.06438017621359138,-0.08656120321302063
+GDELT,v3,Vietnam,Haiyang Shiyou 981 oil rig crisis,Sovereignty dispute,shock,-0.8052895497929073,-1.0827375205324419
+GDELT,v3,Vietnam,Vietnam signs MoU establishing AIIB as founding member,Economic win-win cooperation,shock,1.573055979489749,2.115024007612502
+GDELT,v3,Vietnam,South China Sea tribunal ruling,Sovereignty dispute,shock,-0.06215401463008785,-0.0835680578607092
+GDELT,v3,Vietnam,Haiyang Dizhi 8 at Vanguard Bank,Sovereignty dispute,shock,-0.9662222899703213,-1.299116729870245
+GDELT,v3,Vietnam,"China donated 500,000 doses of Sinopharm COVID-19 vaccine to Vietnam",Pandemic / crisis aid,shock,1.2063918248205743,1.622032340457848
+GDELT,v3,Vietnam,Foreign Ministry Director-General Liu Jinsong met with Vietnamese Ambassador to China Pham Sao Mai,High-level visit,shock,1.0825526337700841,1.4555265926839787
+GDELT,v3,Vietnam,China-Vietnam joint statement,Strategic partnership upgrade,shock,0.00272937041333976,0.003669725696445636
+GDELT,v3,Vietnam,Vietnam and China sign updated railway transport protocol at 44th border railway conference,Economic win-win cooperation,shock,-0.018801640891007776,-0.025279406699747042
+ICEWS,v3,Australia,China-Australia LNG supply agreement signed,Economic win-win cooperation,shock,0.2260383551782189,0.32582689020768996
+ICEWS,v3,Australia,Australia-China Trade and Economic Framework signed,Economic win-win cooperation,shock,0.48532460281026213,0.6995795291036857
+ICEWS,v3,Australia,Australia-China Air Services Agreement signed,Economic win-win cooperation,shock,-0.4456671676825699,-0.642414634450823
+ICEWS,v3,Australia,FTA Talks Begin,Economic win-win cooperation,shock,-0.6025347613719784,-0.8685341360986061
+ICEWS,v3,Australia,Australia-China nuclear cooperation agreements signed,Economic win-win cooperation,shock,-0.2261209160245345,-0.32594589896523773
+ICEWS,v3,Australia,Australia-China Joint Coordination Group on Clean Coal Technology launched,Economic win-win cooperation,shock,-0.8421529990500463,-1.2139359824274507
+ICEWS,v3,Australia,Rio Tinto executive Stern Hu detained in Shanghai,Detention / judicial dispute,shock,0.009993765077964012,0.014405685239798516
+ICEWS,v3,Australia,China-Australia FTA,Economic win-win cooperation,shock,-0.8289644267962549,-1.1949250872174577
+ICEWS,v3,Australia,ChAFTA enters into force,Economic win-win cooperation,shock,1.1754753018320492,1.6944091714430787
+ICEWS,v3,Australia,Foreign Interference Laws,Policy shift / domestic politics,shock,-0.4607078812956036,-0.6640953308051003
+ICEWS,v3,Australia,Australia bans Huawei from 5G,Tech control / export restriction,shock,-0.7741143921365093,-1.1158605576296448
+ICEWS,v3,Australia,Australia calls for COVID inquiry,Diplomatic protest / friction,shock,1.2351127801316666,1.7803746443331652
+ICEWS,v3,Australia,China imposes barley tariffs,Economic sanction / tariff barrier,shock,0.6233514745974571,0.8985407468317945
+ICEWS,v3,Australia,AUKUS security pact announced,Security threat,shock,1.532236553935576,2.2086688386922186
+ICEWS,v3,Belgium,Belgium-Luxembourg Economic Union and China sign BIT,Economic win-win cooperation,shock,-0.4690315693070094,-0.9333969908565504
+ICEWS,v3,Belgium,Belgium provides emergency aid after Wenchuan earthquake,Pandemic / crisis aid,shock,1.967416222981661,3.91525965940135
+ICEWS,v3,Belgium,China and Belgium establish all-round friendly cooperative partnership,Strategic partnership upgrade,shock,1.4420195259622024,2.8696931600535533
+ICEWS,v3,Belgium,China-Belgium industrial investment fund agreement signed,Economic win-win cooperation,shock,1.4420195259622024,2.8696931600535533
+ICEWS,v3,Belgium,50th anniversary of China-Belgium diplomatic ties,Cultural / people-to-people cooperation,shock,1.112412241372942,2.213757679943821
+ICEWS,v3,Brazil,COSBAN established,Strategic partnership upgrade,shock,-0.691592390094377,-1.1739621843130519
+ICEWS,v3,Brazil,Brazil recognizes China's market economy status,Economic win-win cooperation,shock,-0.691592390094377,-1.1739621843130519
+ICEWS,v3,Brazil,China becomes Brazil's largest trading partner,Economic win-win cooperation,shock,0.15984873365460683,0.2713395508808727
+ICEWS,v3,Brazil,China-Brazil Joint Action Plan 2010-2014 signed,Strategic partnership upgrade,shock,-0.5001899118513171,-0.8490608773300607
+ICEWS,v3,Brazil,Comprehensive strategic partnership established,Strategic partnership upgrade,shock,-0.4379538858685747,-0.7434166538652918
+ICEWS,v3,Brazil,BRICS New Development Bank and Contingent Reserve Arrangement established,Economic win-win cooperation,shock,0.030106363885041565,0.051104860629516136
+ICEWS,v3,Brazil,Visa facilitation agreement enters into force,Cultural / people-to-people cooperation,shock,-0.9187936988128826,-1.5596311831080834
+ICEWS,v3,Brazil,Brazil says no restrictions on Huawei 5G,Economic win-win cooperation,shock,-1.6080095998399948,-2.729559331858626
+ICEWS,v3,Brazil,China-Brazil local currency trade settlement agreement,Economic win-win cooperation,shock,-0.3455629803691941,-0.5865852156016165
+ICEWS,v3,Canada,Canada-China energy cooperation and joint statement,Economic win-win cooperation,shock,0.06851404961555252,0.15499953932785315
+ICEWS,v3,Canada,Canada-China strategic partnership announced,Strategic partnership upgrade,shock,-0.32621839038411654,-0.7380048400807699
+ICEWS,v3,Canada,China bans Canadian pork imports over H1N1; Canada protests,Pandemic / disaster shock,shock,-2.614105476912399,-5.9138986375702896
+ICEWS,v3,Canada,Canada-China FIPA signed,Economic win-win cooperation,shock,-1.8630767611296974,-4.2148441279988225
+ICEWS,v3,Canada,China detains Canadians Kovrig and Spavor ('Two Michaels'),Detention / judicial dispute,shock,-2.774097155350971,-6.275848290136724
+ICEWS,v3,Canada,Meng Wanzhou arrested,Detention / judicial dispute,shock,-2.774097155350971,-6.275848290136724
+ICEWS,v3,Canada,China suspends canola seed licences of Richardson and Viterra,Economic sanction / tariff barrier,shock,2.045236873726028,4.626945495452248
+ICEWS,v3,Canada,Meng Released / Michaels Freed,Strategic partnership upgrade,shock,0.83377469986115,1.886250996793528
+ICEWS,v3,Canada,Canada bans Huawei and ZTE from 5G networks,Tech control / export restriction,shock,-0.9548253549767126,-2.160104255848119
+ICEWS,v3,France,China-France comprehensive strategic partnership established,Strategic partnership upgrade,shock,-1.5225610922716488,-1.8730579542927592
+ICEWS,v3,France,Airbus A320 final assembly line MoU signed,Economic win-win cooperation,shock,0.8698266313790076,1.0700626063741847
+ICEWS,v3,France,Mega deals on aviation railways and nuclear power signed,Economic win-win cooperation,shock,0.5575315868326493,0.685876565995974
+ICEWS,v3,France,Olympic torch relay disrupted in Paris,Diplomatic protest / friction,shock,-0.13492567795783467,-0.16598586133591775
+ICEWS,v3,France,Sarkozy meets Dalai Lama in Poland,Diplomatic protest / friction,shock,0.0914050935629653,0.11244674412738775
+ICEWS,v3,France,China-France joint communique restores ties,Strategic partnership upgrade,shock,2.154671215347425,2.6506811971470534
+ICEWS,v3,France,Airbus cooperation agreements and aircraft orders,Economic win-win cooperation,shock,0.22357011781710046,0.27503644329614607
+ICEWS,v3,France,France applies to join AIIB as founding member,Economic win-win cooperation,shock,-2.2701494983986974,-2.7927428311367564
+ICEWS,v3,France,China-France joint statement on third-party market cooperation,Economic win-win cooperation,shock,-2.1360071175808693,-2.627720583639464
+ICEWS,v3,France,China issues 4 billion euro sovereign bonds in Paris,Economic win-win cooperation,shock,0.31637668604678393,0.3892072845947805
+ICEWS,v3,France,French limits on Huawei 5G equipment,Tech control / export restriction,shock,0.630761928805193,0.7759646913418037
+ICEWS,v3,France,China announces sanctions on relevant EU entities and personnel (including French MEP Raphaël Glucksmann),Diplomatic protest / friction,shock,-0.42876510334798534,-0.5274677590446497
+ICEWS,v3,Germany,Partnership with Global Responsibility established,Strategic partnership upgrade,shock,-0.951337946651,-1.4054106489134899
+ICEWS,v3,Germany,Joint communiqué on advancing strategic partnership,Strategic partnership upgrade,shock,-2.8472264261023184,-4.206204906677669
+ICEWS,v3,Germany,Comprehensive strategic partnership established,Strategic partnership upgrade,shock,-0.6278898877089965,-0.9275811373211678
+ICEWS,v3,Germany,Germany applies to join AIIB as founding member,Economic win-win cooperation,shock,0.7172192448520108,1.059547312150358
+ICEWS,v3,Germany,Midea acquires Kuka amid technology concerns,Economic sanction / tariff barrier,shock,-3.5277338603896684,-5.211517895798972
+ICEWS,v3,Germany,BMW to raise stake in BMW Brilliance Automotive JV to 75%,Economic win-win cooperation,shock,0.9954758139234662,1.4706154784942136
+ICEWS,v3,Germany,EU-China Comprehensive Agreement on Investment concluded,Economic win-win cooperation,shock,1.0447974993839235,1.5434783577817541
+ICEWS,v3,Germany,BMW acquires 75% stake in China joint venture as ownership caps lift,Economic win-win cooperation,shock,-1.0347385532364335,-1.528618286150746
+ICEWS,v3,Germany,Germany blocks Elmos Semiconductor fab sale to Chinese-owned Silex,Tech control / export restriction,shock,-0.36688499319202306,-0.5419988534818532
+ICEWS,v3,Germany,German government China strategy released,Negative strategic positioning,shock,0.2942386789845747,0.4346785222043308
+ICEWS,v3,India,India-China Declaration on Principles for Relations and Comprehensive Cooperation,Strategic partnership upgrade,shock,-0.039533558764649146,-0.06561053937369365
+ICEWS,v3,India,India-China Strategic Partnership and Boundary Political Parameters Agreement,Strategic partnership upgrade,shock,-0.3280012049771033,-0.5443561532591579
+ICEWS,v3,India,India-China defence ministers MOU,Military / security cooperation,shock,-0.8689148174375279,-1.4420652130323564
+ICEWS,v3,India,China-India Hand-in-Hand 2007 joint anti-terror military training,Military / security cooperation,shock,0.024738914004029056,0.041057105457836585
+ICEWS,v3,India,Depsang Standoff (Daulat Beg Oldi incursion),Sovereignty dispute,shock,0.13038783873119758,0.21639378528638287
+ICEWS,v3,India,Chumar-Demchok Standoff during Xi visit,Sovereignty dispute,shock,0.3965102904625234,0.6580549497033643
+ICEWS,v3,India,Doklam Standoff,Sovereignty dispute,shock,0.09935822167644232,0.1648965263717077
+ICEWS,v3,India,Doklam Standoff Disengagement,Military / security cooperation,shock,1.0959913085708428,1.818925063951341
+ICEWS,v3,India,India revokes Article 370 in Kashmir; China expresses concern,Sovereignty dispute,shock,-1.7223026600135851,-2.858361605160741
+ICEWS,v3,India,"India bans 59 Chinese apps (TikTok, WeChat, etc.)",Tech control / export restriction,shock,0.546031588493948,0.9062029363315967
+ICEWS,v3,India,Galwan Valley Clash,Sovereignty dispute,shock,0.546031588493948,0.9062029363315967
+ICEWS,v3,India,Pangong Tso disengagement agreement,Military / security cooperation,shock,-0.5018364646213833,-0.8328559874209649
+ICEWS,v3,Indonesia,Strategic Partnership,Strategic partnership upgrade,shock,-0.1937023389238412,-0.3705202385517743
+ICEWS,v3,Indonesia,Indonesia detains 75 Chinese fishermen,Detention / judicial dispute,shock,-0.25364834246166956,-0.48518693619962505
+ICEWS,v3,Indonesia,China-Indonesia strategic partnership,Strategic partnership upgrade,shock,-0.9294120566689885,-1.7778101124802856
+ICEWS,v3,Indonesia,Maritime Silk Road,Economic win-win cooperation,shock,-0.9294120566689885,-1.7778101124802856
+ICEWS,v3,Indonesia,Indonesia signs MoU to join AIIB as prospective founding member,Economic win-win cooperation,shock,-1.2094065195930326,-2.3133927790199085
+ICEWS,v3,Indonesia,Jokowi BRI Visit,Economic win-win cooperation,shock,-1.16531111122015,-2.2290456238945273
+ICEWS,v3,Indonesia,Jakarta-Bandung HSR agreement,Economic win-win cooperation,shock,-0.8847120718677012,-1.6923065035726748
+ICEWS,v3,Indonesia,Natuna Fishing Dispute,Sovereignty dispute,shock,3.1812582448798414,6.0852159573102504
+ICEWS,v3,Indonesia,China participates in Indonesia-hosted Komodo-2018 multilateral naval exercise,Military / security cooperation,shock,-2.1195556464466767,-4.054356122431527
+ICEWS,v3,Indonesia,Indonesia deploys ships/jets to Natuna,Sovereignty dispute,shock,0.4470574021531552,0.8551461805386376
+ICEWS,v3,Indonesia,COVID in Indonesia,Pandemic / disaster shock,shock,0.6260967425941864,1.1976185507687436
+ICEWS,v3,Indonesia,PLA Navy dispatched three salvage ships to assist Indonesia after the sinking of submarine KRI Nanggala-402,Pandemic / crisis aid,shock,0.267464101194534,0.5116141763140942
+ICEWS,v3,Iran,Sinopec signs US$70 billion Yadavaran oil and gas deal,Economic win-win cooperation,shock,1.3432925481280547,1.8552072974979588
+ICEWS,v3,Iran,UNSC Resolution 1737 sanctions on Iran (China votes in favour),Economic sanction / tariff barrier,shock,1.6669631623095802,2.3022253995874893
+ICEWS,v3,Iran,UNSC Resolution 1929 fourth round sanctions on Iran (China votes in favour),Economic sanction / tariff barrier,shock,1.1539492054747809,1.5937071860646572
+ICEWS,v3,Iran,Joint Comprehensive Plan of Action (JCPOA) signed,Strategic partnership upgrade,shock,0.017752995654724213,0.024518476736129724
+ICEWS,v3,Iran,US withdraws from JCPOA and reimposes sanctions; China opposes unilateral sanctions,Economic sanction / tariff barrier,shock,0.32463362252454087,0.4483481028462557
+ICEWS,v3,Iran,China donates COVID-19 medical supplies to Iran,Pandemic / crisis aid,shock,0.5843114430817833,0.8069864265438844
+ICEWS,v3,Iran,China and Iran sign 25-year comprehensive cooperation plan,Strategic partnership upgrade,shock,-0.24663695852236023,-0.3406277254504393
+ICEWS,v3,Iran,China and Iran launch implementation of comprehensive cooperation plan,Strategic partnership upgrade,shock,1.553322456830856,2.145277409076604
+ICEWS,v3,Iran,China-brokered Saudi-Iran rapprochement restores diplomatic ties,Strategic partnership upgrade,shock,-0.9261913750340602,-1.2791532270742978
+ICEWS,v3,Italy,Comprehensive strategic partnership established,Strategic partnership upgrade,shock,-0.31366142521762547,-0.6201856034124986
+ICEWS,v3,Italy,Italy-China cultural cooperation programme,Cultural / people-to-people cooperation,shock,0.9982670475735744,1.973818906283033
+ICEWS,v3,Italy,ChemChina agrees to acquire Pirelli,Economic win-win cooperation,shock,2.483076831320672,4.909652189088093
+ICEWS,v3,Italy,Belt and Road Initiative MoU signed,Strategic partnership upgrade,shock,0.09349273220959076,0.18485807268094367
+ICEWS,v3,Italy,Deals worth 2.5 billion euros signed,Economic win-win cooperation,shock,0.09349273220959076,0.18485807268094367
+ICEWS,v3,Italy,China sends COVID-19 medical aid and experts,Pandemic / crisis aid,shock,0.22009859027223347,0.4351889204211745
+ICEWS,v3,Italy,Italy blocks Fastweb-Huawei 5G core deal (de-facto restriction),Tech control / export restriction,shock,-0.02187394192975811,-0.043250150589300596
+ICEWS,v3,Italy,Italy and China agree on second round of third-party market cooperation projects,Economic win-win cooperation,shock,-0.36325817554365625,-0.7182505487812416
+ICEWS,v3,Japan,Anti-Japanese protests across major Chinese cities,Diplomatic protest / friction,shock,0.4586826899479609,0.4247033089087692
+ICEWS,v3,Japan,Senkaku/Diaoyu fishing boat standoff,Sovereignty dispute,shock,0.3101767495822576,0.2871987427934049
+ICEWS,v3,Japan,China-Japan Joint Statement on strategic mutually beneficial relations,Strategic partnership upgrade,shock,0.21341150734364844,0.19760190500831532
+ICEWS,v3,Japan,China and Japan hold 10th round of strategic dialogue in Beijing,Strategic partnership upgrade,shock,0.19870020284014223,0.18398041931040865
+ICEWS,v3,Japan,"Fifth round of trilateral senior foreign affairs officials' consultation of China, Japan and the ROK in Jeju",Multilateral / third-party meeting,shock,0.11382968429620993,0.10539713974845166
+ICEWS,v3,Japan,Senkaku Boat Collision,Sovereignty dispute,shock,-1.1316528570355218,-1.04781960045969
+ICEWS,v3,Japan,Nationalization of Senkaku,Sovereignty dispute,shock,0.9754499311942609,0.903188244361336
+ICEWS,v3,Japan,China declares East China Sea ADIZ,Sovereignty dispute,shock,1.6617939291150288,1.5386876284773887
+ICEWS,v3,Japan,Japan allows collective self-defense,Policy shift / domestic politics,shock,-1.1022563490064368,-1.0206007964718355
+ICEWS,v3,Japan,Japan protests China ECS gas drilling,Sovereignty dispute,shock,-1.0605536890258882,-0.9819874847594494
+ICEWS,v3,Japan,China-Japan maritime liaison starts,Military / security cooperation,shock,-0.11595956049042488,-0.10736923393703268
+ICEWS,v3,Japan,RCEP Signed,Economic win-win cooperation,shock,-0.02420507184588422,-0.022411951291398835
+ICEWS,v3,Japan,Japan approves Fukushima water release,Diplomatic protest / friction,shock,0.7395296314302637,0.6847450064883613
+ICEWS,v3,Japan,Taiwan Tensions,Sovereignty dispute,shock,1.2205844925782374,1.1301631479913077
+ICEWS,v3,Malaysia,China-Malaysia Joint Communique on strategic cooperation,Strategic partnership upgrade,shock,1.1235135107459833,1.9140592920712898
+ICEWS,v3,Malaysia,China-Malaysia comprehensive strategic partnership established,Strategic partnership upgrade,shock,1.3051329038905153,2.2234728271500295
+ICEWS,v3,Malaysia,Malaysia Airlines Flight MH370 disappearance,Pandemic / disaster shock,shock,-0.1367119859157857,-0.23290761034629998
+ICEWS,v3,Malaysia,China-Malaysia Littoral Mission Ships defense deal,Military / security cooperation,shock,-0.3469991956088134,-0.5911607010896709
+ICEWS,v3,Malaysia,Malaysia suspends China-backed East Coast Rail Link project,Policy shift / domestic politics,shock,-1.1700801225439714,-1.9933918992537663
+ICEWS,v3,Malaysia,East Coast Rail Link reinstated at reduced cost,Economic win-win cooperation,shock,-0.39472916792834234,-0.6724752524098772
+ICEWS,v3,Malaysia,Xi-Mahathir phone call on COVID-19 cooperation,Pandemic / crisis aid,shock,2.49502196922493,4.2506119761266605
+ICEWS,v3,Malaysia,Chinese survey ship Haiyang Dizhi 8 tags Malaysian drillship West Capella in South China Sea,Sovereignty dispute,shock,0.7439948040508138,1.2674971456290607
+ICEWS,v3,Mexico,Mexico requests WTO consultations on Chinese industrial subsidy programs,Economic sanction / tariff barrier,shock,-0.9335774367295635,-1.9399647535855913
+ICEWS,v3,Mexico,Transitional trade remedy measure replaces anti-dumping duties on Chinese goods,Economic sanction / tariff barrier,shock,3.4701083140272573,7.210851029047821
+ICEWS,v3,Mexico,Mexico cancels USD 3.7 billion Chinese-led bullet train contract,Policy shift / domestic politics,shock,1.0730356436113273,2.2297575391702753
+ICEWS,v3,Mexico,China sends COVID-19 medical supplies and ventilators to Mexico,Pandemic / crisis aid,shock,0.3717714390421661,0.7725374026370333
+ICEWS,v3,Mexico,First shipment of Chinese Sinovac COVID-19 vaccine arrives in Mexico City,Pandemic / crisis aid,shock,0.5272341949226852,1.0955874840100397
+ICEWS,v3,Mexico,"Mexico amends Mining Law to nationalize lithium, affecting Ganfeng concessions",Policy shift / domestic politics,shock,-1.1439376941496988,-2.3770913045226503
+ICEWS,v3,Netherlands,Open and pragmatic comprehensive partnership established,Strategic partnership upgrade,shock,0.36998153735302663,0.9570916320802332
+ICEWS,v3,Netherlands,22 countries including the Netherlands send joint UNHRC letter criticizing China's Xinjiang policy,Diplomatic protest / friction,shock,-2.2595348880803434,-5.84510770252723
+ICEWS,v3,Netherlands,"Netherlands recalls 600,000 face masks purchased from China",Pandemic / disaster shock,shock,1.2180296874369265,3.150876202665325
+ICEWS,v3,Netherlands,Netherlands announces export controls on advanced semiconductor equipment,Tech control / export restriction,shock,-0.16558901222054628,-0.428356125807151
+ICEWS,v3,Philippines,"Tripartite Joint Marine Seismic Undertaking (JMSU) signed in Manila by China, Philippines and Vietnam",Sovereignty dispute,shock,1.8401600924139507,3.250317828088989
+ICEWS,v3,Philippines,China and Philippines sign MOU on broadening agriculture and fisheries cooperation,Economic win-win cooperation,shock,0.2959171582645743,0.5226854006398107
+ICEWS,v3,Philippines,Philippines signs Republic Act 9522 baselines law; China protests,Sovereignty dispute,shock,-0.1722079645589496,-0.30417495719658133
+ICEWS,v3,Philippines,Chinese patrol boats harass Philippine survey vessel at Reed Bank,Sovereignty dispute,shock,-1.9665357256573528,-3.473538066078295
+ICEWS,v3,Philippines,Scarborough Shoal standoff,Sovereignty dispute,shock,0.9480969943118963,1.6746459050348323
+ICEWS,v3,Philippines,Philippines files SCS arbitration,Sovereignty dispute,shock,-0.8647749530652649,-1.5274722339759066
+ICEWS,v3,Philippines,South China Sea tribunal ruling,Sovereignty dispute,shock,0.7838655670692282,1.3845600923384538
+ICEWS,v3,Philippines,China-Philippines BCM launched,Strategic partnership upgrade,shock,-0.3961969249518789,-0.6998118989287587
+ICEWS,v3,Philippines,Philippines-China MoU on oil and gas development in West Philippine Sea,Economic win-win cooperation,shock,-0.01713042763517103,-0.03025787515712497
+ICEWS,v3,Philippines,Reed Bank/Gem-Ver collision,Sovereignty dispute,shock,-0.9988998537941374,-1.764380184445497
+ICEWS,v3,Philippines,US Base Expansion,Sovereignty dispute,shock,0.07987302651612127,0.1410815956388931
+ICEWS,v3,Russia,Supplementary agreement on China-Russia eastern border signed,Strategic partnership upgrade,shock,-0.6086536620878824,-0.4003874107294405
+ICEWS,v3,Russia,Peace Mission 2005 joint military exercise,Military / security cooperation,shock,0.22724946080597302,0.14949030765648708
+ICEWS,v3,Russia,Russia Year in China launched,Cultural / people-to-people cooperation,shock,-1.7949981043390915,-1.1807940837737245
+ICEWS,v3,Russia,Heixiazi Island handover and border marker unveiling,Strategic partnership upgrade,shock,-0.8029772887583025,-0.5282182915282649
+ICEWS,v3,Russia,New Star cargo ship sunk by Russian coast guard,Diplomatic protest / friction,shock,-0.8562463992655924,-0.5632600279974276
+ICEWS,v3,Russia,China-Russia crude oil pipeline completed,Economic win-win cooperation,shock,1.0801347810847457,0.7105393348884324
+ICEWS,v3,Russia,Treaty of Good-Neighborliness 10th anniversary joint statement,Strategic partnership upgrade,shock,-0.20712185391388624,-0.13624987075505102
+ICEWS,v3,Russia,Russian coast guard fires on Chinese fishing vessel,Diplomatic protest / friction,shock,-0.8245863510524652,-0.5424332663804194
+ICEWS,v3,Russia,East-route gas supply contract signed,Economic win-win cooperation,shock,1.9004376422318927,1.2501548158205678
+ICEWS,v3,Russia,Joint statement on Silk Road Economic Belt and EEU alignment,Strategic partnership upgrade,shock,-0.5010139029188525,-0.3295793187886322
+ICEWS,v3,Russia,Relations elevated to comprehensive strategic partnership of coordination for a new era,Strategic partnership upgrade,shock,-0.7157890507835439,-0.47086371531652205
+ICEWS,v3,Russia,Power of Siberia gas pipeline begins deliveries,Economic win-win cooperation,shock,-1.299053501700632,-0.8545494759051153
+ICEWS,v3,Russia,Joint statement on international relations entering a new era,Strategic partnership upgrade,shock,-0.4072034009750131,-0.26786845378918756
+ICEWS,v3,Saudi Arabia,China and Saudi Arabia establish comprehensive strategic partnership,Strategic partnership upgrade,shock,0.8020698792084899,1.382450614962326
+ICEWS,v3,Saudi Arabia,Saudi Arabia donates over US$60 million for Wenchuan earthquake relief,Pandemic / crisis aid,shock,-0.14422008053524096,-0.24857826505417746
+ICEWS,v3,Saudi Arabia,China and Saudi Arabia establish strategic friendly relations,Strategic partnership upgrade,shock,-0.5880535307981934,-1.0135712440479394
+ICEWS,v3,Saudi Arabia,Mina Hajj stampede kills Chinese pilgrims,Pandemic / disaster shock,shock,-1.8245872886536394,-3.144865409658394
+ICEWS,v3,Saudi Arabia,Abqaiq-Khurais attack disrupts Saudi oil supply,Security threat,shock,-0.48401176540184254,-0.8342444718022461
+ICEWS,v3,Saudi Arabia,COVID-19 pandemic and oil price war slash China oil demand,Pandemic / disaster shock,shock,-1.2388530332579781,-2.135291677285699
+ICEWS,v3,Saudi Arabia,Saudi Arabia becomes Chinese group tourism destination,Economic win-win cooperation,shock,0.09449845255557389,0.1628778828814279
+ICEWS,v3,Saudi Arabia,Saudi Aramco acquires 10% stake in Rongsheng Petrochemical,Economic win-win cooperation,shock,-0.3024391025889307,-0.5212851575667243
+ICEWS,v3,Singapore,Joint Council for Bilateral Cooperation launched,Economic win-win cooperation,shock,0.07818993426319934,0.1315538511432588
+ICEWS,v3,Singapore,Deputy PM Lee Hsien Loong visit to Taiwan sparks Chinese protest,Sovereignty dispute,shock,-1.2371671629044003,-2.0815224660529545
+ICEWS,v3,Singapore,Tianjin Eco-City Framework Agreement signed,Economic win-win cooperation,shock,0.07053811070548333,0.11867972780792257
+ICEWS,v3,Singapore,China-Singapore Free Trade Agreement signed,Economic win-win cooperation,shock,0.61428380963245,1.0335269061625958
+ICEWS,v3,Singapore,Singapore and China establish bilateral currency swap arrangement,Economic win-win cooperation,shock,-2.173640645355278,-3.657130557693661
+ICEWS,v3,Singapore,Singapore military vehicles detained in Hong Kong,Detention / judicial dispute,shock,0.9503704102864337,1.5989895459551882
+ICEWS,v3,Singapore,China-Singapore Chongqing Connectivity Initiative Southern Transport Corridor launched,Economic win-win cooperation,shock,1.324305622044664,2.228132128672744
+ICEWS,v3,Singapore,China-Singapore FTA upgrade protocol signed,Economic win-win cooperation,shock,0.10724907666184502,0.18044559314925523
+ICEWS,v3,Singapore,Relations elevated to all-round high-quality future-oriented partnership,Strategic partnership upgrade,shock,0.300449184807207,0.5055030127176301
+ICEWS,v3,South Korea,Kimchi import dispute with South Korea,Economic sanction / tariff barrier,shock,-0.5686965373388629,-0.6694910588724563
+ICEWS,v3,South Korea,ROKS Cheonan sinking,Security threat,shock,0.24869854300755118,0.2927773249284815
+ICEWS,v3,South Korea,Yeonpyeong Island shelling,Security threat,shock,-0.19583983956584172,-0.23055006132773848
+ICEWS,v3,South Korea,China declares East China Sea ADIZ covering Ieodo/Suyan Rock,Sovereignty dispute,shock,0.31353915543857735,0.36911014467364556
+ICEWS,v3,South Korea,South Korea announces decision to join AIIB as founding member,Economic win-win cooperation,shock,-0.5679485912742943,-0.6686105484950051
+ICEWS,v3,South Korea,China-South Korea FTA enters into force,Economic win-win cooperation,shock,-1.0010079096033966,-1.178424346446755
+ICEWS,v3,South Korea,THAAD deployment announced,Security threat,shock,-0.573934356336519,-0.6756572173712088
+ICEWS,v3,South Korea,China restricts K-pop and Hallyu over THAAD,Diplomatic protest / friction,shock,0.40540122994782646,0.4772536509119678
+ICEWS,v3,South Korea,Lotte stores closed in China amid THAAD retaliation,Diplomatic protest / friction,shock,1.453811906647465,1.7114823264746526
+ICEWS,v3,South Korea,THAAD 'Three Noes' and bilateral relations normalization,Strategic partnership upgrade,shock,1.6619996257179324,1.9565687782700816
+ICEWS,v3,Spain,China-Spain comprehensive strategic partnership established,Strategic partnership upgrade,shock,-0.10720788399193826,-0.22830716428341447
+ICEWS,v3,Spain,Joint statement on deepening comprehensive strategic partnership,Strategic partnership upgrade,shock,-0.9921992246083005,-2.1129620596891736
+ICEWS,v3,Spain,China-Spain business deals worth over $4 billion signed,Economic win-win cooperation,shock,2.507202512632313,5.33927426444103
+ICEWS,v3,Spain,Yiwu-Madrid China-Europe freight train launched,Economic win-win cooperation,shock,0.509373308249238,1.084748352805752
+ICEWS,v3,Spain,China sends COVID-19 medical aid to Spain,Pandemic / crisis aid,shock,-0.5969596699011083,-1.2712700255975011
+ICEWS,v3,Spain,Spain passes 5G cybersecurity law enabling Huawei/ZTE restrictions,Tech control / export restriction,shock,0.7627903984729534,1.6244188984372783
+ICEWS,v3,Spain,50th anniversary of China-Spain diplomatic relations,Cultural / people-to-people cooperation,shock,0.8925350245811565,1.9007197315924518
+ICEWS,v3,Thailand,China-Thailand Early Harvest FTA on fruits and vegetables takes effect,Economic win-win cooperation,shock,-0.18474154603592266,-0.33557555128526695
+ICEWS,v3,Thailand,China donates flood relief aid to Thailand,Pandemic / crisis aid,shock,0.9680756925087759,1.7584703666836816
+ICEWS,v3,Thailand,China-Thailand railway cooperation MoU signed,Economic win-win cooperation,shock,-0.4792380992184886,-0.870516636852636
+ICEWS,v3,Thailand,China-Thailand railway project launching ceremony held,Economic win-win cooperation,shock,1.1802024761206502,2.1437900951387183
+ICEWS,v3,Thailand,Thailand approves purchase of Chinese S26T submarine,Military / security cooperation,shock,-0.7316358388991546,-1.3289869292904037
+ICEWS,v3,Thailand,COVID-19 pandemic travel restrictions disrupt China-Thailand tourism,Pandemic / disaster shock,shock,-1.344780098912908,-2.4427386948597123
+ICEWS,v3,Thailand,First batch of China's Sinovac COVID-19 vaccines arrives in Thailand,Pandemic / crisis aid,shock,1.450998940048436,2.6356809265113084
+ICEWS,v3,United Arab Emirates,China-UAE criminal judicial assistance treaty signed,Cultural / people-to-people cooperation,shock,0.7183996304147896,1.5237740379463576
+ICEWS,v3,United Arab Emirates,China-UAE strategic partnership established,Strategic partnership upgrade,shock,-0.261185650469773,-0.5539923691778372
+ICEWS,v3,United Arab Emirates,Central banks renew currency swap and sign RMB clearing MOU,Economic win-win cooperation,shock,0.17028112359456302,0.36117774049510176
+ICEWS,v3,United Arab Emirates,CNPC awarded 8% stake in Abu Dhabi onshore oil concession,Economic win-win cooperation,shock,-1.1549538558515102,-2.4497349748863955
+ICEWS,v3,United Arab Emirates,China-UAE comprehensive mutual visa exemption arrangement reached,Cultural / people-to-people cooperation,shock,0.1439987104082383,0.30543097063000957
+ICEWS,v3,United Arab Emirates,CNPC acquires 10% stakes in two Abu Dhabi offshore concessions,Economic win-win cooperation,shock,0.32573448656967047,0.690904801290154
+ICEWS,v3,United Arab Emirates,US raises security concerns over UAE Huawei 5G contract,Tech control / export restriction,shock,-0.3167012800357991,-0.6717447613722975
+ICEWS,v3,United Arab Emirates,Sinopharm COVID-19 vaccine phase 3 clinical trial launched in UAE,Pandemic / crisis aid,shock,0.22270903808717685,0.472380880899546
+ICEWS,v3,United Kingdom,UK-China Comprehensive Strategic Partnership established,Strategic partnership upgrade,shock,1.2186833259406005,1.6736738220684244
+ICEWS,v3,United Kingdom,First UK-China Economic and Financial Dialogue held,Economic win-win cooperation,shock,-0.37523202261774385,-0.5153233822842298
+ICEWS,v3,United Kingdom,China-UK High-Level People-to-People Exchange Mechanism launched,Cultural / people-to-people cooperation,shock,-0.5865694847909865,-0.8055628321337078
+ICEWS,v3,United Kingdom,Bank of England and PBOC sign sterling/RMB currency swap line,Economic win-win cooperation,shock,0.8606485158111943,1.1819681620764595
+ICEWS,v3,United Kingdom,UK joins AIIB as founding member,Economic win-win cooperation,shock,1.5665523323366957,2.1514183165741905
+ICEWS,v3,United Kingdom,UK government approves Hinkley Point C nuclear project with CGN investment,Economic win-win cooperation,shock,0.3159297577520574,0.4338808564184866
+ICEWS,v3,United Kingdom,Hong Kong extradition bill protests begin,Sovereignty dispute,shock,-0.695849815872517,-0.9556425333202021
+ICEWS,v3,United Kingdom,Hong Kong National Security Law enacted,Sovereignty dispute,shock,-0.3087819445357517,-0.4240644360158096
+ICEWS,v3,United Kingdom,UK bans Huawei 5G,Tech control / export restriction,shock,-0.08613891220601011,-0.11829852706762681
+ICEWS,v3,United Kingdom,UK opens BNO visa route for Hong Kong residents,Sovereignty dispute,shock,0.5712395051733803,0.7845094665606396
+ICEWS,v3,United Kingdom,UK sanctions Chinese officials over Xinjiang; China retaliates,Diplomatic protest / friction,shock,0.32737044857475217,0.4495928829382094
+ICEWS,v3,United Kingdom,UK buys out CGN from Sizewell C nuclear project,Economic sanction / tariff barrier,shock,1.445093521374762,1.9846133492463172
+ICEWS,v3,United Kingdom,Integrated Review Refresh labels China 'epoch-defining challenge',Negative strategic positioning,shock,1.8335232888727466,2.5180618011415126
+ICEWS,v3,United States,Financial Crisis Cooperation,Economic win-win cooperation,shock,0.9461760362085294,0.8041203070314547
+ICEWS,v3,United States,Pivot to Asia announced,Negative strategic positioning,shock,-1.3078511618550108,-1.1114947299199156
+ICEWS,v3,United States,South China Sea Arbitration Ruling,Sovereignty dispute,shock,0.027391684343199663,0.023279187784574162
+ICEWS,v3,United States,Steel/aluminum tariffs imposed,Economic sanction / tariff barrier,shock,0.31972363453519026,0.27172138939163304
+ICEWS,v3,United States,US bans ZTE from tech exports,Tech control / export restriction,shock,0.21558807010691527,0.1832203929211378
+ICEWS,v3,United States,Trade War Begins,Economic sanction / tariff barrier,shock,-0.02436293284899675,-0.020705162985552916
+ICEWS,v3,United States,Huawei CFO Meng Wanzhou arrested,Detention / judicial dispute,shock,0.7118538797568947,0.604978501300249
+ICEWS,v3,United States,US hikes tariffs on $200B goods,Economic sanction / tariff barrier,shock,-3.116558702161304,-2.6486489242591404
+ICEWS,v3,United States,US-China Phase One deal signed,Economic win-win cooperation,shock,-2.2430050081861586,-1.9062476820732281
+ICEWS,v3,United States,COVID-19 Blame,Pandemic / disaster shock,shock,-0.9780527594399017,-0.8312111648539394
+ICEWS,v3,United States,Anchorage Talks,Diplomatic protest / friction,shock,0.7237801987798979,0.6151142423754106
+ICEWS,v3,United States,Pelosi visits Taiwan,Sovereignty dispute,shock,0.28046593856470237,0.2383577135754144
+ICEWS,v3,Vietnam,Joint Development Agreement,Economic win-win cooperation,shock,0.4194888394424633,0.6934307483420139
+ICEWS,v3,Vietnam,Vietnam says China cut seismic cables,Sovereignty dispute,shock,0.37072932707636624,0.612829449881362
+ICEWS,v3,Vietnam,Vietnam SCS Drills,Sovereignty dispute,shock,0.37072932707636624,0.612829449881362
+ICEWS,v3,Vietnam,Haiyang Shiyou 981 oil rig crisis,Sovereignty dispute,shock,0.3026193319736522,0.5002410793864094
+ICEWS,v3,Vietnam,Vietnam signs MoU establishing AIIB as founding member,Economic win-win cooperation,shock,0.8079002817308585,1.3354893963113241
+ICEWS,v3,Vietnam,South China Sea tribunal ruling,Sovereignty dispute,shock,-0.2875012922459298,-0.47525039401849334
+ICEWS,v3,Vietnam,Haiyang Dizhi 8 at Vanguard Bank,Sovereignty dispute,shock,-2.2896045567151395,-3.7848020063666787
+ICEWS,v3,Vietnam,"China donated 500,000 doses of Sinopharm COVID-19 vaccine to Vietnam",Pandemic / crisis aid,shock,-2.2121709304107444,-3.656801324616819
+ICEWS,v3,Vietnam,Foreign Ministry Director-General Liu Jinsong met with Vietnamese Ambassador to China Pham Sao Mai,High-level visit,shock,1.7857393290209655,2.9518939309864916

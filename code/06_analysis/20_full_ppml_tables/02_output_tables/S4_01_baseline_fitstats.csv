@@ -1,0 +1,8 @@
+metric,value
+Observations,6685
+Pseudo R-squared,0.9699
+Log-likelihood,-793162.43
+Deviance,1517049.91
+Country FE,Yes
+YearMonth FE,Yes
+Clustering,Country

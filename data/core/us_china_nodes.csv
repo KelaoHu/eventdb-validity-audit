@@ -1,0 +1,16 @@
+node_date,node_name,node_valence,node_category,sign_factor
+2008-09,Financial Crisis Cooperation,positive,Economic win-win cooperation,1
+2011-10,Pivot to Asia announced,negative,Negative strategic positioning,-1
+2016-07,South China Sea Arbitration Ruling,negative,Sovereignty dispute,-1
+2018-03,Steel/aluminum tariffs imposed,negative,Economic sanction / tariff barrier,-1
+2018-04,US bans ZTE from tech exports,negative,Tech control / export restriction,-1
+2018-07,Trade War Begins,negative,Economic sanction / tariff barrier,-1
+2018-12,Huawei CFO Meng Wanzhou arrested,negative,Detention / judicial dispute,-1
+2019-05,US hikes tariffs on $200B goods,negative,Economic sanction / tariff barrier,-1
+2020-01,US-China Phase One deal signed,positive,Economic win-win cooperation,1
+2020-03,COVID-19 Blame,negative,Pandemic / disaster shock,-1
+2021-03,Anchorage Talks,negative,Diplomatic protest / friction,-1
+2022-08,Pelosi visits Taiwan,negative,Sovereignty dispute,-1
+2024-05,Biden hikes tariffs on China EVs,negative,Economic sanction / tariff barrier,-1
+2025-04,US-China reciprocal tariff war escalates in April 2025,negative,Economic sanction / tariff barrier,-1
+2025-09,China-US economic and trade talks held in Madrid,positive,Economic win-win cooperation,1

@@ -1,0 +1,13 @@
+test,p_raw,p_bh
+E4a_gdelt,0.5343,0.8765
+E4a_icews,0.2065,0.8258
+E4a_phoenix,0.7491,0.8823
+E4b_gdelt,0.5843,0.8765
+E4b_icews,0.8719,0.8823
+E4b_phoenix,0.8823,0.8823
+E4c_pos_gdelt,0.46,0.8765
+E4c_pos_icews,0.1665,0.8258
+E4c_pos_phoenix,0.2041,0.8258
+E4c_neg_gdelt,0.3185,0.8765
+E4c_neg_icews,0.7036,0.8823
+E4c_neg_phoenix,0.5449,0.8765

@@ -1,0 +1,26 @@
+04-module coop/conflict hit rates: FULL vs TRUNCATED (fair era)
+db        win      sign       n_fullhit_full   full%  n_tr hit_tr  trunc%
+GDELT     W_strict Coop          166     112    67.5   166    112    67.5
+GDELT     W_strict Conflict      109      78    71.6   109     78    71.6
+GDELT     W_1m     Coop          166     105    63.3   166    105    63.3
+GDELT     W_1m     Conflict      109      78    71.6   109     78    71.6
+GDELT     W_2m     Coop          166     102    61.4   166    102    61.4
+GDELT     W_2m     Conflict      109      71    65.1   109     71    65.1
+ICEWS     W_strict Coop          166      86    51.8   138     86    62.3
+ICEWS     W_strict Conflict      109      69    63.3    95     68    71.6
+ICEWS     W_1m     Coop          166      74    44.6   138     74    53.6
+ICEWS     W_1m     Conflict      109      64    58.7    95     63    66.3
+ICEWS     W_2m     Coop          166      72    43.4   138     72    52.2
+ICEWS     W_2m     Conflict      109      65    59.6    95     64    67.4
+Phoenix   W_strict Coop          111      68    61.3   106     68    64.2
+Phoenix   W_strict Conflict       65      40    61.5    57     39    68.4
+Phoenix   W_1m     Coop          111      64    57.7   106     64    60.4
+Phoenix   W_1m     Conflict       65      33    50.8    57     32    56.1
+Phoenix   W_2m     Coop          111      61    55.0   106     61    57.5
+Phoenix   W_2m     Conflict       65      34    52.3    57     33    57.9
+Tsinghua  W_strict Coop           76      39    51.3    76     39    51.3
+Tsinghua  W_strict Conflict       66      50    75.8    66     50    75.8
+Tsinghua  W_1m     Coop           76      40    52.6    76     40    52.6
+Tsinghua  W_1m     Conflict       66      52    78.8    66     52    78.8
+Tsinghua  W_2m     Coop           76      41    53.9    76     41    53.9
+Tsinghua  W_2m     Conflict       66      52    78.8    66     52    78.8

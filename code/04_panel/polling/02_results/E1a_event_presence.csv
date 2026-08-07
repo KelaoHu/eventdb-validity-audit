@@ -1,0 +1,10 @@
+database,term,beta,se,p_raw,n,n_countries,r2
+GDELT,score,0.169,0.1189,0.1742,170,17,0.093
+GDELT,score_x_event,0.0832,0.1226,0.507,170,17,0.093
+GDELT,has_any_event,0.0495,0.1726,0.778,170,17,0.093
+ICEWS,score,0.0706,0.09,0.4443,170,17,0.125
+ICEWS,score_x_event,0.1728,0.096,0.0908,170,17,0.125
+ICEWS,has_any_event,-0.1269,0.1853,0.5031,170,17,0.125
+Phoenix,score,0.1011,0.0381,0.0174,170,17,0.125
+Phoenix,score_x_event,0.0317,0.0583,0.594,170,17,0.125
+Phoenix,has_any_event,0.0898,0.1083,0.4191,170,17,0.125

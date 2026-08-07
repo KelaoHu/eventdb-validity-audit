@@ -1,0 +1,32 @@
+group,country,year,event_name,event_category,impact,pz_this,pz_prev,prev_year,delta_pz,direction
+制裁与科技管制 (Sanctions + Tech Control),Australia,2018,Australia bans Huawei from 5G,Tech control / export restriction,negative,0.392,1.377,2017,-0.985,↓
+制裁与科技管制 (Sanctions + Tech Control),Canada,2019,China suspends canola seed licences of Richardson and Viterra,Economic sanction / tariff barrier,negative,-1.099,0.11,2018,-1.209,↓
+制裁与科技管制 (Sanctions + Tech Control),Germany,2016,Midea acquires Kuka amid technology concerns,Economic sanction / tariff barrier,negative,-1.034,-0.998,2014,-0.036,→
+制裁与科技管制 (Sanctions + Tech Control),United States,2018,Steel/aluminum tariffs imposed,Economic sanction / tariff barrier,negative,-0.39,-0.165,2017,-0.225,↓
+制裁与科技管制 (Sanctions + Tech Control),United States,2018,US bans ZTE from tech exports,Tech control / export restriction,negative,-0.39,-0.165,2017,-0.225,↓
+制裁与科技管制 (Sanctions + Tech Control),United States,2018,Trade War Begins,Economic sanction / tariff barrier,negative,-0.39,-0.165,2017,-0.225,↓
+制裁与科技管制 (Sanctions + Tech Control),United States,2019,US hikes tariffs on $200B goods,Economic sanction / tariff barrier,negative,-1.396,-0.39,2018,-1.006,↓
+外交抗议 (Diplomatic Protest),France,2008,Olympic torch relay disrupted in Paris,Diplomatic protest / friction,negative,-1.027,1.695,2006,-2.722,↓
+外交抗议 (Diplomatic Protest),France,2008,Sarkozy meets Dalai Lama in Poland,Diplomatic protest / friction,negative,-1.027,1.695,2006,-2.722,↓
+外交抗议 (Diplomatic Protest),Netherlands,2019,22 countries including the Netherlands send joint UNHRC letter criticizing China's Xinjiang policy,Diplomatic protest / friction,negative,-0.448,0.392,2018,-0.84,↓
+外交抗议 (Diplomatic Protest),Russia,2009,New Star cargo ship sunk by Russian coast guard,Diplomatic protest / friction,negative,1.131,1.16,2008,-0.029,→
+外交抗议 (Diplomatic Protest),Russia,2012,Russian coast guard fires on Chinese fishing vessel,Diplomatic protest / friction,negative,1.391,1.493,2011,-0.102,↓
+外交抗议 (Diplomatic Protest),South Korea,2017,Lotte stores closed in China amid THAAD retaliation,Diplomatic protest / friction,negative,-0.672,0.964,2014,-1.636,↓
+军事与安全 (Military/Security),India,2006,India-China defence ministers MOU,Military / security cooperation,positive,0.327,0.979,2005,-0.652,↓
+军事与安全 (Military/Security),India,2017,Doklam Standoff Disengagement,Military / security cooperation,positive,-1.005,-0.65,2016,-0.355,↓
+军事与安全 (Military/Security),Indonesia,2018,China participates in Indonesia-hosted Komodo-2018 multilateral naval exercise,Military / security cooperation,positive,0.87,1.196,2017,-0.326,↓
+军事与安全 (Military/Security),Japan,2018,China-Japan maritime liaison starts,Military / security cooperation,positive,-1.946,-2.156,2017,0.21,↑
+军事与安全 (Military/Security),South Korea,2010,ROKS Cheonan sinking,Security threat,negative,-0.281,-0.057,2009,-0.224,↓
+军事与安全 (Military/Security),South Korea,2010,Yeonpyeong Island shelling,Security threat,negative,-0.281,-0.057,2009,-0.224,↓
+拘留与司法 (Detention/Judicial),Canada,2018,China detains Canadians Kovrig and Spavor ('Two Michaels'),Detention / judicial dispute,negative,0.11,0.197,2017,-0.087,↓
+拘留与司法 (Detention/Judicial),Canada,2018,Meng Wanzhou arrested,Detention / judicial dispute,negative,0.11,0.197,2017,-0.087,↓
+拘留与司法 (Detention/Judicial),Indonesia,2009,Indonesia detains 75 Chinese fishermen,Detention / judicial dispute,negative,1.174,1.167,2008,0.007,→
+拘留与司法 (Detention/Judicial),United States,2018,Huawei CFO Meng Wanzhou arrested,Detention / judicial dispute,negative,-0.39,-0.165,2017,-0.225,↓
+人文合作 (Cultural Cooperation),Brazil,2017,Visa facilitation agreement enters into force,Cultural / people-to-people cooperation,positive,0.609,0.052,2014,0.557,↑
+人文合作 (Cultural Cooperation),Russia,2006,Russia Year in China launched,Cultural / people-to-people cooperation,positive,1.464,1.218,2005,0.246,↑
+人文合作 (Cultural Cooperation),United Kingdom,2012,China-UK High-Level People-to-People Exchange Mechanism launched,Cultural / people-to-people cooperation,positive,0.32,0.979,2011,-0.659,↓
+国内政治变动 (Domestic Politics),Australia,2017,Foreign Interference Laws,Policy shift / domestic politics,negative,1.377,0.827,2016,0.55,↑
+国内政治变动 (Domestic Politics),Japan,2014,Japan allows collective self-defense,Policy shift / domestic politics,negative,-2.612,-2.699,2013,0.087,↑
+国内政治变动 (Domestic Politics),Mexico,2014,Mexico cancels USD 3.7 billion Chinese-led bullet train contract,Policy shift / domestic politics,negative,0.037,0.124,2013,-0.087,↓
+负面战略定位 (Negative Strategic Positioning),United States,2011,Pivot to Asia announced,Negative strategic positioning,negative,0.349,0.341,2010,0.008,→
+疫情冲击 (Pandemic Shock),Canada,2009,China bans Canadian pork imports over H1N1; Canada protests,Pandemic / disaster shock,negative,0.834,1.145,2005,-0.311,↓

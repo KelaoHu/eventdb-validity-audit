@@ -1,0 +1,86 @@
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.2.1     ✔ readr     2.2.0
+✔ forcats   1.0.1     ✔ stringr   1.6.0
+✔ ggplot2   4.0.3     ✔ tibble    3.3.1
+✔ lubridate 1.9.5     ✔ tidyr     1.3.2
+✔ purrr     1.2.2     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+Exposure cells: 271 country-months (neg=107, pos=164)
+警告信息:
+1: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+2: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+3: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+4: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+5: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+6: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+7: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+8: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+# A tibble: 35 × 10
+   db    spec   ally_set     h beta_neg_nonally p_neg_nonally beta_interact
+   <chr> <chr>  <chr>    <int>            <dbl>         <dbl>         <dbl>
+ 1 GDELT change M3_six       0         -0.419        0.0154         -0.0219
+ 2 GDELT change M3_six       1         -0.00932      0.937          -0.451 
+ 3 GDELT change M3_six       2          0.0896       0.529          -0.218 
+ 4 GDELT change M3_six       3         -0.0664       0.592          -0.150 
+ 5 GDELT change M3_six       4          0.0892       0.507          -0.277 
+ 6 GDELT change M3_six       5          0.107        0.465          -0.242 
+ 7 GDELT change M3_six       6          0.162        0.189          -0.274 
+ 8 ICEWS change M3_six       0         -0.729        0.00238         0.0427
+ 9 ICEWS change M3_six       1         -0.131        0.600          -0.285 
+10 ICEWS change M3_six       2         -0.274        0.194           0.333 
+11 ICEWS change M3_six       3         -0.142        0.460           0.0103
+12 ICEWS change M3_six       4         -0.152        0.538           0.169 
+13 ICEWS change M3_six       5          0.0699       0.745          -0.0848
+14 ICEWS change M3_six       6         -0.333        0.00124         0.444 
+15 GDELT change narrow4      0         -0.418        0.00569        -0.0343
+16 GDELT change narrow4      1         -0.0406       0.694          -0.516 
+17 GDELT change narrow4      2          0.0443       0.730          -0.149 
+18 GDELT change narrow4      3         -0.0634       0.556          -0.215 
+19 GDELT change narrow4      4          0.0508       0.660          -0.253 
+20 GDELT change narrow4      5          0.0692       0.582          -0.211 
+21 GDELT change narrow4      6          0.135        0.206          -0.288 
+22 GDELT level  M3_six       0         -0.594        0.00272        -0.166 
+23 GDELT level  M3_six       1         -0.196        0.160          -0.584 
+24 GDELT level  M3_six       2         -0.0950       0.575          -0.356 
+25 GDELT level  M3_six       3         -0.249        0.0804         -0.290 
+26 GDELT level  M3_six       4         -0.0949       0.514          -0.419 
+27 GDELT level  M3_six       5         -0.0773       0.516          -0.388 
+28 GDELT level  M3_six       6         -0.0191       0.889          -0.423 
+29 ICEWS level  M3_six       0         -0.894        0.000358       -0.338 
+30 ICEWS level  M3_six       1         -0.298        0.0937         -0.660 
+31 ICEWS level  M3_six       2         -0.443        0.0169         -0.0535
+32 ICEWS level  M3_six       3         -0.312        0.158          -0.369 
+33 ICEWS level  M3_six       4         -0.322        0.217          -0.210 
+34 ICEWS level  M3_six       5         -0.102        0.669          -0.460 
+35 ICEWS level  M3_six       6         -0.508        0.00281         0.0732
+# ℹ 3 more variables: p_interact <dbl>, beta_neg_ally_total <dbl>,
+#   p_neg_ally_total <dbl>
+  h=0 perm 100/500
+  h=0 perm 200/500
+  h=0 perm 300/500
+  h=0 perm 400/500
+  h=0 perm 500/500
+h=0: obs interact=-0.0219, perm two-sided p=0.9341, one-sided p=0.4232
+  h=1 perm 100/500
+  h=1 perm 200/500
+  h=1 perm 300/500
+  h=1 perm 400/500
+  h=1 perm 500/500
+h=1: obs interact=-0.4509, perm two-sided p=0.0419, one-sided p=0.0220
+警告信息:
+1: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+2: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+3: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+4: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+5: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+6: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+# A tibble: 2 × 8
+      h     obs perm_mean perm_sd perm_q025 perm_q975 perm_p_twoside
+  <dbl>   <dbl>     <dbl>   <dbl>     <dbl>     <dbl>          <dbl>
+1     0 -0.0219   0.00948   0.263    -0.576     0.472         0.934 
+2     1 -0.451   -0.00390   0.240    -0.441     0.438         0.0419
+# ℹ 1 more variable: perm_p_oneside_neg <dbl>
+Done test1.

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: If you use this software or data, please cite it as below.
+title: "An Audience-Specific Audit of Measurement Validity in Political Event Databases: Replication Package"
+authors:
+  - family-names: "Hu"
+    given-names: "Kelao"
+    orcid: "https://orcid.org/0009-0006-2576-4666"
+  - family-names: "Wang"
+    given-names: "Zihan"
+    orcid: "https://orcid.org/0000-0003-2374-0215"
+date-released: 2026-08-08
+license: "MIT (code) / CC-BY-4.0 (data)"
+repository-code: "https://github.com/KelaoHu/eventdb-validity-audit"
+keywords:
+  - event databases
+  - measurement validity
+  - GDELT
+  - ICEWS
+  - political relations
+  - PPML-HDFE

@@ -1,0 +1,153 @@
+db,country,n,threshold
+GDELT,Australia,12,1.5
+GDELT,Belgium,25,1.5
+GDELT,Brazil,28,1.5
+GDELT,Canada,20,1.5
+GDELT,France,15,1.5
+GDELT,Germany,19,1.5
+GDELT,India,1,1.5
+GDELT,Indonesia,23,1.5
+GDELT,Iran,11,1.5
+GDELT,Italy,29,1.5
+GDELT,Japan,1,1.5
+GDELT,Malaysia,36,1.5
+GDELT,Mexico,36,1.5
+GDELT,Netherlands,34,1.5
+GDELT,Philippines,22,1.5
+GDELT,Russia,4,1.5
+GDELT,Saudi Arabia,31,1.5
+GDELT,Singapore,33,1.5
+GDELT,Spain,29,1.5
+GDELT,Thailand,14,1.5
+GDELT,United Arab Emirates,21,1.5
+GDELT,United Kingdom,14,1.5
+GDELT,Vietnam,6,1.5
+ICEWS,Australia,12,1.5
+ICEWS,Belgium,37,1.5
+ICEWS,Brazil,50,1.5
+ICEWS,Canada,7,1.5
+ICEWS,France,25,1.5
+ICEWS,Germany,28,1.5
+ICEWS,India,16,1.5
+ICEWS,Indonesia,24,1.5
+ICEWS,Iran,17,1.5
+ICEWS,Italy,42,1.5
+ICEWS,Japan,20,1.5
+ICEWS,Malaysia,30,1.5
+ICEWS,Mexico,41,1.5
+ICEWS,Netherlands,19,1.5
+ICEWS,Philippines,19,1.5
+ICEWS,Russia,13,1.5
+ICEWS,Saudi Arabia,23,1.5
+ICEWS,Singapore,39,1.5
+ICEWS,South Korea,7,1.5
+ICEWS,Spain,34,1.5
+ICEWS,Thailand,36,1.5
+ICEWS,United Arab Emirates,26,1.5
+ICEWS,United Kingdom,13,1.5
+ICEWS,United States,2,1.5
+ICEWS,Vietnam,22,1.5
+GDELT,Australia,5,2
+GDELT,Belgium,14,2
+GDELT,Brazil,23,2
+GDELT,Canada,11,2
+GDELT,France,8,2
+GDELT,Germany,10,2
+GDELT,Indonesia,17,2
+GDELT,Iran,7,2
+GDELT,Italy,25,2
+GDELT,Malaysia,20,2
+GDELT,Mexico,24,2
+GDELT,Netherlands,33,2
+GDELT,Philippines,10,2
+GDELT,Russia,1,2
+GDELT,Saudi Arabia,24,2
+GDELT,Singapore,21,2
+GDELT,Spain,17,2
+GDELT,Thailand,7,2
+GDELT,United Arab Emirates,7,2
+GDELT,United Kingdom,7,2
+GDELT,Vietnam,2,2
+ICEWS,Australia,3,2
+ICEWS,Belgium,20,2
+ICEWS,Brazil,27,2
+ICEWS,Canada,1,2
+ICEWS,France,12,2
+ICEWS,Germany,8,2
+ICEWS,India,3,2
+ICEWS,Indonesia,16,2
+ICEWS,Iran,14,2
+ICEWS,Italy,29,2
+ICEWS,Japan,4,2
+ICEWS,Malaysia,17,2
+ICEWS,Mexico,20,2
+ICEWS,Netherlands,7,2
+ICEWS,Philippines,3,2
+ICEWS,Russia,8,2
+ICEWS,Saudi Arabia,23,2
+ICEWS,Singapore,27,2
+ICEWS,South Korea,2,2
+ICEWS,Spain,19,2
+ICEWS,Thailand,18,2
+ICEWS,United Arab Emirates,12,2
+ICEWS,United Kingdom,7,2
+ICEWS,Vietnam,12,2
+GDELT,Belgium,7,2.5
+GDELT,Brazil,21,2.5
+GDELT,Canada,3,2.5
+GDELT,Germany,7,2.5
+GDELT,Indonesia,15,2.5
+GDELT,Iran,5,2.5
+GDELT,Italy,19,2.5
+GDELT,Malaysia,12,2.5
+GDELT,Mexico,16,2.5
+GDELT,Netherlands,26,2.5
+GDELT,Philippines,4,2.5
+GDELT,Saudi Arabia,19,2.5
+GDELT,Singapore,16,2.5
+GDELT,Spain,10,2.5
+GDELT,Thailand,6,2.5
+GDELT,United Arab Emirates,6,2.5
+GDELT,United Kingdom,3,2.5
+ICEWS,Belgium,3,2.5
+ICEWS,Brazil,19,2.5
+ICEWS,France,8,2.5
+ICEWS,Germany,6,2.5
+ICEWS,Indonesia,6,2.5
+ICEWS,Iran,10,2.5
+ICEWS,Italy,18,2.5
+ICEWS,Malaysia,10,2.5
+ICEWS,Saudi Arabia,18,2.5
+ICEWS,Singapore,16,2.5
+ICEWS,Spain,11,2.5
+ICEWS,Thailand,10,2.5
+ICEWS,United Arab Emirates,3,2.5
+ICEWS,United Kingdom,3,2.5
+ICEWS,Vietnam,9,2.5
+GDELT,Belgium,4,3
+GDELT,Brazil,11,3
+GDELT,Germany,5,3
+GDELT,Indonesia,10,3
+GDELT,Iran,5,3
+GDELT,Italy,16,3
+GDELT,Malaysia,5,3
+GDELT,Mexico,12,3
+GDELT,Netherlands,10,3
+GDELT,Saudi Arabia,12,3
+GDELT,Singapore,9,3
+GDELT,Spain,7,3
+GDELT,Thailand,2,3
+GDELT,United Arab Emirates,6,3
+GDELT,United Kingdom,1,3
+ICEWS,Brazil,8,3
+ICEWS,France,6,3
+ICEWS,Germany,6,3
+ICEWS,Indonesia,1,3
+ICEWS,Iran,6,3
+ICEWS,Italy,6,3
+ICEWS,Malaysia,5,3
+ICEWS,Saudi Arabia,12,3
+ICEWS,Singapore,8,3
+ICEWS,Spain,5,3
+ICEWS,Thailand,7,3
+ICEWS,Vietnam,5,3

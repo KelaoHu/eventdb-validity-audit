@@ -1,0 +1,18 @@
+# R dependencies (R >= 4.6)
+# install.packages(c(...))
+fixest          # PPML-HDFE estimation
+data.table
+tidyverse       # dplyr, tidyr, readr, stringr, tibble, ggplot2
+ggplot2
+ggrepel
+gridExtra
+patchwork
+scales
+lubridate
+zoo
+strucchange     # Bai–Perron breakpoint tests
+sf              # maps (Figure 1)
+rnaturalearth
+rnaturalearthdata
+ragg            # TIFF/PNG devices
+parallel

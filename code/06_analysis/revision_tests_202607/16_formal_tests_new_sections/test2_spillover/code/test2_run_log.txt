@@ -1,0 +1,71 @@
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.2.1     ✔ readr     2.2.0
+✔ forcats   1.0.1     ✔ stringr   1.6.0
+✔ ggplot2   4.0.3     ✔ tibble    3.3.1
+✔ lubridate 1.9.5     ✔ tidyr     1.3.2
+✔ purrr     1.2.2     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+Nodes: 12 negative, 3 positive
+# A tibble: 2 × 14
+  db    pooled_mean pooled_se pooled_p neg_mean neg_mean_se neg_mean_p pos_mean
+  <chr>       <dbl>     <dbl>    <dbl>    <dbl>       <dbl>      <dbl>    <dbl>
+1 GDELT     -0.0311    0.0477    0.525 -0.00527      0.0501      0.918   -0.134
+2 ICEWS     -0.0504    0.0459    0.291 -0.0335       0.0504      0.520   -0.118
+  diff_neg_vs_pos diff_se diff_p n_country_node n_nodes n_neg_nodes
+            <dbl>   <dbl>  <dbl>          <int>   <int>       <int>
+1          0.129    0.128  0.329            360      15          12
+2          0.0845   0.119  0.490            360      15          12
+警告信息:
+1: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+2: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+3: The VCOV matrix is not positive definite and was 'fixed' (see ?vcov). 
+# A tibble: 14 × 10
+   db        h beta_neg_node se_neg     p_neg beta_pos_node se_pos    p_pos
+   <chr> <int>         <dbl>  <dbl>     <dbl>         <dbl>  <dbl>    <dbl>
+ 1 GDELT     0       0.0354  0.0659 0.597            0.0331 0.0865 7.05e- 1
+ 2 GDELT     1       0.0803  0.0829 0.343           -0.146  0.201  4.74e- 1
+ 3 GDELT     2       0.0465  0.0873 0.600           -0.0325 0.0508 5.28e- 1
+ 4 GDELT     3       0.0696  0.0641 0.289           -0.0339 0.111  7.63e- 1
+ 5 GDELT     4       0.0369  0.0875 0.677           -0.478  0.0313 1.64e-13
+ 6 GDELT     5       0.0922  0.0734 0.222           -0.128  0.209  5.48e- 1
+ 7 GDELT     6       0.0729  0.0672 0.289           -0.557  0.151  1.19e- 3
+ 8 ICEWS     0       0.189   0.101  0.0743          -0.0151 0.151  9.21e- 1
+ 9 ICEWS     1       0.0827  0.138  0.556            0.213  0.194  2.84e- 1
+10 ICEWS     2       0.00408 0.104  0.969            0.243  0.230  3.03e- 1
+11 ICEWS     3       0.0379  0.112  0.737           -0.365  0.142  1.70e- 2
+12 ICEWS     4      -0.143   0.133  0.295           -0.679  0.234  8.05e- 3
+13 ICEWS     5      -0.0850  0.0173 0.0000594       -0.0289 0.274  9.17e- 1
+14 ICEWS     6       0.129   0.0423 0.00559         -0.340  0.564  5.52e- 1
+   n_obs n_countries
+   <int>       <int>
+ 1  6888          24
+ 2  6864          24
+ 3  6840          24
+ 4  6816          24
+ 5  6792          24
+ 6  6768          24
+ 7  6744          24
+ 8  6885          24
+ 9  6861          24
+10  6837          24
+11  6813          24
+12  6789          24
+13  6765          24
+14  6741          24
+
+Observed negative-node mean spillover: GDELT=-0.0053, ICEWS=-0.0335
+GDELT: perm mean=-0.0140 sd=0.0663 one-sided p=0.5475 two-sided p=0.9331
+ICEWS: perm mean=0.0020 sd=0.0910 one-sided p=0.3656 two-sided p=0.7313
+# A tibble: 2 × 10
+  db         obs perm_mean perm_sd perm_q025 perm_q975 perm_p_oneside_neg
+  <chr>    <dbl>     <dbl>   <dbl>     <dbl>     <dbl>              <dbl>
+1 GDELT -0.00527  -0.0140   0.0663    -0.152     0.113              0.547
+2 ICEWS -0.0335    0.00198  0.0910    -0.173     0.183              0.366
+  perm_p_twoside n_perm n_neg_nodes
+           <dbl>  <dbl>       <int>
+1          0.933   1000          12
+2          0.731   1000          12
+Done test2.

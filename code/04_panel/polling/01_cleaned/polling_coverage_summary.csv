@@ -1,0 +1,22 @@
+﻿country,n_obs,year_min,year_max,sources
+United States,54,1985.0,2025.0,"Gallup, Pew Research Center"
+Japan,43,2006.0,2025.0,"Pew Research Center, 日本内阁府, 早稻田大学SIFCCT"
+Australia,28,2006.0,2026.0,"Lowy Institute, Pew Research Center"
+France,14,2005.0,2020.0,Pew Research Center
+Spain,14,2005.0,2020.0,Pew Research Center
+United Kingdom,14,2005.0,2020.0,Pew Research Center
+Germany,14,2005.0,2020.0,Pew Research Center
+India,12,2005.0,2019.0,Pew Research Center
+Russia,12,2005.0,2019.0,Pew Research Center
+Indonesia,11,2005.0,2019.0,Pew Research Center
+Mexico,10,2008.0,2019.0,Pew Research Center
+Brazil,10,2008.0,2019.0,Pew Research Center
+South Korea,9,2008.0,2020.0,Pew Research Center
+Italy,8,2012.0,2020.0,Pew Research Center
+Canada,8,2005.0,2020.0,Pew Research Center
+Netherlands,6,2005.0,2020.0,Pew Research Center
+Philippines,5,2013.0,2019.0,Pew Research Center
+Vietnam,2,2014.0,2017.0,Pew Research Center
+Malaysia,2,2013.0,2014.0,Pew Research Center
+Belgium,1,2020.0,2020.0,Pew Research Center
+Thailand,1,2014.0,2014.0,Pew Research Center

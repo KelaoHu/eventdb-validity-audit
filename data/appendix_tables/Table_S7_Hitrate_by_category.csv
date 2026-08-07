@@ -1,0 +1,193 @@
+﻿,event_category,db,window,n_events,n_hit,hit_rate,quadclass,coop_conf
+# Table S7 | Hit rate by event category across four databases and three windows,,,,,,,,
+,Detention / judicial dispute,GDELT,W_strict,6.0,6.0,1.0,Material conflict,Conflict/Shock
+,Detention / judicial dispute,GDELT,W_1m,6.0,6.0,1.0,Material conflict,Conflict/Shock
+,Detention / judicial dispute,GDELT,W_2m,6.0,5.0,0.833,Material conflict,Conflict/Shock
+,Detention / judicial dispute,ICEWS,W_strict,6.0,5.0,0.833,Material conflict,Conflict/Shock
+,Detention / judicial dispute,ICEWS,W_1m,6.0,5.0,0.833,Material conflict,Conflict/Shock
+,Detention / judicial dispute,ICEWS,W_2m,6.0,4.0,0.667,Material conflict,Conflict/Shock
+,Detention / judicial dispute,Phoenix,W_strict,6.0,6.0,1.0,Material conflict,Conflict/Shock
+,Detention / judicial dispute,Phoenix,W_1m,6.0,5.0,0.833,Material conflict,Conflict/Shock
+,Detention / judicial dispute,Phoenix,W_2m,6.0,5.0,0.833,Material conflict,Conflict/Shock
+,Detention / judicial dispute,Tsinghua,W_strict,3.0,3.0,1.0,Material conflict,Conflict/Shock
+,Detention / judicial dispute,Tsinghua,W_1m,3.0,3.0,1.0,Material conflict,Conflict/Shock
+,Detention / judicial dispute,Tsinghua,W_2m,3.0,3.0,1.0,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,GDELT,W_strict,21.0,12.0,0.571,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,GDELT,W_1m,21.0,13.0,0.619,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,GDELT,W_2m,21.0,10.0,0.476,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,ICEWS,W_strict,13.0,7.0,0.538,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,ICEWS,W_1m,13.0,8.0,0.615,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,ICEWS,W_2m,13.0,9.0,0.692,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,Phoenix,W_strict,10.0,5.0,0.5,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,Phoenix,W_1m,10.0,4.0,0.4,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,Phoenix,W_2m,10.0,5.0,0.5,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,Tsinghua,W_strict,9.0,6.0,0.667,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,Tsinghua,W_1m,9.0,7.0,0.778,Material conflict,Conflict/Shock
+,Economic sanction / tariff barrier,Tsinghua,W_2m,9.0,7.0,0.778,Material conflict,Conflict/Shock
+,Security threat,GDELT,W_strict,5.0,4.0,0.8,Material conflict,Conflict/Shock
+,Security threat,GDELT,W_1m,5.0,4.0,0.8,Material conflict,Conflict/Shock
+,Security threat,GDELT,W_2m,5.0,5.0,1.0,Material conflict,Conflict/Shock
+,Security threat,ICEWS,W_strict,5.0,4.0,0.8,Material conflict,Conflict/Shock
+,Security threat,ICEWS,W_1m,5.0,4.0,0.8,Material conflict,Conflict/Shock
+,Security threat,ICEWS,W_2m,5.0,4.0,0.8,Material conflict,Conflict/Shock
+,Security threat,Phoenix,W_strict,3.0,2.0,0.667,Material conflict,Conflict/Shock
+,Security threat,Phoenix,W_1m,3.0,1.0,0.333,Material conflict,Conflict/Shock
+,Security threat,Phoenix,W_2m,3.0,1.0,0.333,Material conflict,Conflict/Shock
+,Security threat,Tsinghua,W_strict,4.0,3.0,0.75,Material conflict,Conflict/Shock
+,Security threat,Tsinghua,W_1m,4.0,3.0,0.75,Material conflict,Conflict/Shock
+,Security threat,Tsinghua,W_2m,4.0,3.0,0.75,Material conflict,Conflict/Shock
+,Sovereignty dispute,GDELT,W_strict,34.0,25.0,0.714,Material conflict,Conflict/Shock
+,Sovereignty dispute,GDELT,W_1m,34.0,25.0,0.714,Material conflict,Conflict/Shock
+,Sovereignty dispute,GDELT,W_2m,34.0,23.0,0.657,Material conflict,Conflict/Shock
+,Sovereignty dispute,ICEWS,W_strict,33.0,27.0,0.794,Material conflict,Conflict/Shock
+,Sovereignty dispute,ICEWS,W_1m,33.0,23.0,0.676,Material conflict,Conflict/Shock
+,Sovereignty dispute,ICEWS,W_2m,33.0,23.0,0.676,Material conflict,Conflict/Shock
+,Sovereignty dispute,Phoenix,W_strict,21.0,16.0,0.727,Material conflict,Conflict/Shock
+,Sovereignty dispute,Phoenix,W_1m,21.0,16.0,0.727,Material conflict,Conflict/Shock
+,Sovereignty dispute,Phoenix,W_2m,21.0,16.0,0.727,Material conflict,Conflict/Shock
+,Sovereignty dispute,Tsinghua,W_strict,24.0,17.0,0.708,Material conflict,Conflict/Shock
+,Sovereignty dispute,Tsinghua,W_1m,24.0,18.0,0.75,Material conflict,Conflict/Shock
+,Sovereignty dispute,Tsinghua,W_2m,24.0,18.0,0.75,Material conflict,Conflict/Shock
+,Tech control / export restriction,GDELT,W_strict,11.0,9.0,0.818,Material conflict,Conflict/Shock
+,Tech control / export restriction,GDELT,W_1m,11.0,9.0,0.818,Material conflict,Conflict/Shock
+,Tech control / export restriction,GDELT,W_2m,11.0,8.0,0.727,Material conflict,Conflict/Shock
+,Tech control / export restriction,ICEWS,W_strict,10.0,7.0,0.7,Material conflict,Conflict/Shock
+,Tech control / export restriction,ICEWS,W_1m,10.0,5.0,0.5,Material conflict,Conflict/Shock
+,Tech control / export restriction,ICEWS,W_2m,10.0,6.0,0.6,Material conflict,Conflict/Shock
+,Tech control / export restriction,Phoenix,W_strict,2.0,2.0,1.0,Material conflict,Conflict/Shock
+,Tech control / export restriction,Phoenix,W_1m,2.0,1.0,0.5,Material conflict,Conflict/Shock
+,Tech control / export restriction,Phoenix,W_2m,2.0,0.0,0.0,Material conflict,Conflict/Shock
+,Tech control / export restriction,Tsinghua,W_strict,6.0,4.0,0.667,Material conflict,Conflict/Shock
+,Tech control / export restriction,Tsinghua,W_1m,6.0,4.0,0.667,Material conflict,Conflict/Shock
+,Tech control / export restriction,Tsinghua,W_2m,6.0,4.0,0.667,Material conflict,Conflict/Shock
+,Diplomatic protest / friction,GDELT,W_strict,13.0,12.0,0.923,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,GDELT,W_1m,13.0,11.0,0.846,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,GDELT,W_2m,13.0,11.0,0.846,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,ICEWS,W_strict,13.0,10.0,0.769,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,ICEWS,W_1m,13.0,9.0,0.692,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,ICEWS,W_2m,13.0,9.0,0.692,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,Phoenix,W_strict,7.0,4.0,0.571,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,Phoenix,W_1m,7.0,3.0,0.429,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,Phoenix,W_2m,7.0,3.0,0.429,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,Tsinghua,W_strict,12.0,11.0,0.917,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,Tsinghua,W_1m,12.0,11.0,0.917,Verbal conflict,Conflict/Shock
+,Diplomatic protest / friction,Tsinghua,W_2m,12.0,11.0,0.917,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,GDELT,W_strict,5.0,3.0,0.6,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,GDELT,W_1m,5.0,2.0,0.4,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,GDELT,W_2m,5.0,1.0,0.2,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,ICEWS,W_strict,2.0,1.0,0.5,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,ICEWS,W_1m,2.0,1.0,0.5,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,ICEWS,W_2m,2.0,1.0,0.5,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,Phoenix,W_strict,1.0,1.0,1.0,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,Phoenix,W_1m,1.0,1.0,1.0,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,Phoenix,W_2m,1.0,0.0,0.0,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,Tsinghua,W_strict,4.0,3.0,0.75,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,Tsinghua,W_1m,4.0,3.0,0.75,Verbal conflict,Conflict/Shock
+,Negative strategic positioning,Tsinghua,W_2m,4.0,3.0,0.75,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,GDELT,W_strict,6.0,2.0,0.333,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,GDELT,W_1m,6.0,3.0,0.5,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,GDELT,W_2m,6.0,3.0,0.5,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,ICEWS,W_strict,5.0,3.0,0.6,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,ICEWS,W_1m,5.0,4.0,0.8,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,ICEWS,W_2m,5.0,4.0,0.8,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,Phoenix,W_strict,4.0,2.0,0.5,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,Phoenix,W_1m,4.0,1.0,0.25,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,Phoenix,W_2m,4.0,2.0,0.5,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,Tsinghua,W_strict,2.0,2.0,1.0,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,Tsinghua,W_1m,2.0,2.0,1.0,Verbal conflict,Conflict/Shock
+,Policy shift / domestic politics,Tsinghua,W_2m,2.0,2.0,1.0,Verbal conflict,Conflict/Shock
+,Pandemic / disaster shock,GDELT,W_strict,8.0,5.0,0.625,,Conflict/Shock
+,Pandemic / disaster shock,GDELT,W_1m,8.0,5.0,0.625,,Conflict/Shock
+,Pandemic / disaster shock,GDELT,W_2m,8.0,5.0,0.625,,Conflict/Shock
+,Pandemic / disaster shock,ICEWS,W_strict,8.0,5.0,0.625,,Conflict/Shock
+,Pandemic / disaster shock,ICEWS,W_1m,8.0,4.0,0.5,,Conflict/Shock
+,Pandemic / disaster shock,ICEWS,W_2m,8.0,4.0,0.5,,Conflict/Shock
+,Pandemic / disaster shock,Phoenix,W_strict,3.0,1.0,0.333,,Conflict/Shock
+,Pandemic / disaster shock,Phoenix,W_1m,3.0,1.0,0.333,,Conflict/Shock
+,Pandemic / disaster shock,Phoenix,W_2m,3.0,1.0,0.333,,Conflict/Shock
+,Pandemic / disaster shock,Tsinghua,W_strict,2.0,1.0,0.5,,Conflict/Shock
+,Pandemic / disaster shock,Tsinghua,W_1m,2.0,1.0,0.5,,Conflict/Shock
+,Pandemic / disaster shock,Tsinghua,W_2m,2.0,1.0,0.5,,Conflict/Shock
+,Economic win-win cooperation,GDELT,W_strict,76.0,48.0,0.632,Material cooperation,Cooperation
+,Economic win-win cooperation,GDELT,W_1m,76.0,48.0,0.632,Material cooperation,Cooperation
+,Economic win-win cooperation,GDELT,W_2m,76.0,46.0,0.605,Material cooperation,Cooperation
+,Economic win-win cooperation,ICEWS,W_strict,67.0,40.0,0.597,Material cooperation,Cooperation
+,Economic win-win cooperation,ICEWS,W_1m,67.0,40.0,0.597,Material cooperation,Cooperation
+,Economic win-win cooperation,ICEWS,W_2m,67.0,39.0,0.582,Material cooperation,Cooperation
+,Economic win-win cooperation,Phoenix,W_strict,56.0,36.0,0.643,Material cooperation,Cooperation
+,Economic win-win cooperation,Phoenix,W_1m,56.0,34.0,0.607,Material cooperation,Cooperation
+,Economic win-win cooperation,Phoenix,W_2m,56.0,31.0,0.554,Material cooperation,Cooperation
+,Economic win-win cooperation,Tsinghua,W_strict,40.0,19.0,0.475,Material cooperation,Cooperation
+,Economic win-win cooperation,Tsinghua,W_1m,40.0,18.0,0.45,Material cooperation,Cooperation
+,Economic win-win cooperation,Tsinghua,W_2m,40.0,18.0,0.45,Material cooperation,Cooperation
+,Military / security cooperation,GDELT,W_strict,11.0,4.0,0.364,Material cooperation,Cooperation
+,Military / security cooperation,GDELT,W_1m,11.0,4.0,0.364,Material cooperation,Cooperation
+,Military / security cooperation,GDELT,W_2m,11.0,6.0,0.545,Material cooperation,Cooperation
+,Military / security cooperation,ICEWS,W_strict,9.0,6.0,0.667,Material cooperation,Cooperation
+,Military / security cooperation,ICEWS,W_1m,9.0,5.0,0.556,Material cooperation,Cooperation
+,Military / security cooperation,ICEWS,W_2m,9.0,4.0,0.444,Material cooperation,Cooperation
+,Military / security cooperation,Phoenix,W_strict,8.0,6.0,0.75,Material cooperation,Cooperation
+,Military / security cooperation,Phoenix,W_1m,8.0,6.0,0.75,Material cooperation,Cooperation
+,Military / security cooperation,Phoenix,W_2m,8.0,6.0,0.75,Material cooperation,Cooperation
+,Military / security cooperation,Tsinghua,W_strict,8.0,3.0,0.375,Material cooperation,Cooperation
+,Military / security cooperation,Tsinghua,W_1m,8.0,4.0,0.5,Material cooperation,Cooperation
+,Military / security cooperation,Tsinghua,W_2m,8.0,4.0,0.5,Material cooperation,Cooperation
+,Pandemic / crisis aid,GDELT,W_strict,13.0,9.0,0.692,Material cooperation,Cooperation
+,Pandemic / crisis aid,GDELT,W_1m,13.0,8.0,0.615,Material cooperation,Cooperation
+,Pandemic / crisis aid,GDELT,W_2m,13.0,9.0,0.692,Material cooperation,Cooperation
+,Pandemic / crisis aid,ICEWS,W_strict,13.0,10.0,0.769,Material cooperation,Cooperation
+,Pandemic / crisis aid,ICEWS,W_1m,13.0,8.0,0.615,Material cooperation,Cooperation
+,Pandemic / crisis aid,ICEWS,W_2m,13.0,8.0,0.615,Material cooperation,Cooperation
+,Pandemic / crisis aid,Phoenix,W_strict,3.0,1.0,0.333,Material cooperation,Cooperation
+,Pandemic / crisis aid,Phoenix,W_1m,3.0,2.0,0.667,Material cooperation,Cooperation
+,Pandemic / crisis aid,Phoenix,W_2m,3.0,2.0,0.667,Material cooperation,Cooperation
+,Pandemic / crisis aid,Tsinghua,W_strict,2.0,0.0,0.0,Material cooperation,Cooperation
+,Pandemic / crisis aid,Tsinghua,W_1m,2.0,1.0,0.5,Material cooperation,Cooperation
+,Pandemic / crisis aid,Tsinghua,W_2m,2.0,1.0,0.5,Material cooperation,Cooperation
+,Cultural / people-to-people cooperation,GDELT,W_strict,16.0,11.0,0.688,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,GDELT,W_1m,16.0,10.0,0.625,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,GDELT,W_2m,16.0,6.0,0.375,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,ICEWS,W_strict,8.0,3.0,0.375,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,ICEWS,W_1m,8.0,2.0,0.25,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,ICEWS,W_2m,8.0,3.0,0.375,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,Phoenix,W_strict,6.0,3.0,0.5,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,Phoenix,W_1m,6.0,3.0,0.5,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,Phoenix,W_2m,6.0,3.0,0.5,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,Tsinghua,W_strict,3.0,0.0,0.0,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,Tsinghua,W_1m,3.0,0.0,0.0,Verbal cooperation,Cooperation
+,Cultural / people-to-people cooperation,Tsinghua,W_2m,3.0,0.0,0.0,Verbal cooperation,Cooperation
+,High-level visit,GDELT,W_strict,2.0,1.0,0.5,Verbal cooperation,Cooperation
+,High-level visit,GDELT,W_1m,2.0,1.0,0.5,Verbal cooperation,Cooperation
+,High-level visit,GDELT,W_2m,2.0,1.0,0.5,Verbal cooperation,Cooperation
+,High-level visit,ICEWS,W_strict,1.0,0.0,0.0,Verbal cooperation,Cooperation
+,High-level visit,ICEWS,W_1m,1.0,1.0,1.0,Verbal cooperation,Cooperation
+,High-level visit,ICEWS,W_2m,1.0,1.0,1.0,Verbal cooperation,Cooperation
+,High-level visit,Tsinghua,W_strict,2.0,1.0,0.5,Verbal cooperation,Cooperation
+,High-level visit,Tsinghua,W_1m,2.0,1.0,0.5,Verbal cooperation,Cooperation
+,High-level visit,Tsinghua,W_2m,2.0,1.0,0.5,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,GDELT,W_strict,3.0,2.0,0.667,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,GDELT,W_1m,3.0,2.0,0.667,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,GDELT,W_2m,3.0,2.0,0.667,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,ICEWS,W_strict,1.0,0.0,0.0,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,ICEWS,W_1m,1.0,0.0,0.0,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,ICEWS,W_2m,1.0,0.0,0.0,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,Phoenix,W_strict,1.0,1.0,1.0,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,Phoenix,W_1m,1.0,0.0,0.0,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,Phoenix,W_2m,1.0,0.0,0.0,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,Tsinghua,W_strict,1.0,1.0,1.0,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,Tsinghua,W_1m,1.0,1.0,1.0,Verbal cooperation,Cooperation
+,Multilateral / third-party meeting,Tsinghua,W_2m,1.0,1.0,1.0,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,GDELT,W_strict,45.0,37.0,0.787,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,GDELT,W_1m,45.0,33.0,0.702,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,GDELT,W_2m,45.0,33.0,0.702,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,ICEWS,W_strict,39.0,28.0,0.683,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,ICEWS,W_1m,39.0,18.0,0.439,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,ICEWS,W_2m,39.0,17.0,0.415,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,Phoenix,W_strict,32.0,22.0,0.647,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,Phoenix,W_1m,32.0,21.0,0.618,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,Phoenix,W_2m,32.0,21.0,0.618,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,Tsinghua,W_strict,20.0,15.0,0.75,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,Tsinghua,W_1m,20.0,15.0,0.75,Verbal cooperation,Cooperation
+,Strategic partnership upgrade,Tsinghua,W_2m,20.0,16.0,0.8,Verbal cooperation,Cooperation
+,,,,,,,,
+"# Notes: Hit rate = proportion of events detected within the specified time window. Fair-coverage sample: ICEWS ≤ 2023-04, Phoenix ≤ 2019-03.",,,,,,,,

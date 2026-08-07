@@ -1,0 +1,5 @@
+database,n_countries_within,within_mean_rho,within_sd_rho
+GDELT,17,0.402,0.359
+ICEWS,17,0.347,0.324
+Phoenix,17,0.349,0.312
+Tsinghua,10,0.315,0.382

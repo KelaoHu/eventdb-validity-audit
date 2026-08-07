@@ -1,0 +1,62 @@
+database,country,rho,n_obs
+GDELT,Australia,0.886,6
+GDELT,Brazil,0.018,10
+GDELT,Canada,0.893,7
+GDELT,France,0.305,13
+GDELT,Germany,-0.016,13
+GDELT,India,0.538,12
+GDELT,Indonesia,0.227,11
+GDELT,Italy,0.25,7
+GDELT,Japan,0.662,12
+GDELT,Mexico,0.782,10
+GDELT,Netherlands,0.5,5
+GDELT,Philippines,0.7,5
+GDELT,Russia,-0.441,12
+GDELT,South Korea,0.619,8
+GDELT,Spain,0.126,13
+GDELT,United Kingdom,0.253,13
+GDELT,United States,0.533,13
+ICEWS,Australia,0.829,6
+ICEWS,Brazil,-0.261,10
+ICEWS,Canada,0.643,7
+ICEWS,France,0.33,13
+ICEWS,Germany,-0.143,13
+ICEWS,India,0.483,12
+ICEWS,Indonesia,0.1,11
+ICEWS,Italy,0.214,7
+ICEWS,Japan,0.515,12
+ICEWS,Mexico,0.394,10
+ICEWS,Netherlands,0.5,5
+ICEWS,Philippines,0.9,5
+ICEWS,Russia,0.245,12
+ICEWS,South Korea,0.69,8
+ICEWS,Spain,0.28,13
+ICEWS,United Kingdom,-0.038,13
+ICEWS,United States,0.225,13
+Phoenix,Australia,0.714,6
+Phoenix,Brazil,-0.333,10
+Phoenix,Canada,0.536,7
+Phoenix,France,0.393,13
+Phoenix,Germany,-0.126,13
+Phoenix,India,0.413,12
+Phoenix,Indonesia,0.736,11
+Phoenix,Italy,0.143,7
+Phoenix,Japan,0.564,12
+Phoenix,Mexico,0.455,10
+Phoenix,Netherlands,0.8,5
+Phoenix,Philippines,0.6,5
+Phoenix,Russia,-0.032,12
+Phoenix,South Korea,0.286,8
+Phoenix,Spain,0.225,13
+Phoenix,United Kingdom,0.33,13
+Phoenix,United States,0.225,13
+Tsinghua,Australia,0.6,6
+Tsinghua,France,-0.094,13
+Tsinghua,Germany,-0.005,13
+Tsinghua,India,0.424,12
+Tsinghua,Indonesia,-0.264,11
+Tsinghua,Japan,0.606,12
+Tsinghua,Russia,0.67,12
+Tsinghua,South Korea,0.905,8
+Tsinghua,United Kingdom,0.115,13
+Tsinghua,United States,0.192,13

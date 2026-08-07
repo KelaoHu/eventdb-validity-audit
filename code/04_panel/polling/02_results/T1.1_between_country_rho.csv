@@ -1,0 +1,5 @@
+database,n_countries,between_rho,between_ci_lo,between_ci_hi
+GDELT,17,0.132,-0.413,0.589
+ICEWS,17,-0.005,-0.589,0.541
+Phoenix,17,0.348,-0.194,0.749
+Tsinghua,10,0.394,-0.463,0.951

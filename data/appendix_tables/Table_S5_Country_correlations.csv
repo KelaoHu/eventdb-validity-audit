@@ -1,0 +1,10 @@
+﻿,Database pair,Mean Pearson r,Mean Spearman ρ,N countries,Notes
+# Table S5 | Summary of pairwise database correlations across 25 countries,,,,,
+,GDELT–ICEWS,0.42,0.45,25,Aggregated political relations index
+,GDELT–Phoenix,0.38,0.40,25,Aggregated political relations index
+,GDELT–Tsinghua,0.45,0.48,25,Aggregated political relations index (Tsinghua expert score)
+,ICEWS–Phoenix,0.41,0.43,25,Aggregated political relations index
+,ICEWS–Tsinghua,0.44,0.46,25,Aggregated political relations index (Tsinghua expert score)
+,Phoenix–Tsinghua,0.39,0.41,25,Aggregated political relations index (Tsinghua expert score)
+,,,,,
+# Notes: Pearson r and Spearman ρ computed on country-level aggregated political relations index. Country-level correlations available in Table_S5b_country_pair_correlations.csv.,,,,,

@@ -1,0 +1,6 @@
+term,beta,se,p_raw,n,n_countries,r2
+n_state_head,0.1568,0.0579,0.0155,170,17,0.115
+n_gov_head,0.2769,0.0761,0.0022,170,17,0.115
+n_third_party,-0.2077,0.1266,0.1203,170,17,0.115
+F_state_eq_gov,,,,170,17,0.115
+F_gov_eq_third,,,,170,17,0.115

@@ -1,0 +1,8 @@
+﻿# Table S8-1 | Metadata of six public-opinion data sources (Case 2)
+source,indicator,coverage,question_text,coding_rule,sample_size,access_path,verification
+Pew Research Center (Global Attitudes & Trends),四级好感度%,2005-2020,"""Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of China?""",好感度%=(1+2)/(1+2+3+4)×100；8/9/99剔除,700-3600/国/年,pewresearch.org（需注册）/ opendata.com.pk CKAN门户,已实测验证
+Gallup (World Affairs),四级好感度%,1985-2025,"""Please tell me if you have a very favorable, mostly favorable, mostly unfavorable, or very unfavorable opinion of China?""",好感度%=Very favorable+Mostly favorable,约1000/年（美国）,Datawrapper API (datawrapper.dwcdn.net),已实测验证
+Lowy Institute Poll,0-100°温度计,2006-2026,"""Please rate your feelings towards some countries and territories, with one hundred meaning a very warm, favourable feeling...""",样本均值,全国代表性样本,poll.lowyinstitute.org,大陆不可达；已与新闻稿交叉校验
+日本内阁府《外交に関する世論調査》表7,亲近感%,2020-2025,「あなたは、中国に親しみを感じますか、それとも感じませんか。」,親しみ小計=感じる+どちらかというと感じる,1700-1900/年,survey.gov-online.go.jp,官站直连
+SIFCCT（早稻田大学）,0-100°温度计,2011.10-2013.09（月频）,对16国好感度温度计,i14a2=China；888/999=缺失,3000-3500/波,Harvard Dataverse DOI:10.7910/DVN/LTJEO9,DOI永久链接
+Afrobarometer Rounds 6/8/9,影响力正面%,2014-2023,"""In your opinion, is China''s influence on your country positive or negative?""",正面=4+5；缺失=-1/8/9/98/99,1000-2000/国/轮,afrobarometer.org,官站直连

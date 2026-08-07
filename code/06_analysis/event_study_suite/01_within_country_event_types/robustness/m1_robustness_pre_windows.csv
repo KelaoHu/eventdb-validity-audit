@@ -1,0 +1,81 @@
+event_category,mean,se,n,window
+Cultural / people-to-people cooperation,0.04790062552024501,0.23150691526549358,16,baseline
+Detention / judicial dispute,-1.407494733976039,0.44314971260537506,6,baseline
+Diplomatic protest / friction,-1.0015341294379063,0.23537705579039014,14,baseline
+Economic sanction / tariff barrier,-0.1568697234585226,0.19613342599042538,21,baseline
+Economic win-win cooperation,0.22489833426371333,0.10611045710195345,78,baseline
+High-level visit,-0.25129262311608674,0.33844505047460466,2,baseline
+Military / security cooperation,-0.1971513011458229,0.20535114827120027,11,baseline
+Multilateral / third-party meeting,-0.30357919765200075,0.6848168021698183,3,baseline
+Negative strategic positioning,0.020813567498409995,0.1165125548981347,5,baseline
+Pandemic / crisis aid,0.19990869622694166,0.14325052620586926,13,baseline
+Pandemic / disaster shock,-0.12894380047505094,0.3554386636655846,8,baseline
+Policy shift / domestic politics,-0.04542468932065807,0.22814640287385518,6,baseline
+Security threat,-0.22322056704009435,0.15428528498414165,5,baseline
+Sovereignty dispute,-0.469162335275324,0.16390483274438097,35,baseline
+Strategic partnership upgrade,0.41956836235151085,0.10722509374852375,50,baseline
+Tech control / export restriction,-0.6652540136467155,0.18559478584581593,11,baseline
+Cultural / people-to-people cooperation,0.17230242078944819,0.2132959963952043,16,longer_pre
+Detention / judicial dispute,-1.2785576513934003,0.49524103873089753,6,longer_pre
+Diplomatic protest / friction,-0.9615288428439392,0.20404068760929941,14,longer_pre
+Economic sanction / tariff barrier,-0.16135463961888685,0.18350419068613458,21,longer_pre
+Economic win-win cooperation,0.3403941782198087,0.10107758158963501,78,longer_pre
+High-level visit,-0.0987379564337151,0.05641525592212988,2,longer_pre
+Military / security cooperation,-0.16112582651342192,0.22555318506616145,11,longer_pre
+Multilateral / third-party meeting,-0.13544652870305143,0.7611875829658299,3,longer_pre
+Negative strategic positioning,-0.06108613352328235,0.08853714350584864,5,longer_pre
+Pandemic / crisis aid,0.09611327780246533,0.18163619202564654,13,longer_pre
+Pandemic / disaster shock,-0.2579601434079295,0.27441824167358736,8,longer_pre
+Policy shift / domestic politics,0.051522110896267355,0.18032774702192797,6,longer_pre
+Security threat,-0.31177576815160757,0.14789824183009667,5,longer_pre
+Sovereignty dispute,-0.6103877232640726,0.1796238571170605,35,longer_pre
+Strategic partnership upgrade,0.3774154979371187,0.10466695145101798,50,longer_pre
+Tech control / export restriction,-0.8164619417989626,0.19472741001027324,11,longer_pre
+Cultural / people-to-people cooperation,0.07335801385780491,0.27531441266020645,16,shorter_pre
+Detention / judicial dispute,-1.2812600189208871,0.423357480025561,6,shorter_pre
+Diplomatic protest / friction,-0.6890686649139746,0.26324695023100986,14,shorter_pre
+Economic sanction / tariff barrier,-0.24147010322356838,0.1882595585455218,21,shorter_pre
+Economic win-win cooperation,0.41211645856453855,0.1210130698559866,78,shorter_pre
+High-level visit,-0.7141022187787914,0.5528355763380672,2,shorter_pre
+Military / security cooperation,-0.25238611249595133,0.2502176780910494,11,shorter_pre
+Multilateral / third-party meeting,-0.5824130358353838,0.735084875123504,3,shorter_pre
+Negative strategic positioning,-0.31100982446279696,0.286247135437668,5,shorter_pre
+Pandemic / crisis aid,0.25637640952340246,0.22448439463290276,13,shorter_pre
+Pandemic / disaster shock,-0.09194286703151305,0.31782337154959,8,shorter_pre
+Policy shift / domestic politics,-0.2573891846838642,0.19600480773399487,6,shorter_pre
+Security threat,-0.5256860896699626,0.29645162177853385,5,shorter_pre
+Sovereignty dispute,-0.3631384566331946,0.16085191371425087,35,shorter_pre
+Strategic partnership upgrade,0.3692760493458668,0.11940769445778156,50,shorter_pre
+Tech control / export restriction,-0.6039925019361394,0.24915185675203622,11,shorter_pre
+Cultural / people-to-people cooperation,0.12922796391487806,0.20586939564869514,16,longer_post
+Detention / judicial dispute,-1.343683046678072,0.45074740376131206,6,longer_post
+Diplomatic protest / friction,-0.9588429654024403,0.20437175742712468,14,longer_post
+Economic sanction / tariff barrier,-0.28927085103921835,0.18561468470527526,21,longer_post
+Economic win-win cooperation,0.382398115940318,0.09385195631569564,78,longer_post
+High-level visit,0.22970053854576944,0.11005220859974174,2,longer_post
+Military / security cooperation,-0.1834122397553026,0.2486979017881943,11,longer_post
+Multilateral / third-party meeting,-0.08892743341917446,0.8032764408769768,3,longer_post
+Negative strategic positioning,-0.2415854309922699,0.12271790016450025,5,longer_post
+Pandemic / crisis aid,0.04708121911371758,0.22680322903720335,13,longer_post
+Pandemic / disaster shock,-0.2056724804839528,0.2927495637185731,8,longer_post
+Policy shift / domestic politics,0.07605079453217312,0.19606870537685822,6,longer_post
+Security threat,-0.4400991655361385,0.2885708529206015,5,longer_post
+Sovereignty dispute,-0.736798737195299,0.1861683567727771,35,longer_post
+Strategic partnership upgrade,0.35618225298636463,0.09770176213638582,50,longer_post
+Tech control / export restriction,-0.8148477798321944,0.23578909714059523,11,longer_post
+Cultural / people-to-people cooperation,0.04790062552024501,0.23150691526549358,16,exclude_outliers
+Detention / judicial dispute,-1.407494733976039,0.44314971260537506,6,exclude_outliers
+Diplomatic protest / friction,-1.0015341294379063,0.23537705579039014,14,exclude_outliers
+Economic sanction / tariff barrier,-0.1568697234585226,0.19613342599042538,21,exclude_outliers
+Economic win-win cooperation,0.22489833426371333,0.10611045710195345,78,exclude_outliers
+High-level visit,-0.25129262311608674,0.33844505047460466,2,exclude_outliers
+Military / security cooperation,-0.1971513011458229,0.20535114827120027,11,exclude_outliers
+Multilateral / third-party meeting,-0.30357919765200075,0.6848168021698183,3,exclude_outliers
+Negative strategic positioning,0.020813567498409995,0.1165125548981347,5,exclude_outliers
+Pandemic / crisis aid,0.19990869622694166,0.14325052620586926,13,exclude_outliers
+Pandemic / disaster shock,-0.12894380047505094,0.3554386636655846,8,exclude_outliers
+Policy shift / domestic politics,-0.04542468932065807,0.22814640287385518,6,exclude_outliers
+Security threat,-0.22322056704009435,0.15428528498414165,5,exclude_outliers
+Sovereignty dispute,-0.469162335275324,0.16390483274438097,35,exclude_outliers
+Strategic partnership upgrade,0.41956836235151085,0.10722509374852375,50,exclude_outliers
+Tech control / export restriction,-0.6652540136467155,0.18559478584581593,11,exclude_outliers

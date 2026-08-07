@@ -1,0 +1,43 @@
+# 删除清单（精简重构 2026-08-08）
+
+标准：不直接挂正文/SI 锚点的内容一律移除。完整版在 Zenodo 完整复现包。
+- code/02_aggregation/NumArticles过滤三种算法综合_5.20（直接月加权）.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/Z-Score几何平均方法CSV_5.19（直接月加权）.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/Z-Score算数平均方法CSV_5.19（直接月加权）.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/二维分离_几何平均_直接月加权_5.18.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/二维分离_算术平均_直接月加权_5.18.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/滚动窗口2月_三种算法相关性分析_5.21.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/滚动窗口2月_五种算法相关性分析_5.21.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/滚动窗口Baseline_五种算法相关性分析_临时.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/几何平均方法（由日到月）_5.15.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/几何平均方法CSV_4.20（直接月加权）.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/几何平均算法2002-2025.单GDELT.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/假阳性过滤与重复去重_综合验证_5.20.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/聚合策略革命_变粒度与插值实验_5.20.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/绝对值方式改进0-20_5.15(直接月加权）.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/绝对值方式改进0-50_5.18(直接月加权）.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/绝对值加权方法清洗比较生成参数0-20CSV_4.21.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/绝对值加权方法清洗比较生成参数0-20CSV多线程_4.21.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/三库五种算法综合分析_由日到月_6.3.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/事件类型聚焦与严重性加权_精简版_5.20.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/事件类型聚焦与严重性加权_综合实验_5.20.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/算数平均方法CSV_5.18（直接月加权）.py（旧路线/实验稿，正文附录未涉及）
+- code/02_aggregation/严重性幂次加权方法CSV_5.20（直接月加权）.py（旧路线/实验稿，正文附录未涉及）
+- code/04_panel/polling/论文修订计划_v3.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/论文修订文本_第1-2步.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/论文修订文本_第3-8步.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/论文修订文本_第9-15步.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/论文修改整合指南.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/事件分析计划.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/事件分析计划_v2.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/执行计划.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/自查清单.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/insertion_texts.json（过程稿，正文附录未涉及）
+- code/04_panel/polling/texts_for_docx.json（过程稿，正文附录未涉及）
+- code/04_panel/polling/中国与各国互相好感度_来路说明辅助.md（过程稿，正文附录未涉及）
+- code/04_panel/polling/zenodo_upload/（与上级内容重复的子集）
+- event_study_suite/re-run_713_report.txt（713 旧版报告）
+- event_study_suite/data/（full 镜像，score 已由 data/core+data_fair 承载）
+- data/scores_full/（full 口径不直接进入正文数字；对比由重跑总账承载）
+- events_713.csv ×2（旧事件库，现行为 712）
+- 06_analysis 内全部 图片/输出图片/figures 输出目录（可再生）+ _archive

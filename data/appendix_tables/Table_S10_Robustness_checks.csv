@@ -1,0 +1,24 @@
+﻿,Specification,Coefficient,Std. error,P-value,Observations,Pseudo R²
+"# Table S10_Robustness | Robustness checks for baseline PPML model (GDELT, total trade)",,,,,,
+,Baseline (h=0),0.013*,(0.006),0.026,"6,685",0.9699
+,Baseline (h=1),0.012*,(0.005),0.018,"6,660",0.9698
+,Baseline (h=3),0.010,(0.006),0.081,"6,610",0.9697
+,Baseline (h=6),0.012*,(0.005),0.022,"6,535",0.9697
+,AR(1) residual (h=0),0.013*,(0.006),0.026,"6,685",0.9699
+,AR(1) residual (h=3),0.010,(0.006),0.081,"6,610",0.9697
+,Frequency scan k=1,0.013*,(0.006),0.026,"6,685",0.9699
+,Frequency scan k=2,0.014*,(0.006),0.020,"6,660",0.9699
+,Frequency scan k=3,0.013*,(0.006),0.020,"6,635",0.9699
+,Frequency scan k=4,0.012*,(0.005),0.029,"6,610",0.9699
+,Frequency scan k=6,0.011*,(0.005),0.027,"6,560",0.9700
+,Frequency scan k=12,0.009*,(0.004),0.025,"6,410",0.9703
+,Forward h=-3,0.013*,(0.006),0.027,"6,610",0.9708
+,Forward h=-2,0.014*,(0.006),0.023,"6,635",0.9704
+,Forward h=-1,0.012*,(0.006),0.041,"6,660",0.9701
+,Exclude US (h=0),0.012*,(0.006),0.038,"6,399",0.9576
+,Exclude COVID (h=0),0.011*,(0.005),0.027,"5,785",0.9705
+,Exclude Iran (h=0),0.013*,(0.006),0.026,"6,685",0.9699
+,Truncate 2019-03 (h=0),0.005,(0.003),0.143,"4,782",0.9828
+,Trim 1% outliers (h=0),0.012*,(0.005),0.025,"6,551",0.9645
+,,,,,,
+"# Notes: Baseline: h=0, total trade, GDELT. AR(1) residual: same as baseline, emphasizing shock construction. Frequency scan: k-month rolling sum of political shock. Forward effects: lead shock at h. Sample exclusions: US, COVID period (2020–2022), Iran, truncation to 2019-03, 1% trade outliers. Controls: ln(GDP_i×GDP_j), ln(exchange rate), FTA dummy. Fixed effects: country and year-month. Standard errors clustered at country level. ***p<0.001, **p<0.01, *p<0.05.",,,,,,

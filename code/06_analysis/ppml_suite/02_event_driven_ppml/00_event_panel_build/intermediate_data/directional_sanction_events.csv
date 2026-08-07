@@ -1,0 +1,33 @@
+country_en,country_cn,event_date,event_name,event_type_original,event_category,event_category_en,impact,direction
+Australia,澳大利亚,2018-08,Australia bans Huawei from 5G,policy,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+Australia,澳大利亚,2020-05,China imposes barley tariffs,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,china_to_partner
+Brazil,巴西,2024-03,Brazil launches anti-dumping investigations on Chinese products,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+Canada,加拿大,2019-03,China suspends canola seed licences of Richardson and Viterra,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,china_to_partner
+Canada,加拿大,2022-05,Canada bans Huawei and ZTE from 5G networks,sanctions,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+Canada,加拿大,2024-10,Canada imposes 100% surtax on Chinese-made EVs,sanctions,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+France,法国,2020-07,French limits on Huawei 5G equipment,policy,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+Germany,德国,2016-08,Midea acquires Kuka amid technology concerns,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,ambiguous
+Germany,德国,2022-11,Germany blocks Elmos Semiconductor fab sale to Chinese-owned Silex,policy,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+India,印度,2020-06,"India bans 59 Chinese apps (TikTok, WeChat, etc.)",sanctions,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+Iran,伊朗,2006-12,UNSC Resolution 1737 sanctions on Iran (China votes in favour),sanctions,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,multilateral
+Iran,伊朗,2010-06,UNSC Resolution 1929 fourth round sanctions on Iran (China votes in favour),sanctions,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,multilateral
+Iran,伊朗,2018-05,US withdraws from JCPOA and reimposes sanctions; China opposes unilateral sanctions,diplomatic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,multilateral
+Italy,意大利,2020-10,Italy blocks Fastweb-Huawei 5G core deal (de-facto restriction),policy,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+Mexico,墨西哥,2007-02,Mexico requests WTO consultations on Chinese industrial subsidy programs,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+Mexico,墨西哥,2008-10,Transitional trade remedy measure replaces anti-dumping duties on Chinese goods,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+Mexico,墨西哥,2023-08,Mexico raises tariffs on 392 Chinese product lines via presidential decree,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+Mexico,墨西哥,2024-04,Mexico expands tariffs to 544 product lines with rates up to 50 percent,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+Mexico,墨西哥,2024-12,Mexico imposes additional 15-35 percent duties on 155 textile and apparel items,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+Mexico,墨西哥,2025-12,"Mexico enacts permanent tariffs on 1,463 products affecting Chinese imports",economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+Netherlands,荷兰,2023-06,Netherlands announces export controls on advanced semiconductor equipment,sanctions,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+South Korea,韩国,2005-10,Kimchi import dispute with South Korea,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,ambiguous
+Spain,西班牙,2022-04,Spain passes 5G cybersecurity law enabling Huawei/ZTE restrictions,policy,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+United Arab Emirates,阿联酋,2019-04,US raises security concerns over UAE Huawei 5G contract,sanctions,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+United Kingdom,英国,2020-07,UK bans Huawei 5G,sanctions,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+United Kingdom,英国,2022-11,UK buys out CGN from Sizewell C nuclear project,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+United States,美国,2018-03,Steel/aluminum tariffs imposed,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+United States,美国,2018-04,US bans ZTE from tech exports,sanctions,科技管制/出口限制,Tech control / export restriction,negative,partner_to_china
+United States,美国,2018-07,Trade War Begins,sanctions,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,ambiguous
+United States,美国,2019-05,US hikes tariffs on $200B goods,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+United States,美国,2024-05,Biden hikes tariffs on China EVs,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,partner_to_china
+United States,美国,2025-04,US-China reciprocal tariff war escalates in April 2025,economic,经贸制裁/关税壁垒,Economic sanction / tariff barrier,negative,ambiguous

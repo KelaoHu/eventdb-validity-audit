@@ -1,0 +1,6 @@
+﻿Statistic,Value,Threshold,Interpretation
+Cohen Kappa,0.866,">0.61 (Landis & Koch, 1977)",Almost perfect agreement
+Raw agreement,88.0% (88/100),—,88 of 100 events coded identically
+Expected agreement,10.6%,—,Agreement expected by chance with 17 categories
+Sample size,100 events,">50 (Lombard et al., 2002)","14% of 712 events, stratified by category"
+Second coder,"Independent, unfamiliar with original coding",—,Graduate student peer

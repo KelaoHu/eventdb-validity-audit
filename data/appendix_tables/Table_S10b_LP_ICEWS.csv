@@ -1,0 +1,13 @@
+﻿,Shock specification,Trade flow,h=0,h=1,h=2,h=3,h=4,h=5,h=6
+# Table S10b | Local projection estimates for ICEWS (h=0–6),,,,,,,,,
+,IW-Export,Trade_Exports,0.006 (0.005),0.003 (0.005),0.002 (0.003),0.001 (0.005),-0.001 (0.004),0.000 (0.005),0.004 (0.005)
+,IW-Export,Trade_Imports,-0.003 (0.007),-0.001 (0.006),-0.000 (0.006),-0.002 (0.007),-0.002 (0.009),-0.001 (0.008),-0.001 (0.008)
+,IW-Export,Trade_Total,0.001 (0.005),-0.000 (0.004),0.000 (0.003),-0.001 (0.004),-0.002 (0.005),-0.002 (0.005),0.001 (0.005)
+,IW-Import,Trade_Exports,0.007** (0.003),0.004 (0.004),0.006** (0.003),0.000 (0.003),0.001 (0.003),0.002 (0.003),0.003 (0.004)
+,IW-Import,Trade_Imports,0.002 (0.006),0.003 (0.006),0.003 (0.005),0.004 (0.005),0.004 (0.006),0.003 (0.007),0.002 (0.006)
+,IW-Import,Trade_Total,0.004 (0.004),0.002 (0.004),0.004 (0.003),0.001 (0.003),0.002 (0.003),0.002 (0.005),0.002 (0.005)
+,IW-Total,Trade_Exports,0.007 (0.005),0.003 (0.004),0.004 (0.003),0.001 (0.004),-0.000 (0.004),0.000 (0.005),0.002 (0.005)
+,IW-Total,Trade_Imports,-0.000 (0.006),-0.001 (0.006),0.001 (0.006),-0.000 (0.006),-0.002 (0.008),-0.002 (0.008),-0.000 (0.007)
+,IW-Total,Trade_Total,0.002 (0.005),0.000 (0.004),0.002 (0.003),-0.001 (0.004),-0.002 (0.004),-0.002 (0.005),0.000 (0.005)
+,,,,,,,,,
+"# Notes: Political shock = z-scored monthly ICEWS index (baseline LP specification). Cells show coefficient (standard error in parentheses). Controls: ln(GDP_i×GDP_j), ln(exchange rate), FTA dummy. Fixed effects: country and year-month. Standard errors clustered at country level. ***p<0.01, **p<0.05, *p<0.10",,,,,,,,,

@@ -1,0 +1,5 @@
+﻿db,vol_measure,col,archive,full_repl
+ICEWS,vol_range12m,pearson_r,-0.0016134808366694,0.00124042214062789
+ICEWS,vol_range12m,pearson_p,0.993892763674837,0.995304822212487
+ICEWS,vol_range12m,spearman_r,-0.075160161386044,-0.0666192339558117
+ICEWS,vol_range12m,spearman_p,0.721041734051828,0.751703056834323
