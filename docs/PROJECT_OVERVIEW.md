@@ -1,4 +1,4 @@
-# Project Overview — For Prospective Advisors
+# Project Overview
 
 **One sentence**: I built a complete empirical pipeline that audits four political event databases (GDELT, ICEWS, Phoenix, Tsinghua index) against a hand-curated gold standard, and shows that *no database is universally best — validity is audience-specific*.
 

@@ -1,8 +1,8 @@
 # Choosing the Right Ruler: An Audience-Specific Audit of Political Event Databases
 
-> **事件数据库没有绝对最优，只有与受众最匹配。** 同一段中国与 25 个贸易伙伴的双边关系，用 GDELT、ICEWS、Phoenix 与清华指数四把"尺子"量出来，是四个不同的世界——本文用三层审计证明这一点，并解释为什么。
+> **No event database is universally best—only best matched to its audience.** The same bilateral relationships between China and its 25 trading partners, measured by GDELT, ICEWS, Phoenix, and the Tsinghua index, yield four different worlds. A three-layer audit shows why.
 
-> 🎓 **For prospective advisors / 给未来的导师**：一页项目陈述见 [`docs/PROJECT_OVERVIEW.md`](docs/PROJECT_OVERVIEW.md)；30 秒独立重算头条数字请直接运行 `python examples/verify_headline_stats.py`（克隆后无需任何配置）。
+> **Quick verification**: clone this repository and run `python examples/verify_headline_stats.py` to independently recompute the headline statistics in about 30 seconds—no configuration needed.
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/) [![R 4.6](https://img.shields.io/badge/R-4.6.1-276DC3)](https://www.r-project.org/) [![License: MIT + CC-BY](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY-green)](LICENSE) [![Reproduction: verified](https://img.shields.io/badge/Reproduction-verified%20end--to--end-brightgreen)](docs/VERIFICATION.md)
 
@@ -81,9 +81,3 @@ See `CITATION.cff`. If you use the 712-event gold standard or the audit framewor
 ## License
 
 Code: MIT (see [LICENSE](LICENSE)). Data (derived indices, gold-standard events, appendix tables): CC-BY 4.0 (see [LICENSE-DATA.md](LICENSE-DATA.md)). Source databases remain under their original publishers' terms.
-
----
-
-## 中文简介
-
-本仓库是一篇论文的完整复现包：对 GDELT、ICEWS、Phoenix 与清华指数四个政治事件数据库做"一致性—效度—因果推断"三层审计，证据基础为 966 万条机器编码事件与 712 条人工核查的黄金标准事件（中国与 25 个贸易伙伴，2002–2025 月度面板）。核心命题：**数据库的预测力取决于其信源结构与受众信息环境的重合度**——贸易跟随 GDELT 所呈现的政治，民意跟随 Phoenix 所呈现的政治。全部数字经端到端复现验证（见 docs/VERIFICATION.md）。
