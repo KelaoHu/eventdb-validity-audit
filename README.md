@@ -2,7 +2,7 @@
 
 > **No event database is universally best—only best matched to its audience.** The same bilateral relationships between China and its 25 trading partners, measured by GDELT, ICEWS, Phoenix, and the Tsinghua index, yield four different worlds. A three-layer audit shows why.
 
-> **Quick verification**: clone this repository and run `python examples/verify_headline_stats.py` to independently recompute the headline statistics in about 30 seconds—no configuration needed.
+> **Quick verification**: clone this repository and run `python verification/verify_headline_stats.py` to independently recompute the headline statistics in about 30 seconds—no configuration needed.
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/) [![R 4.6](https://img.shields.io/badge/R-4.6.1-276DC3)](https://www.r-project.org/) [![License: MIT + CC-BY](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY-green)](LICENSE) [![Reproduction: verified](https://img.shields.io/badge/Reproduction-verified%20end--to--end-brightgreen)](docs/VERIFICATION.md)
 
@@ -68,7 +68,7 @@ Raw event data (3.5 GB: GDELT/ICEWS retrievals, Phoenix source package) and the 
 
 ```bash
 pip install -r requirements.txt        # Python deps; R deps in code/R_packages.txt
-python examples/verify_headline_stats.py   # 30 秒自证：头条数字独立重算，打印 PASS/FAIL
+python verification/verify_headline_stats.py   # 30 秒自证：头条数字独立重算，打印 PASS/FAIL
 Rscript code/07_figures/figures_R/fig02_v3.R   # 图 2 再生成（内置 QA 闸门）
 ```
 
