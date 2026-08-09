@@ -5,8 +5,7 @@
 > **Four databases. One bilateral relationship. Four different worlds.**
 
 > **Six months. 9.66 million machine-coded events. 712 events hand-verified one by one.**
-> We built what the event-data field has been calling for since 2015 — and used it to ask an uncomfortable question: *does your conclusion survive a change of database?*
-> For China's bilateral relations, the answer is: **often not.**
+> Our systematic audit of the major event databases in international relations delivers a foundational theoretical contribution: *validity is not a property of a database, but of the match between a database and its audience* — the conceptual and empirical groundwork for the next generation of political event data.
 
 ### By the numbers
 
