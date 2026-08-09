@@ -2,37 +2,54 @@
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/) [![R 4.6](https://img.shields.io/badge/R-4.6.1-276DC3)](https://www.r-project.org/) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21862534-blue)](https://doi.org/10.5281/zenodo.21862534) [![License: MIT + CC-BY](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY-green)](LICENSE) [![Reproduction: verified](https://img.shields.io/badge/Reproduction-verified%20end--to--end-brightgreen)](docs/VERIFICATION.md)
 
-> **9,659,113 machine-coded events. 712 ground truths verified by hand, one source at a time. Four databases. 25 countries. 23 years.**
-> The most comprehensive validity audit of political event databases to date — and its verdict rewrites how the field must choose its instruments:
-> ***validity is not a property of a database, but of the match between a database and its audience.***
+---
 
-### By the numbers
+# 🔍 The same 25 relationships. Four databases. Four different worlds.
 
-| | |
+## 9,659,113 events. 712 hand-verified truths. 25 partners. 23 years.
+
+### The most comprehensive validity audit of political event databases to date.
+
+---
+
+### The assumption nobody checked
+
+For two decades, every quantitative study of China's foreign relations has rested on a silent choice: pick GDELT, or ICEWS, or Phoenix, or the expert-coded Tsinghua index — and proceed as if the choice didn't matter. Event counts were quoted as ground truth; expert scores were cited by habit. **Nobody audited the instruments.** Nobody asked whether the China–Japan relationship measured by one database is the same relationship measured by another. And nobody asked what happens to published-style conclusions when you swap one for another.
+
+Until now. As of August 2026, this repository presents, to our knowledge, **the first systematic cross-database validity audit of political-relations measurement** — four databases, one gold standard, and the consequences followed all the way down to substantive conclusions.
+
+### The stage: 25 relationships that carried a rising power
+
+On 11 December 2001, China joined the WTO. What followed was one of the fastest trade integrations in modern history — and it ran through exactly 25 relationships: **China's largest trading partners of 2002**, from Japan and the United States to Brazil and Iran. We tracked all 25 month by month for 23 years, through WTO accession, the 2008 financial crisis, the Belt and Road Initiative, the US–China trade war, and the pandemic — three machine-coded giants watching from the outside (GDELT, ICEWS, Phoenix), Tsinghua's experts scoring from the inside.
+
+### What we built
+
+- 🔢 **9,659,113 machine-coded events** — every relevant event GDELT, ICEWS and Phoenix recorded between China and its 25 partners, 2002–2025, filtered to strict dyads (GDELT 8,946,603 · ICEWS 613,599 · Phoenix 98,911)
+- 🥇 **712 gold-standard events, each verified source-by-source** — to our knowledge **the first open, double-coded (κ = 0.866) ground truth** for China's bilateral relations, answering Schrodt's (2015) call for shared gold-standard infrastructure
+- 📊 **Two purpose-built panels** — monthly trade (n = 6,685) and public opinion from six independent sources (Pew core: 17 countries × 13 waves, N = 170)
+- 🧾 **A zero-trust replication package** — 1,064 files, every one md5-fingerprinted; end-to-end reproduction byte-identical; headline numbers recompute in 30 seconds (10/10 PASS)
+
+### What we found
+
+1. **Agreement is a coverage property, not a database property.** GDELT–ICEWS correlation ranges from ρ = 0.633 (China–Japan) to ρ = 0.031 (China–Brazil), n = 207 — the same pair of databases, two different worlds.
+2. **Machines capture behavior; experts judge intensity.** The four databases are not noisy versions of each other — they are measuring different things.
+3. **Your database choice *is* your result.** In **this literature's first same-specification, four-database horse race**, the Phoenix export coefficient flips sign (β = −0.0062, p = 0.005).
+4. **There is no universally best database — only the best match to your audience.** Trade listens to GDELT. Public opinion listens to Phoenix.
+
+### Which database should you cite?
+
+| Your question | The evidence says |
 |---|---|
-| 🔢 **9,659,113** | machine-coded events retrieved and filtered to China × 25 partner dyads — every relevant event GDELT, ICEWS and Phoenix recorded, 2002–2025 |
-| 🥇 **712** | gold-standard bilateral events, **each one** traced back to its sources and double-coded (Cohen's κ = 0.866) |
-| 🌏 **25 × 23 × 12** | 25 trading partners × 23 years × 12 months — a 6,900-cell grid per database, four databases deep |
-| 📊 **6,685 + 170** | monthly trade panel + six-source public-opinion panel (Pew core: 17 countries × 13 waves) |
-| 🧾 **1,064** | files, every one md5-fingerprinted — end-to-end reproduction is **byte-identical** |
-| ⚡ **30 seconds** | to prove it yourself: `python verification/verify_headline_stats.py` — 10/10 PASS |
+| Trade, sanctions, economic statecraft | **GDELT** — the only database that co-moves with trade flows (β = 0.0127, p = 0.026) |
+| Public opinion, soft power | **All four work — Phoenix wins the horse race** (β = 0.090, p = 0.002) |
+| High-media-coverage partners (Japan, US, …) | Databases largely agree — any choice defensible |
+| Low-coverage partners (Brazil, …) | Treat any single-database result with caution (ρ as low as 0.031) |
 
-### Three firsts (as of August 2026, to our knowledge)
-
-1. **The first systematic cross-database validity audit of political-relations measurement.** Two generations of China studies picked one database and never stress-tested the choice. Prior comparisons stopped at conflict events (GDELT vs ICEWS; Ward et al. 2013) or methodology reviews (ACLED 2019). This audit puts four databases — three machine-coded, one expert-coded — against a gold standard and follows the consequences all the way down to published-style conclusions.
-2. **The first source-verified, double-coded gold-standard event library for China's bilateral relations.** Schrodt (2015) wrote that the field needs but does not have open gold-standard cases with known inter-coder reliability. This is that missing infrastructure: 712 events, every one traceable to its sources.
-3. **The first same-specification, four-database horse race in this literature — and the first documented sign flip:** with all four measures in one equation, the Phoenix export coefficient turns *negative* (β = −0.0062, p = 0.005). Your database choice *is* your result.
-
-### The old way vs. this audit
-
-| | Prior practice | This audit |
-|---|---|---|
-| Measurement | Pick one database and run | Four databases, same-equation horse races |
-| Validation | No gold standard | 712 events verified source-by-source |
-| Robustness of conclusions | Not tested | Switching databases flips signs: Phoenix export β = **−0.0062** (p = 0.005) |
-| Reproducibility | Data often unavailable | 1,064-file md5 manifest + byte-identical end-to-end reproduction |
+**Don't take our word for it — clone and run the 30-second check.**
 
 ## Key findings at a glance
+
+Four findings — every one recomputes from this repository in seconds.
 
 | Finding | Numbers | So what |
 |---|---|---|
@@ -64,7 +81,7 @@ Every number in the paper was re-derived from this repository before release (se
 
 ## The audit in one paragraph
 
-Three layers, one question. *Consistency*: do the databases agree with each other (pairwise correlations, directional agreement, five aggregation algorithms)? *Validity*: do they capture what experts say happened (712-event gold standard, hit rates by type and window)? *Consequences*: does the choice change the answer (same-equation PPML-HDFE horse races on trade and public opinion, local projections h = 0–6, event studies with 1,000× permutation falsification)?
+The machinery behind these claims: three layers, one question. *Consistency*: do the databases agree with each other (pairwise correlations, directional agreement, five aggregation algorithms)? *Validity*: do they capture what experts say happened (712-event gold standard, hit rates by type and window)? *Consequences*: does the choice change the answer (same-equation PPML-HDFE horse races on trade and public opinion, local projections h = 0–6, event studies with 1,000× permutation falsification)?
 
 ## Pipeline
 
@@ -106,7 +123,7 @@ Rscript code/07_figures/figures_R/fig02_v3.R   # 图 2 再生成（内置 QA 闸
 
 Scripts carry the author's machine paths; redirect to this repo's folders as documented in `docs/PIPELINE.md`.
 
-**Don't take our word for it — clone and run the 30-second check.**
+Full 3.5 GB archive (raw data included): Zenodo [doi:10.5281/zenodo.21862534](https://doi.org/10.5281/zenodo.21862534).
 
 ## Citation
 
