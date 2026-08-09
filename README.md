@@ -2,25 +2,26 @@
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/) [![R 4.6](https://img.shields.io/badge/R-4.6.1-276DC3)](https://www.r-project.org/) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21862534-blue)](https://doi.org/10.5281/zenodo.21862534) [![License: MIT + CC-BY](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY-green)](LICENSE) [![Reproduction: verified](https://img.shields.io/badge/Reproduction-verified%20end--to--end-brightgreen)](docs/VERIFICATION.md)
 
-> **Four databases. One bilateral relationship. Four different worlds.**
-
-> **Six months. 9.66 million machine-coded events. 712 events hand-verified one by one.**
-> Our systematic audit of the major event databases in international relations delivers a foundational theoretical contribution: *validity is not a property of a database, but of the match between a database and its audience* — the conceptual and empirical groundwork for the next generation of political event data.
+> **9,659,113 machine-coded events. 712 ground truths verified by hand, one source at a time. Four databases. 25 countries. 23 years.**
+> The most comprehensive validity audit of political event databases ever undertaken — and its verdict rewrites how the field must choose its instruments:
+> ***validity is not a property of a database, but of the match between a database and its audience.***
 
 ### By the numbers
 
 | | |
 |---|---|
-| 🔢 **9,659,113** | machine-coded events filtered to China × 25 partner dyads (GDELT + ICEWS + Phoenix) |
-| 🥇 **712** | gold-standard bilateral events, each verified source-by-source, double-coded (Cohen's κ = 0.866) |
-| 🌏 **25 × 23** | 25 trading partners × 23 years (2002–2025), monthly resolution |
+| 🔢 **9,659,113** | machine-coded events retrieved and filtered to China × 25 partner dyads — every relevant event GDELT, ICEWS and Phoenix recorded, 2002–2025 |
+| 🥇 **712** | gold-standard bilateral events, **each one** traced back to its sources and double-coded (Cohen's κ = 0.866) |
+| 🌏 **25 × 23 × 12** | 25 trading partners × 23 years × 12 months — a 6,900-cell grid per database, four databases deep |
 | 📊 **6,685 + 170** | monthly trade panel + six-source public-opinion panel (Pew core: 17 countries × 13 waves) |
-| ⚡ **30 seconds** | to independently recompute our headline numbers: `python verification/verify_headline_stats.py` |
+| 🧾 **1,064** | files, every one md5-fingerprinted — end-to-end reproduction is **byte-identical** |
+| ⚡ **30 seconds** | to prove it yourself: `python verification/verify_headline_stats.py` — 10/10 PASS |
 
-### Why this is a first (as of August 2026)
+### Three firsts (as of August 2026, to our knowledge)
 
-- **To our knowledge, the first systematic cross-database validity audit of political-relations measurement.** Two generations of China–trade studies picked one measure and never stress-tested the choice. Prior comparisons stopped at conflict events (GDELT vs ICEWS; Ward et al. 2013) or methodology reviews (ACLED 2019). Nobody put four databases — three machine-coded, one expert-coded — up against a gold standard and followed the consequences all the way down to substantive conclusions.
-- **The first source-verified, double-coded gold-standard event library for China's bilateral relations.** Schrodt (2015) wrote that the field needs but does not have open gold-standard cases with known inter-coder reliability. This repository is that missing infrastructure: 712 events, every one traceable to its sources.
+1. **The first systematic cross-database validity audit of political-relations measurement.** Two generations of China studies picked one database and never stress-tested the choice. Prior comparisons stopped at conflict events (GDELT vs ICEWS; Ward et al. 2013) or methodology reviews (ACLED 2019). This audit puts four databases — three machine-coded, one expert-coded — against a gold standard and follows the consequences all the way down to published-style conclusions.
+2. **The first source-verified, double-coded gold-standard event library for China's bilateral relations.** Schrodt (2015) wrote that the field needs but does not have open gold-standard cases with known inter-coder reliability. This is that missing infrastructure: 712 events, every one traceable to its sources.
+3. **The first same-specification, four-database horse race in this literature — and the first documented sign flip:** with all four measures in one equation, the Phoenix export coefficient turns *negative* (β = −0.0062, p = 0.005). Your database choice *is* your result.
 
 ### The old way vs. this audit
 
