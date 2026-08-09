@@ -22,7 +22,7 @@ PPML-HDFE gravity estimation with two-way fixed effects; Local Projections (h = 
 
 ## Verification culture
 
-Every number was re-derived before release (see `docs/VERIFICATION.md`): md5 lineage checks, row-count assertions, statistic recomputation, and **end-to-end re-execution** — the aggregation script re-run on 2.36 GB of raw events reproduces the released scores byte-identically, and figure scripts carry built-in QA gates that print PASS/FAIL. Anyone can spot-check the headline numbers in 30 seconds: `python examples/verify_headline_stats.py`.
+Every number was re-derived before release (see `docs/VERIFICATION.md`): md5 lineage checks, row-count assertions, statistic recomputation, and **end-to-end re-execution** — the aggregation script re-run on 2.36 GB of raw events reproduces the released scores byte-identically, and figure scripts carry built-in QA gates that print PASS/FAIL. Anyone can spot-check the headline numbers in 30 seconds: `python verification/verify_headline_stats.py`.
 
 ## Skill matrix
 

@@ -17,7 +17,7 @@ Six stages from raw downloads to published numbers. File paths refer to this rep
   code/02_aggregation/geometric_mean_day_to_month_v5.23_GDELT.py (main line)
   code/02_aggregation/three_db_five_algorithms_v6.3_optimized.py (3 databases × 5 algorithms)
   + 26 alternative/robustness scripts in code/02_aggregation/
-  → data/scores_full/ (full coverage) → fair-coverage truncation (ICEWS ≤ 2023-04, Phoenix ≤ 2019-03)
+  → [Zenodo] monthly_scores_full/ (full coverage) → fair-coverage truncation (ICEWS ≤ 2023-04, Phoenix ≤ 2019-03)
   → data/core/{gdelt,icews,phoenix,tsinghua}_scores.csv  ★ the paper's fair-coverage caliber
 
 [Stage 4] Panels
@@ -37,7 +37,7 @@ Six stages from raw downloads to published numbers. File paths refer to this rep
 
 [Stage 6] Figures & tables
   code/07_figures/fig01–06_v3.R, figS1–S3 → figures/ (300 dpi)
-  data/appendix_tables/ 27 CSVs (Table S3–S12 series)
+  data/appendix_tables/ 33 CSVs (main Tables 1–3 + Table S4–S12 series, 2026-08-09 numbering)
 ```
 
 ## Path remapping notes
@@ -46,5 +46,5 @@ Scripts carry the author's machine paths. To re-run against this repo:
 - repo root ↔ author's `311工程数据\`
 - `data/appendix_tables/` ↔ author's `05_文档/附录数据表/`
 - `code/06_analysis/` ↔ author's `03_检验与分析套件/`
-- two figure scripts cite the pre-rename `Table_S4_1R_Hitrate_comparison.csv` → use `data/appendix_tables/Table_S7_1R_Hitrate_comparison.csv`
+- figure scripts read `data/appendix_tables/Table_S9_1R_Hitrate_comparison.csv` and `Table_S6_5/6_7/6_8` (2026-08-09 renumbering applied)
 - raw retrieval inputs → Zenodo archive (see `docs/DATA_SOURCES.md`)

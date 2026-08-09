@@ -6,7 +6,7 @@ suppressMessages({
 })
 
 ROOT_D <- "C:/Users/胡克劳/Desktop/311工程数据"
-TAB_S4 <- file.path(ROOT_D, "05_文档/附录数据表/Table_S4_1R_Hitrate_comparison.csv")
+TAB_S4 <- "data/appendix_tables/Table_S9_1R_Hitrate_comparison.csv"  # repo-relative（从仓根目录运行）
 FAIR_HIT <- file.path(ROOT_D, "03_检验与分析套件/修订补充检验_202607/17_ICEWS覆盖期审计/results/hitrate_coop_conflict_fair_era.csv")
 ES_DIR_FAIR <- "C:/Users/胡克劳/Desktop/311工程/3 实证结果/3.2 双边关系分析基于月度政治分数/全新事件研究法/data_fair"
 M1_FAIR_QA <- file.path(ROOT_D, "03_检验与分析套件/重跑_公平覆盖期_202607/03_修订检验/fair/11_M1事件研究显著性补算/results/m1_irf_significance.csv")

@@ -1,5 +1,5 @@
 ﻿,Specification,Coefficient,Std. error,P-value,Observations,Pseudo R²
-"# Table S10_Robustness | Robustness checks for baseline PPML model (GDELT, total trade)",,,,,,
+"# Table S11-3 | Robustness checks for baseline PPML model (GDELT, total trade)",,,,,,
 ,Baseline (h=0),0.013*,(0.006),0.026,"6,685",0.9699
 ,Baseline (h=1),0.012*,(0.005),0.018,"6,660",0.9698
 ,Baseline (h=3),0.010,(0.006),0.081,"6,610",0.9697

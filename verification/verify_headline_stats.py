@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """30 秒自证：从 data/core 独立重算论文头条数字并打印 PASS/FAIL
-Run:  python examples/verify_headline_stats.py        （在仓库根目录）
+Run:  python verification/verify_headline_stats.py        （在仓库根目录）
 """
 import os
 import pandas as pd

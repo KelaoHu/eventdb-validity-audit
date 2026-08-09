@@ -1,0 +1,5 @@
+Database,Source,Variable,Time coverage,Countries,Extracted / processed
+GDELT,gdeltproject.org,GoldsteinScale,2002.01–2025.12,25,"8,946,603 events (daily retrieval)"
+ICEWS,Harvard Dataverse,Intensity,2002.01–2023.04 (raw) / 2025.12 (forward-filled),25,"613,599 events (API bilateral matching)"
+Phoenix,Illinois Data Bank (v1.3.0),goldstein,2002.01–2019.03 (raw) / 2019.12 (forward-filled),25,"NYT 1,416,962 rows + SWB 4,255,929 rows → 98,911 events"
+Tsinghua index,Tsinghua Univ. Institute of International Relations,expert scoring,2002.01–2025.08,11(12 nominal; Pakistan not in the 25-country trade panel),monthly scores obtained directly

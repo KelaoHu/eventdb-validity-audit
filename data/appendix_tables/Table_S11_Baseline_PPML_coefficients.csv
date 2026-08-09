@@ -1,5 +1,5 @@
 ﻿,Variable,Coefficient,Std. error,z-statistic,P-value
-"# Table S10_Baseline | Baseline PPML regression results (GDELT, total trade, h=0)",,,,,
+"# Table S11-1 | Baseline PPML regression results (GDELT, total trade, h=0)",,,,,
 ,Political shock (z-scored monthly GDELT index),0.013*,(0.006),2.22,0.026
 ,ln(GDP_i \times GDP_j),0.769***,(0.214),3.60,0.000
 ,ln(exchange rate),-0.045,(0.147),-0.30,0.761

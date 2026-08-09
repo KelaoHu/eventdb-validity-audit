@@ -1,5 +1,5 @@
 ﻿,Placebo type,True coefficient,Placebo mean,Placebo SD,P-value,Permutations
-"# Table S7_Placebo | Placebo tests for baseline PPML model (GDELT, total trade, h=0)",,,,,,
+"# Table S11-4 | Placebo tests for baseline PPML model (GDELT, total trade, h=0)",,,,,,
 ,国家标签置换,0.013,-0.0002,0.0026,0.000,100.0
 ,随机正态冲击,0.013,0.0000,0.0026,0.000,100.0
 ,时间块平移,0.013,0.0106,0.0022,0.220,100.0

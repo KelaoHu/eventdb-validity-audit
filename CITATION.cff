@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: If you use this software or data, please cite it as below.
-title: "An Audience-Specific Audit of Measurement Validity in Political Event Databases: Replication Package"
+title: "Measurement validity in political event databases is audience-specific: evidence from China and its 25 trading partners — Replication Package"
 authors:
   - family-names: "Hu"
     given-names: "Kelao"
@@ -10,6 +10,10 @@ authors:
     orcid: "https://orcid.org/0000-0003-2374-0215"
 date-released: 2026-08-08
 license: "MIT (code) / CC-BY-4.0 (data)"
+identifiers:
+  - description: "Full replication package incl. raw data (3.5 GB) archived on Zenodo"
+    type: doi
+    value: "10.5281/zenodo.21862534"
 repository-code: "https://github.com/KelaoHu/eventdb-validity-audit"
 keywords:
   - event databases

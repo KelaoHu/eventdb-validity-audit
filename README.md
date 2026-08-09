@@ -4,7 +4,7 @@
 
 > **Quick verification**: clone this repository and run `python verification/verify_headline_stats.py` to independently recompute the headline statistics in about 30 seconds—no configuration needed.
 
-[![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/) [![R 4.6](https://img.shields.io/badge/R-4.6.1-276DC3)](https://www.r-project.org/) [![License: MIT + CC-BY](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY-green)](LICENSE) [![Reproduction: verified](https://img.shields.io/badge/Reproduction-verified%20end--to--end-brightgreen)](docs/VERIFICATION.md)
+[![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/) [![R 4.6](https://img.shields.io/badge/R-4.6.1-276DC3)](https://www.r-project.org/) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21862534-blue)](https://doi.org/10.5281/zenodo.21862534) [![License: MIT + CC-BY](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY-green)](LICENSE) [![Reproduction: verified](https://img.shields.io/badge/Reproduction-verified%20end--to--end-brightgreen)](docs/VERIFICATION.md)
 
 ## Key findings at a glance
 
@@ -58,11 +58,11 @@ See [`docs/PIPELINE.md`](docs/PIPELINE.md) for the full lineage map and [`docs/S
 | `code/05_event_curation/` | Gold-standard event curation & source-verification scripts |
 | `code/06_analysis/` | PPML suite, event-study suite (9 modules), 17 revision tests, fair-coverage rerun with comparison ledger |
 | `code/07_figures/` | All figure scripts (R, ggplot2) |
-| `data/core/` | The 8 release datasets (fair-coverage scores, panel, 712 events, Pew panel) |
-| `data/appendix_tables/` | 27 CSVs backing every table in paper & SI |
+| `data/core/` | The release datasets (fair-coverage scores ×4 DBs, panel, 712 events + gold-standard, Pew panel, versions/leaders/auxiliary) |
+| `data/appendix_tables/` | 33 CSVs backing every table in paper & SI |
 | `figures/` | All manuscript figures (300 dpi) |
 
-Raw event data (3.5 GB: GDELT/ICEWS retrievals, Phoenix source package) and the full unabridged package are archived separately on Zenodo: **[DOI placeholder — see `docs/DATA_SOURCES.md`]**. Source databases are public: GDELT Project, ICEWS (doi:10.7910/DVN/28075), Phoenix (doi:10.13012/B2IDB-0647142_V3).
+Raw event data (3.5 GB: GDELT/ICEWS retrievals, Phoenix source package) and the full unabridged package are archived separately on Zenodo: **[doi:10.5281/zenodo.21862534](https://doi.org/10.5281/zenodo.21862534)**. Source databases are public: GDELT Project, ICEWS (doi:10.7910/DVN/28075), Phoenix (doi:10.13012/B2IDB-0647142_V3).
 
 ## Reproduce
 

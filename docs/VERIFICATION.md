@@ -36,4 +36,4 @@
 ## Known notes
 
 - `events_713.csv` files were superseded archival versions (713 events) and are **not included** in this lean edition; the current gold standard is 712.
-- Figure scripts reference pre-rename paths in two places (`Table_S4_1R` → now `data/appendix_tables/Table_S7_1R...`; legacy `311工程\` prefix). Remap as shown in `docs/PIPELINE.md`.
+- Figure scripts read appendix CSVs via `data/appendix_tables/` (2026-08-09 renumbering: `Table_S9_1R...`, `Table_S6_5/6_7/6_8...`; legacy `311工程\` prefix removed).

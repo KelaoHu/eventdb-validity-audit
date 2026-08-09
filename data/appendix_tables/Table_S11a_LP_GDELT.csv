@@ -1,5 +1,5 @@
 ﻿,Shock specification,Trade flow,h=0,h=1,h=2,h=3,h=4,h=5,h=6
-# Table S10a | Local projection estimates for GDELT (h=0–6),,,,,,,,,
+# Table S11-2a | Local projection estimates for GDELT (h=0–6),,,,,,,,,
 ,GD-Export,Trade_Exports,0.010** (0.005),0.009* (0.005),0.006 (0.006),0.006 (0.006),0.006 (0.005),0.007 (0.005),0.008 (0.006)
 ,GD-Export,Trade_Imports,0.011 (0.008),0.011 (0.007),0.009 (0.007),0.011 (0.008),0.010 (0.007),0.012* (0.007),0.013** (0.007)
 ,GD-Export,Trade_Total,0.009* (0.005),0.009* (0.005),0.007 (0.005),0.006 (0.005),0.008 (0.005),0.008 (0.005),0.009* (0.005)

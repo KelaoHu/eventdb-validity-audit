@@ -1,5 +1,5 @@
 ﻿,event_category,db,window,n_events,n_hit,hit_rate,quadclass,coop_conf
-# Table S7 | Hit rate by event category across four databases and three windows,,,,,,,,
+# Table S9-1 | Hit rate by event category across four databases and three windows,,,,,,,,
 ,Detention / judicial dispute,GDELT,W_strict,6.0,6.0,1.0,Material conflict,Conflict/Shock
 ,Detention / judicial dispute,GDELT,W_1m,6.0,6.0,1.0,Material conflict,Conflict/Shock
 ,Detention / judicial dispute,GDELT,W_2m,6.0,5.0,0.833,Material conflict,Conflict/Shock

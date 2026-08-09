@@ -1,5 +1,5 @@
 ﻿,Shock specification,Trade flow,h=0,h=1,h=2,h=3,h=4,h=5,h=6
-# Table S10c | Local projection estimates for Phoenix (h=0–6),,,,,,,,,
+# Table S11-2c | Local projection estimates for Phoenix (h=0–6),,,,,,,,,
 ,PH-Export,Trade_Exports,-0.001 (0.003),-0.005 (0.003),-0.003 (0.003),-0.001 (0.003),-0.001 (0.003),-0.001 (0.003),0.000 (0.003)
 ,PH-Export,Trade_Imports,0.009** (0.005),0.004 (0.003),0.009** (0.004),0.007** (0.003),0.007* (0.004),0.007** (0.003),0.007* (0.004)
 ,PH-Export,Trade_Total,0.004 (0.003),-0.001 (0.002),0.002 (0.003),0.002 (0.002),0.003 (0.002),0.002 (0.002),0.003 (0.003)

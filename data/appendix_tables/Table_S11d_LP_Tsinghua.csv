@@ -1,5 +1,5 @@
 ﻿,Shock specification,Trade flow,h=0,h=1,h=2,h=3,h=4,h=5,h=6
-# Table S10d | Local projection estimates for Tsinghua (h=0–6),,,,,,,,,
+# Table S11-2d | Local projection estimates for Tsinghua (h=0–6),,,,,,,,,
 ,TS-Export,Trade_Exports,-0.009** (0.005),-0.012** (0.006),-0.013** (0.005),-0.010* (0.005),-0.011** (0.005),-0.012** (0.005),-0.011*** (0.004)
 ,TS-Export,Trade_Imports,-0.002 (0.008),0.001 (0.007),0.003 (0.007),0.005 (0.008),0.006 (0.006),0.006 (0.005),0.004 (0.006)
 ,TS-Export,Trade_Total,-0.005 (0.005),-0.006 (0.006),-0.005 (0.006),-0.004 (0.006),-0.004 (0.005),-0.004 (0.004),-0.005 (0.004)

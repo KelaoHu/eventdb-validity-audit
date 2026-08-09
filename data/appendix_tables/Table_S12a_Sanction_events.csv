@@ -1,5 +1,5 @@
 ﻿,ISO,Country,YearMonth,event_type,covid_period,Import_t_minus1,Import_t_plus1,Import_t_plus2,delta_1,delta_2,pct_change_1,pct_change_2,direction_1,direction_2
-# Table S9a | List of 22 sanction/technology control events against China (t=-1 to t=+2),,,,,,,,,,,,,,
+# Table S12-1 | List of 22 sanction/technology control events against China (t=-1 to t=+2),,,,,,,,,,,,,,
 ,AE,United Arab Emirates,2019-04-01,Tech control,0.0,1633.75574,1038.93203,977.10738,-594.82371,-656.64836,-0.364083623663351,-0.4019256636246,Decrease,Decrease
 ,AU,Australia,2018-08-01,Tech control,0.0,9787.18998,8753.94741,8499.41478,-1033.24257,-1287.7752,-0.105570911784835,-0.13157762367253,Decrease,Decrease
 ,BR,Brazil,2024-03-01,Economic sanction,0.0,9348.519208,9403.022825,10264.320702,54.5036170000003,915.801494000001,0.0058301871972792,0.0979621984641486,Increase,Increase

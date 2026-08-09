@@ -5,9 +5,9 @@ suppressMessages({
 })
 
 ROOT <- "C:/Users/胡克劳/Desktop/311工程数据"
-F_S87 <- file.path(ROOT, "05_文档/附录数据表/Table_S8_7_convergence.csv")
-F_S88 <- file.path(ROOT, "05_文档/附录数据表/Table_S8_8_events.csv")
-F_S85 <- file.path(ROOT, "05_文档/附录数据表/Table_S8_5_case_enumeration.csv")
+F_S87 <- "data/appendix_tables/Table_S6_7_convergence.csv"   # repo-relative（从仓根目录运行）
+F_S88 <- "data/appendix_tables/Table_S6_8_events.csv"
+F_S85 <- "data/appendix_tables/Table_S6_5_case_enumeration.csv"
 F_DIR <- file.path(ROOT, "03_检验与分析套件/重跑_公平覆盖期_202607/02_事件研究套件/fair/05_领导人会晤效应与双边关系/code/results/direction_summary.csv")
 OUT <- "C:/Users/胡克劳/Desktop/311工程论文_图件_R/fig06_案例二/output/fig06"
 

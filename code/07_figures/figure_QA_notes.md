@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 | 1a | 25 国，公共窗口 2002-01–2019-03（n=207 月） | Spearman ρ | — | country_level_correlations.csv（Geometric Mean+Aggregated+GDELT_vs_ICEWS） |
 | 1b | 712 条事件年度计数 | — | — | events_712.csv |
-| 2a | 事件类型分组命中率（合作/冲突冲击） | 严格窗口命中率 % | 口径：GDELT/清华全样本、ICEWS/Phoenix fair | Table_S4_1R + hitrate_coop_conflict_fair_era.csv |
+| 2a | 事件类型分组命中率（合作/冲突冲击） | 严格窗口命中率 % | 口径：GDELT/清华全样本、ICEWS/Phoenix fair | Table_S9_1R + hitrate_coop_conflict_fair_era.csv |
 | 2b | 各分面 n 标注于图内（GDELT/ICEWS/清华 41 neg/58 pos；Phoenix 37/55） | 均值响应 + bootstrap CI | bootstrap 显著（p_boot<0.05，实心/空心编码） | data_fair 重算 + m1_irf_significance.csv（重算一致性断言） |
 | 3a | PPML-HDFE LP，h=0–6 | 系数热图 | * = p<0.05 | irf_all.csv（fair） |
 | 3b | 22 个制裁/管制事件 | 组内中位数（图内标注） | 方向二分类 | event_import_changes.csv（16/22 闸门） |
@@ -23,9 +23,9 @@
 | 5a | 频率扫描 k=1–24 | 累计系数 | p<0.05 实心/空心（图例在图） | B_freqscan.csv |
 | 5b | 前向效应 h=−3..+6 | 系数 + 95% CI | 空心点标 n.s. | D_forward.csv |
 | 5c | AR(1) 残差回归 | 累计效应 + 95% CI | — | A_AR1.csv（清华仅总贸易，分流向未估计） |
-| 6a | Pew 17 国 170 国家-年（清华 10 国标注探索性） | between ρ（95% CI）/ within FE β | 显著性星号 | Table_S8_7 |
-| 6b | 左：GDELT 方向梯度（n 见图 4a）；右：Pew 访问级别 FE β | 点估计 | n.s. 标注（第三方会晤 p=0.120） | direction_summary.csv + Table_S8_8 |
-| 6c | 3 个负面事件个案（20/25=80% 标注） | 民调 z 分前后对比 | — | Table_S8_5（端点=真实调查波次年） |
+| 6a | Pew 17 国 170 国家-年（清华 10 国标注探索性） | between ρ（95% CI）/ within FE β | 显著性星号 | Table_S6_7 |
+| 6b | 左：GDELT 方向梯度（n 见图 4a）；右：Pew 访问级别 FE β | 点估计 | n.s. 标注（第三方会晤 p=0.120） | direction_summary.csv + Table_S6_8 |
+| 6c | 3 个负面事件个案（20/25=80% 标注） | 民调 z 分前后对比 | — | Table_S6_5（端点=真实调查波次年） |
 
 ## 本轮修改清单（before → after）
 - fig01：锚点虚线改 segment（不再穿字）；UAE 引线改道阿拉伯海。

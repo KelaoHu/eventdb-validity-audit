@@ -1,5 +1,5 @@
 ﻿,sample,n_total,window,n_increase,pct_increase,n_decrease,pct_decrease,n_no_change,pct_no_change,median_pct_change,binom_p_increase,binom_ci_lo,binom_ci_hi
-# Table S9b | Summary of import direction changes for sanction events,,,,,,,,,,,,,
+# Table S12-2 | Summary of import direction changes for sanction events,,,,,,,,,,,,,
 ,All partner-to-China events,22.0,t = +1,10.0,45.4545454545455,12.0,54.5454545454545,0.0,0.0,-0.0118932712712884,0.831811904907227,0.243861865923017,0.677895245446828
 ,All partner-to-China events,22.0,t = +2,16.0,72.7272727272727,6.0,27.2727272727273,0.0,0.0,0.0581786171681566,0.0524787902832032,0.497778798733651,0.892710751629603
 ,Tech control only,11.0,t = +1,6.0,54.5454545454545,5.0,45.4545454545455,0.0,0.0,0.0248851457392793,1.0,0.233793597659345,0.832511905936293

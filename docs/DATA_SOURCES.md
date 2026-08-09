@@ -2,7 +2,7 @@
 
 本仓库（GitHub）存放派生数据（月度指数、面板、黄金标准事件、附录表）。**原始检索数据（3.5 GB）因体积与源站条款存于 Zenodo 归档**：
 
-> **Zenodo archive**: [DOI 待回填 / to be assigned upon deposit]
+> **Zenodo archive**: https://doi.org/10.5281/zenodo.21862534
 > 内容：GDELT 中国×25 国原始双边事件（2.36 GB）、ICEWS 原始双边事件（210 MB）、Phoenix 发布包（894 MB）与整理版、清华指数原始 PDF 与提取校验全套。
 
 ## 上游公开数据源（请遵循原发布方条款）
