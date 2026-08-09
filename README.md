@@ -3,7 +3,7 @@
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/) [![R 4.6](https://img.shields.io/badge/R-4.6.1-276DC3)](https://www.r-project.org/) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21862534-blue)](https://doi.org/10.5281/zenodo.21862534) [![License: MIT + CC-BY](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY-green)](LICENSE) [![Reproduction: verified](https://img.shields.io/badge/Reproduction-verified%20end--to--end-brightgreen)](docs/VERIFICATION.md)
 
 > **9,659,113 machine-coded events. 712 ground truths verified by hand, one source at a time. Four databases. 25 countries. 23 years.**
-> The most comprehensive validity audit of political event databases ever undertaken — and its verdict rewrites how the field must choose its instruments:
+> The most comprehensive validity audit of political event databases to date — and its verdict rewrites how the field must choose its instruments:
 > ***validity is not a property of a database, but of the match between a database and its audience.***
 
 ### By the numbers
