@@ -1,4 +1,4 @@
-# Measurement validity in political event databases is audience-specific: evidence from China and its 25 trading partners
+# Choosing the Ruler: An Audience-Specific Audit of Measurement Validity in Political Event Databases — Evidence from Trade and Public Opinion between China and Its 25 Trading Partners
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/) [![R 4.6](https://img.shields.io/badge/R-4.6.1-276DC3)](https://www.r-project.org/) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21862534-blue)](https://doi.org/10.5281/zenodo.21862534) [![License: MIT + CC-BY](https://img.shields.io/badge/License-MIT%20%2B%20CC--BY-green)](LICENSE) [![Reproduction: verified](https://img.shields.io/badge/Reproduction-verified%20end--to--end-brightgreen)](docs/VERIFICATION.md)
 
