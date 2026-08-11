@@ -15,4 +15,4 @@ score x has_positive (E4a),0.534,0.207,0.749
 score x has_conflict (E4b),0.584,0.872,0.882
 
 Notes:
-All interaction terms non-significant (p > 0.05). E1b skipped per pre-registration rule (E1a non-significant). E5 case enumeration in Table_S8_5.
+All interaction terms non-significant (p > 0.05). E1b skipped per pre-registration rule (E1a non-significant). E5 case enumeration in Table_S6_5.

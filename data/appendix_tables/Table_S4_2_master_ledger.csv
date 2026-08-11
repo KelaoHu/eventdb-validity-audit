@@ -1,4 +1,4 @@
-Hypothesis,Test design,Key evidence,Conclusion
+﻿Hypothesis,Test design,Key evidence,Conclusion
 H1 Country gradient,"Pairwise correlations and directional agreement across the four databases (common window 2002-01–2019-03, n=207); robustness under 5 aggregation algorithms",GDELT–ICEWS Spearman: 0.633 (China–Japan) vs 0.031 (China–Brazil); directional agreement 31.3%; sign and direction unchanged under all 5 algorithms,Supported: consistency diverges systematically with media density
 H2 Coding philosophies,Gold-standard hit rates for 712 events (strict/relaxed windows × cooperation/conflict groups),Overall hit rates: GDELT 68.3 / ICEWS 66.1 / Phoenix 65.1 / Tsinghua 62.7%; GDELT highest on cooperation (67.5%, strict window),"Supported in revised form: machines capture behavior, experts judge intensity"
 H3 Measurement changes conclusions,PPML-HDFE + local projections (h=0–6); four-database horse race,"Only GDELT significant at baseline (total trade h=0 β=0.0127, p=0.026); horse race: GDELT import β=0.0113 (p=0.014) survives",Supported: switching databases changes sign and significance

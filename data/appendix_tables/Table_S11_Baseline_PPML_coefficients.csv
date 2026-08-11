@@ -12,4 +12,4 @@
 ,YearMonth FE,Yes,,,
 ,Clustering,Country,,,
 ,,,,,
-"# Notes: Dependent variable: total bilateral trade (Trade_Total). Political shock = AR(1) residual of z-scored GDELT aggregated index. Controls: ln(GDP_i×GDP_j), ln(exchange rate), FTA dummy. Fixed effects: country (ISO) and year-month (YearMonth). Standard errors clustered at country level. ***p<0.001, **p<0.01, *p<0.05.",,,,,
+"# Notes: Dependent variable: total bilateral trade (Trade_Total). Political shock = z-scored GDELT aggregated index (baseline specification). Controls: ln(GDP_i×GDP_j), ln(exchange rate), FTA dummy. Fixed effects: country (ISO) and year-month (YearMonth). Standard errors clustered at country level. ***p<0.001, **p<0.01, *p<0.05.",,,,,

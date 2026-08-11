@@ -1,13 +1,7 @@
 ﻿,Shock specification,Trade flow,h=0,h=1,h=2,h=3,h=4,h=5,h=6
-# Table S11-2d | Local projection estimates for Tsinghua (h=0–6),,,,,,,,,
-,TS-Export,Trade_Exports,-0.009** (0.005),-0.012** (0.006),-0.013** (0.005),-0.010* (0.005),-0.011** (0.005),-0.012** (0.005),-0.011*** (0.004)
-,TS-Export,Trade_Imports,-0.002 (0.008),0.001 (0.007),0.003 (0.007),0.005 (0.008),0.006 (0.006),0.006 (0.005),0.004 (0.006)
-,TS-Export,Trade_Total,-0.005 (0.005),-0.006 (0.006),-0.005 (0.006),-0.004 (0.006),-0.004 (0.005),-0.004 (0.004),-0.005 (0.004)
-,TS-Import,Trade_Exports,-0.009** (0.005),-0.012** (0.006),-0.013** (0.005),-0.010* (0.005),-0.011** (0.005),-0.012** (0.005),-0.011*** (0.004)
-,TS-Import,Trade_Imports,-0.002 (0.008),0.001 (0.007),0.003 (0.007),0.005 (0.008),0.006 (0.006),0.006 (0.005),0.004 (0.006)
-,TS-Import,Trade_Total,-0.005 (0.005),-0.006 (0.006),-0.005 (0.006),-0.004 (0.006),-0.004 (0.005),-0.004 (0.004),-0.005 (0.004)
-,TS-Total,Trade_Exports,-0.009** (0.005),-0.012** (0.006),-0.013** (0.005),-0.010* (0.005),-0.011** (0.005),-0.012** (0.005),-0.011*** (0.004)
-,TS-Total,Trade_Imports,-0.002 (0.008),0.001 (0.007),0.003 (0.007),0.005 (0.008),0.006 (0.006),0.006 (0.005),0.004 (0.006)
-,TS-Total,Trade_Total,-0.005 (0.005),-0.006 (0.006),-0.005 (0.006),-0.004 (0.006),-0.004 (0.005),-0.004 (0.004),-0.005 (0.004)
+# Table S11-2d | Local projection estimates for the Tsinghua index (h=0–6),,,,,,,,,
+,Tsinghua shock,Trade_Exports,-0.009** (0.005),-0.012** (0.006),-0.013** (0.005),-0.010* (0.005),-0.011** (0.005),-0.012** (0.005),-0.011*** (0.004)
+,Tsinghua shock,Trade_Imports,-0.002 (0.008),0.001 (0.007),0.003 (0.007),0.005 (0.008),0.006 (0.006),0.006 (0.005),0.004 (0.006)
+,Tsinghua shock,Trade_Total,-0.005 (0.005),-0.006 (0.006),-0.005 (0.006),-0.004 (0.006),-0.004 (0.005),-0.004 (0.004),-0.005 (0.004)
 ,,,,,,,,,
-"# Notes: Political shock = z-scored monthly Tsinghua index (baseline LP specification). Cells show coefficient (standard error in parentheses). Controls: ln(GDP_i×GDP_j), ln(exchange rate), FTA dummy. Fixed effects: country and year-month. Standard errors clustered at country level. ***p<0.01, **p<0.05, *p<0.10",,,,,,,,,
+"# Notes: Political shock = z-scored monthly Tsinghua index (baseline LP specification). The Tsinghua index is a single expert series without directional decomposition, so one shock specification applies to all three trade flows. Cells show coefficient (standard error in parentheses). Controls: ln(GDP_i×GDP_j), ln(exchange rate), FTA dummy. Fixed effects: country and year-month. Standard errors clustered at country level. ***p<0.01, **p<0.05, *p<0.10",,,,,,,,,

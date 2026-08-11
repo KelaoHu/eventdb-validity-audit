@@ -1,4 +1,4 @@
-Dimension,Specification,Result,Reading
+﻿Dimension,Specification,Result,Reading
 Time,AR(1) residual (total trade),"h = 0: β = 0.0103 (p = 0.026); cumulative 0.072 [0.008, 0.136]",Consistent with baseline
 Time,Frequency-response scan,significant at k ≤ 6; decays to ~42% at k = 24 but remains significant,Robust in short-to-medium windows
 Time,Truncated at 2019-03,Import effect robust; export effect vanishes,Export conclusion relies on the pandemic-inclusive sample

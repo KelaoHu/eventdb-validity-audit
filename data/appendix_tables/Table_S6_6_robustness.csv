@@ -1,4 +1,4 @@
-condition,test,db,value,metric,n,n_countries,d,beta,r2
+﻿condition,test,db,value,metric,n,n_countries,d,beta,r2
 R1_exclude_US,T1.1_within,GDELT,0.394,mean_rho,157,16,,,
 R1_exclude_US,T1.1_within,ICEWS,0.355,mean_rho,157,16,,,
 R1_exclude_US,T1.1_within,Phoenix,0.356,mean_rho,157,16,,,

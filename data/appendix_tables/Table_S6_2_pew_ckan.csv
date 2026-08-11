@@ -1,4 +1,4 @@
-﻿# Table S8-2 | Pew Global Attitudes waves: CKAN package & resource IDs (opendata.com.pk). 2002/2004 waves lack the China favorability question; no 2007 wave.
+﻿# Table S6-2 | Pew Global Attitudes waves: CKAN package & resource IDs (opendata.com.pk). 2002/2004 waves lack the China favorability question; no 2007 wave.
 wave,ckan_package_id,resource_id
 2005 Spring 22-Nation,f7f7739f-fb9c-4d9d-b588-e1f8f13ad92d,7f9acf98-955b-4721-a80a-cbbd62ab003a
 2006 Spring 15-Nation,6e82bfc1-1583-4f25-83dc-40a9a2252e34,1f545fa2-a8cf-4533-9226-974c0deef06f

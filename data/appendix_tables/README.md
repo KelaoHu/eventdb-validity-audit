@@ -8,15 +8,15 @@
 | 文件 | 内容 |
 |------|------|
 | `Table_1_hit_rates.csv` | 正文 Table 1：四库黄金标准命中率（严格/公共/放宽三窗口） |
-| `Table_2_trade_path.csv` | 正文 Table 2：Case 1 贸易路径结果汇总（LP/PPML/赛马/信号梯度） |
-| `Table_3_opinion_path.csv` | 正文 Table 3：Case 2 民调路径结果汇总（Pew 17 国 × 13 波，N=170） |
+| `Table_3_trade_path.csv` | 正文 Table 3：Case 1 贸易路径结果汇总（LP/PPML/赛马/信号梯度） |
+| `Table_4_opinion_path.csv` | 正文 Table 4：Case 2 民调路径结果汇总（Pew 17 国 × 13 波，N=170） |
 
 ## S4 从正文移入的表
 | 文件 | 内容 |
 |------|------|
 | `Table_S4_1_sources_coverage.csv` | S4-1 四库来源与覆盖（GDELT 8,946,603 事件等） |
 | `Table_S4_2_master_ledger.csv` | S4-2 四假说→证据→结论总账（fair 口径） |
-| `Table_S4_3_robustness_map.csv` | S4-3 GDELT 贸易效应稳健性地图 |
+| `Table_2_robustness_map.csv` | 正文 Table 2：GDELT 贸易效应稳健性地图 |
 
 ## S5 黄金标准事件库的信度检验
 | 文件 | 内容 |

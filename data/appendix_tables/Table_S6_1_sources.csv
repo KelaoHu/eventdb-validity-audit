@@ -1,4 +1,4 @@
-﻿# Table S8-1 | Metadata of six public-opinion data sources (Case 2)
+﻿# Table S6-1 | Metadata of six public-opinion data sources (Case 2)
 source,indicator,coverage,question_text,coding_rule,sample_size,access_path,verification
 Pew Research Center (Global Attitudes & Trends),四级好感度%,2005-2020,"""Please tell me if you have a very favorable, somewhat favorable, somewhat unfavorable or very unfavorable opinion of China?""",好感度%=(1+2)/(1+2+3+4)×100；8/9/99剔除,700-3600/国/年,pewresearch.org（需注册）/ opendata.com.pk CKAN门户,已实测验证
 Gallup (World Affairs),四级好感度%,1985-2025,"""Please tell me if you have a very favorable, mostly favorable, mostly unfavorable, or very unfavorable opinion of China?""",好感度%=Very favorable+Mostly favorable,约1000/年（美国）,Datawrapper API (datawrapper.dwcdn.net),已实测验证

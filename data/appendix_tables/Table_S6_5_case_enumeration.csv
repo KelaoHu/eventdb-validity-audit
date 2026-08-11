@@ -1,4 +1,4 @@
-group,country,year,event_name,event_category,impact,pz_this,pz_prev,prev_year,delta_pz,direction
+﻿group,country,year,event_name,event_category,impact,pz_this,pz_prev,prev_year,delta_pz,direction
 制裁与科技管制 (Sanctions + Tech Control),Australia,2018,Australia bans Huawei from 5G,Tech control / export restriction,negative,0.392,1.377,2017,-0.985,↓
 制裁与科技管制 (Sanctions + Tech Control),Canada,2019,China suspends canola seed licences of Richardson and Viterra,Economic sanction / tariff barrier,negative,-1.099,0.11,2018,-1.209,↓
 制裁与科技管制 (Sanctions + Tech Control),Germany,2016,Midea acquires Kuka amid technology concerns,Economic sanction / tariff barrier,negative,-1.034,-0.998,2014,-0.036,→

@@ -190,4 +190,4 @@
 ,Strategic partnership upgrade,Tsinghua,W_1m,20.0,15.0,0.75,Verbal cooperation,Cooperation
 ,Strategic partnership upgrade,Tsinghua,W_2m,20.0,16.0,0.8,Verbal cooperation,Cooperation
 ,,,,,,,,
-"# Notes: Hit rate = proportion of events detected within the specified time window. Fair-coverage sample: ICEWS ≤ 2023-04, Phoenix ≤ 2019-03.",,,,,,,,
+"# Notes: Hit rate = proportion of events detected within the specified time window. Fair-coverage sample: ICEWS ≤ 2023-04, Phoenix ≤ 2019-03. Phoenix has no gold-standard records in the High-level visit category (rows omitted). Visit-related categories are shown for library completeness; the hit-rate tests exclude leader interactions (main-text Section 2).",,,,,,,,

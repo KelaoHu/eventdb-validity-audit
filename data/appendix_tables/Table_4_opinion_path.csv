@@ -1,4 +1,4 @@
-Item,GDELT,ICEWS,Phoenix,Tsinghua index
+﻿Item,GDELT,ICEWS,Phoenix,Tsinghua index
 Cross-national Spearman ρ [95% CI],"+0.132 [−0.413, +0.589]","−0.005 [−0.589, +0.541]","+0.348 [−0.194, +0.749]","+0.394 [−0.463, +0.951]"
 Within-country FE β (SE),0.240 (0.066),0.191 (0.050),0.120 (0.025),0.141 (0.053)
 Within-country FE p value,0.002,0.002,<0.001,0.027 (exploratory)
