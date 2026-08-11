@@ -1,7 +1,25 @@
-﻿,Placebo type,True coefficient,Placebo mean,Placebo SD,P-value,Permutations
-"# Table S11-4 | Placebo tests for baseline PPML model (GDELT, total trade, h=0)",,,,,,
-,国家标签置换,0.013,-0.0002,0.0026,0.000,100.0
-,随机正态冲击,0.013,0.0000,0.0026,0.000,100.0
-,时间块平移,0.013,0.0106,0.0022,0.220,100.0
-,,,,,,
-# Notes: True coefficient from baseline PPML regression. Country label permutation: random reassignment of shock within country. Random normal shock: replace true shock with standard normal. Time block shift: randomly lag shock by 6–24 months. P-value = proportion of placebo coefficients with absolute value ≥ true coefficient. 100 permutations per test.,,,,,,
+﻿,Placebo type,h,True coefficient (p),Placebo mean,Placebo SD,Placebo p-value,Permutations
+"# Table S11-4 | Placebo tests for the baseline PPML model (GDELT, total trade, h = 0–6)",,,,,,,
+,Country label permutation,0,"0.0127 (0.026)",0.0003,0.0030,0.000,200
+,Country label permutation,1,"0.0124 (0.018)",0.0003,0.0031,0.000,200
+,Country label permutation,2,"0.0111 (0.027)",0.0001,0.0032,0.005,200
+,Country label permutation,3,"0.0097 (0.081)",0.0001,0.0031,0.005,200
+,Country label permutation,4,"0.0116 (0.042)",0.0001,0.0031,0.000,200
+,Country label permutation,5,"0.0125 (0.023)",0.0001,0.0030,0.000,200
+,Country label permutation,6,"0.0123 (0.022)",0.0000,0.0030,0.000,200
+,Random normal shock,0,"0.0127 (0.026)",-0.0001,0.0027,0.000,200
+,Random normal shock,1,"0.0124 (0.018)",-0.0001,0.0028,0.000,200
+,Random normal shock,2,"0.0111 (0.027)",-0.0002,0.0027,0.000,200
+,Random normal shock,3,"0.0097 (0.081)",-0.0003,0.0028,0.000,200
+,Random normal shock,4,"0.0116 (0.042)",-0.0003,0.0027,0.000,200
+,Random normal shock,5,"0.0125 (0.023)",-0.0003,0.0026,0.000,200
+,Random normal shock,6,"0.0123 (0.022)",-0.0003,0.0027,0.000,200
+,Time block permutation,0,"0.0127 (0.026)",0.0008,0.0038,0.005,200
+,Time block permutation,1,"0.0124 (0.018)",0.0007,0.0037,0.005,200
+,Time block permutation,2,"0.0111 (0.027)",0.0003,0.0038,0.005,200
+,Time block permutation,3,"0.0097 (0.081)",-0.0002,0.0038,0.010,200
+,Time block permutation,4,"0.0116 (0.042)",-0.0006,0.0036,0.005,200
+,Time block permutation,5,"0.0125 (0.023)",-0.0005,0.0038,0.000,200
+,Time block permutation,6,"0.0123 (0.022)",0.0001,0.0038,0.005,200
+,,,,,,,
+# Notes: True coefficient from the baseline PPML regression (GDELT, total trade). Country label permutation: shocks randomly reshuffled across countries within the same year-month. Random normal shock: true shocks replaced by iid standard-normal draws. Time block permutation: contiguous 12-month blocks of the shock series permuted within countries. Placebo p-value = share of placebo coefficients with absolute value at least the true coefficient. 200 permutations per combination.,,,,,,,
