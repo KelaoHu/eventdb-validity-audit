@@ -2,7 +2,7 @@ Dimension,Specification,Result,Reading
 Time,AR(1) residual (total trade),"h = 0: β = 0.0103 (p = 0.026); cumulative 0.072 [0.008, 0.136]",Consistent with baseline
 Time,Frequency-response scan,significant at k ≤ 6; decays to ~42% at k = 24 but remains significant,Robust in short-to-medium windows
 Time,Truncated at 2019-03,Import effect robust; export effect vanishes,Export conclusion relies on the pandemic-inclusive sample
-Sample,Excluding the US,β=0.0115 (p=0.038),Robust
+Sample,Excluding the U.S.,β=0.0115 (p=0.038),Robust
 Sample,Excluding the pandemic period,Visit effect holds; remote-talk negative effect grows; sanction import effect not identified,Partially holds
 Cross-section,Event-density groups,Positive effect concentrated in high-density countries; low-density interaction −0.023 (p=0.002),Not generalizable to low-density countries
 Cross-section,Interactions with trade dependence / FTA / development level,None significant,No heterogeneity channel
