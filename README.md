@@ -8,7 +8,7 @@
 |---|---|---|---|
 | GDELT · ICEWS · Phoenix | double-coded gold standard | monthly panel, n = 6,685 | inter-coder reliability |
 
-![Cross-country consistency gradient](figures/Figure1.png)
+![Cross-country consistency gradient](https://cdn.jsdelivr.net/gh/KelaoHu/eventdb-validity-audit@main/figures/Figure1.png)
 
 *Figure 1. GDELT–ICEWS monthly-index correlations across 25 bilateral relationships (heatmap, ranked) and the annual distribution of the 712 gold-standard events (bars).*
 
@@ -40,7 +40,7 @@ A practical summary for readers who just need a defensible choice:
 | High-media-coverage partners (Japan, US, …) | Databases largely agree — any choice defensible |
 | Low-coverage partners (Brazil, …) | Treat any single-database result with caution (ρ as low as 0.031) |
 
-![Machines capture behavior, experts judge intensity](figures/Figure2.png)
+![Machines capture behavior, experts judge intensity](https://cdn.jsdelivr.net/gh/KelaoHu/eventdb-validity-audit@main/figures/Figure2.png)
 
 *Figure 2. Gold-standard hit rates by event type (a) and event-window responses to negative vs positive events (b).*
 
